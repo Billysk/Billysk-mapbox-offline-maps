@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-02-08T12:00:00Z",
+  "lastUpdated": "2026-02-08T19:00:00Z",
   "regions": [
     {
       "id": "slovakia",
@@ -275,6 +275,110 @@
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/switzerland-v1/switzerland-addresses.zip",
         "sizeBytes": 118279901
+      }
+    },
+    {
+      "id": "france",
+      "version": "v1",
+      "nameKey": "country_france",
+      "flagEmoji": "🇫🇷",
+      "boundingBox": [-5.1413, 41.3337, 9.5600, 51.0890],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/france-v1/france-routing-graph.zip",
+        "sizeBytes": 1220070445
+      },
+      "tiles": {
+        "sizeBytes": 3382120135,
+        "parts": [
+          {
+            "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/france-v1/france-map-tiles.zip.001",
+            "sizeBytes": 1610612736
+          },
+          {
+            "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/france-v1/france-map-tiles.zip.002",
+            "sizeBytes": 1610612736
+          },
+          {
+            "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/france-v1/france-map-tiles.zip.003",
+            "sizeBytes": 160894663
+          }
+        ]
+      }
+    },
+    {
+      "id": "spain",
+      "version": "v1",
+      "nameKey": "country_spain",
+      "flagEmoji": "🇪🇸",
+      "boundingBox": [-9.3015, 35.9468, 4.3279, 43.7483],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/spain-v1/spain-routing-graph.zip",
+        "sizeBytes": 689573032
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/spain-v1/spain-map-tiles.zip",
+        "sizeBytes": 1214853738
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/spain-v1/spain-addresses.zip",
+        "sizeBytes": 119785574
+      }
+    },
+    {
+      "id": "portugal",
+      "version": "v1",
+      "nameKey": "country_portugal",
+      "flagEmoji": "🇵🇹",
+      "boundingBox": [-9.5261, 36.9602, -6.1891, 42.1543],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/portugal-v1/portugal-routing-graph.zip",
+        "sizeBytes": 217738417
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/portugal-v1/portugal-map-tiles.zip",
+        "sizeBytes": 345988153
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/portugal-v1/portugal-addresses.zip",
+        "sizeBytes": 39626936
+      }
+    },
+    {
+      "id": "belgium",
+      "version": "v1",
+      "nameKey": "country_belgium",
+      "flagEmoji": "🇧🇪",
+      "boundingBox": [2.5134, 49.4969, 6.4083, 51.5051],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/belgium-v1/belgium-routing-graph.zip",
+        "sizeBytes": 99186754
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/belgium-v1/belgium-map-tiles.zip",
+        "sizeBytes": 416282953
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/belgium-v1/belgium-addresses.zip",
+        "sizeBytes": 198091041
+      }
+    },
+    {
+      "id": "netherlands",
+      "version": "v1",
+      "nameKey": "country_netherlands",
+      "flagEmoji": "🇳🇱",
+      "boundingBox": [3.3625, 50.7504, 7.2106, 53.5104],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/netherlands-v1/netherlands-routing-graph.zip",
+        "sizeBytes": 145797942
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/netherlands-v1/netherlands-map-tiles.zip",
+        "sizeBytes": 656307725
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/netherlands-v1/netherlands-addresses.zip",
+        "sizeBytes": 490038409
       }
     }
   ]
