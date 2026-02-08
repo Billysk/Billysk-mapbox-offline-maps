@@ -303,6 +303,10 @@
             "sizeBytes": 160894663
           }
         ]
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/france-v1/france-addresses.zip",
+        "sizeBytes": 471326556
       }
     },
     {
