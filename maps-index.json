@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-02-08T19:00:00Z",
+  "lastUpdated": "2026-02-09T23:30:00Z",
   "regions": [
     {
       "id": "slovakia",
       "version": "v1",
       "nameKey": "country_slovakia",
-      "flagEmoji": "🇸🇰",
+      "flagEmoji": "\ud83c\uddf8\ud83c\uddf0",
       "boundingBox": [16.8331, 47.7314, 22.5657, 49.6138],
       "routing": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/slovakia-v1/slovakia-routing-graph.zip",
@@ -25,7 +25,7 @@
       "id": "czech",
       "version": "v1",
       "nameKey": "country_czech",
-      "flagEmoji": "🇨🇿",
+      "flagEmoji": "\ud83c\udde8\ud83c\uddff",
       "boundingBox": [12.0905, 48.5518, 18.8593, 51.0557],
       "routing": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/czech-v1/czech-routing-graph.zip",
@@ -44,7 +44,7 @@
       "id": "poland",
       "version": "v1",
       "nameKey": "country_poland",
-      "flagEmoji": "🇵🇱",
+      "flagEmoji": "\ud83c\uddf5\ud83c\uddf1",
       "boundingBox": [14.1229, 49.0020, 24.1458, 54.8358],
       "routing": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/poland-v1/poland-routing-graph.zip",
@@ -63,7 +63,7 @@
       "id": "austria",
       "version": "v1",
       "nameKey": "country_austria",
-      "flagEmoji": "🇦🇹",
+      "flagEmoji": "\ud83c\udde6\ud83c\uddf9",
       "boundingBox": [9.5307, 46.3723, 17.1608, 49.0205],
       "routing": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/austria-v1/austria-routing-graph.zip",
@@ -82,7 +82,7 @@
       "id": "hungary",
       "version": "v1",
       "nameKey": "country_hungary",
-      "flagEmoji": "🇭🇺",
+      "flagEmoji": "\ud83c\udded\ud83c\uddfa",
       "boundingBox": [16.1138, 45.7370, 22.8977, 48.5856],
       "routing": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/hungary-v1/hungary-routing-graph.zip",
@@ -101,7 +101,7 @@
       "id": "germany",
       "version": "v1",
       "nameKey": "country_germany",
-      "flagEmoji": "🇩🇪",
+      "flagEmoji": "\ud83c\udde9\ud83c\uddea",
       "boundingBox": [5.8663, 47.2702, 15.0419, 55.0585],
       "routing": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/germany-v1/germany-routing-graph.zip",
@@ -129,7 +129,7 @@
       "id": "italy",
       "version": "v1",
       "nameKey": "country_italy",
-      "flagEmoji": "🇮🇹",
+      "flagEmoji": "\ud83c\uddee\ud83c\uddf9",
       "boundingBox": [6.6273, 36.6199, 18.5203, 47.0952],
       "routing": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/italy-v1/italy-routing-graph.zip",
@@ -148,7 +148,7 @@
       "id": "slovenia",
       "version": "v1",
       "nameKey": "country_slovenia",
-      "flagEmoji": "🇸🇮",
+      "flagEmoji": "\ud83c\uddf8\ud83c\uddee",
       "boundingBox": [13.3754, 45.4218, 16.5967, 46.8766],
       "routing": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/slovenia-v1/slovenia-routing-graph.zip",
@@ -167,7 +167,7 @@
       "id": "croatia",
       "version": "v1",
       "nameKey": "country_croatia",
-      "flagEmoji": "🇭🇷",
+      "flagEmoji": "\ud83c\udded\ud83c\uddf7",
       "boundingBox": [13.4896, 42.3930, 19.4471, 46.5469],
       "routing": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/croatia-v1/croatia-routing-graph.zip",
@@ -186,7 +186,7 @@
       "id": "serbia",
       "version": "v1",
       "nameKey": "country_serbia",
-      "flagEmoji": "🇷🇸",
+      "flagEmoji": "\ud83c\uddf7\ud83c\uddf8",
       "boundingBox": [18.82, 42.23, 23.01, 46.19],
       "routing": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/serbia-v1/serbia-routing-graph.zip",
@@ -205,7 +205,7 @@
       "id": "montenegro",
       "version": "v1",
       "nameKey": "country_montenegro",
-      "flagEmoji": "🇲🇪",
+      "flagEmoji": "\ud83c\uddf2\ud83c\uddea",
       "boundingBox": [18.43, 41.85, 20.36, 43.56],
       "routing": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/montenegro-v1/montenegro-routing-graph.zip",
@@ -224,7 +224,7 @@
       "id": "bulgaria",
       "version": "v1",
       "nameKey": "country_bulgaria",
-      "flagEmoji": "🇧🇬",
+      "flagEmoji": "\ud83c\udde7\ud83c\uddec",
       "boundingBox": [22.36, 41.24, 28.61, 44.21],
       "routing": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/bulgaria-v1/bulgaria-routing-graph.zip",
@@ -243,7 +243,7 @@
       "id": "romania",
       "version": "v1",
       "nameKey": "country_romania",
-      "flagEmoji": "🇷🇴",
+      "flagEmoji": "\ud83c\uddf7\ud83c\uddf4",
       "boundingBox": [20.22, 43.62, 29.69, 48.27],
       "routing": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/romania-v1/romania-routing-graph.zip",
@@ -262,7 +262,7 @@
       "id": "switzerland",
       "version": "v1",
       "nameKey": "country_switzerland",
-      "flagEmoji": "🇨🇭",
+      "flagEmoji": "\ud83c\udde8\ud83c\udded",
       "boundingBox": [5.96, 45.82, 10.49, 47.81],
       "routing": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/switzerland-v1/switzerland-routing-graph.zip",
@@ -281,7 +281,7 @@
       "id": "france",
       "version": "v1",
       "nameKey": "country_france",
-      "flagEmoji": "🇫🇷",
+      "flagEmoji": "\ud83c\uddeb\ud83c\uddf7",
       "boundingBox": [-5.1413, 41.3337, 9.5600, 51.0890],
       "routing": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/france-v1/france-routing-graph.zip",
@@ -313,7 +313,7 @@
       "id": "spain",
       "version": "v1",
       "nameKey": "country_spain",
-      "flagEmoji": "🇪🇸",
+      "flagEmoji": "\ud83c\uddea\ud83c\uddf8",
       "boundingBox": [-9.3015, 35.9468, 4.3279, 43.7483],
       "routing": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/spain-v1/spain-routing-graph.zip",
@@ -332,7 +332,7 @@
       "id": "portugal",
       "version": "v1",
       "nameKey": "country_portugal",
-      "flagEmoji": "🇵🇹",
+      "flagEmoji": "\ud83c\uddf5\ud83c\uddf9",
       "boundingBox": [-9.5261, 36.9602, -6.1891, 42.1543],
       "routing": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/portugal-v1/portugal-routing-graph.zip",
@@ -351,7 +351,7 @@
       "id": "belgium",
       "version": "v1",
       "nameKey": "country_belgium",
-      "flagEmoji": "🇧🇪",
+      "flagEmoji": "\ud83c\udde7\ud83c\uddea",
       "boundingBox": [2.5134, 49.4969, 6.4083, 51.5051],
       "routing": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/belgium-v1/belgium-routing-graph.zip",
@@ -370,7 +370,7 @@
       "id": "netherlands",
       "version": "v1",
       "nameKey": "country_netherlands",
-      "flagEmoji": "🇳🇱",
+      "flagEmoji": "\ud83c\uddf3\ud83c\uddf1",
       "boundingBox": [3.3625, 50.7504, 7.2106, 53.5104],
       "routing": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/netherlands-v1/netherlands-routing-graph.zip",
@@ -383,6 +383,17 @@
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/netherlands-v1/netherlands-addresses.zip",
         "sizeBytes": 490038409
+      }
+    },
+    {
+      "id": "europe-highways",
+      "version": "v1",
+      "nameKey": "europe_highways_map",
+      "flagEmoji": "\ud83c\uddea\ud83c\uddfa",
+      "boundingBox": [-25.0, 35.0, 45.0, 72.0],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/europe-highways-v1/europe-highways-routing-graph.zip",
+        "sizeBytes": 298384258
       }
     }
   ]
