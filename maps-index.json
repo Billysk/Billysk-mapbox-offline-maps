@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-02-11T20:30:00Z",
+  "lastUpdated": "2026-02-13T09:15:00Z",
   "regions": [
     {
       "id": "slovakia",
@@ -19,9 +19,9 @@
         "version": "v1"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/slovakia-v1/slovakia-addresses.zip",
-        "sizeBytes": 85419536,
-        "version": "v2"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/slovakia-v1/slovakia-addresses-v3.zip",
+        "sizeBytes": 85099754,
+        "version": "v3"
       }
     },
     {
@@ -41,9 +41,9 @@
         "version": "v1"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/czech-v1/czech-addresses.zip",
-        "sizeBytes": 162937524,
-        "version": "v2"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/czech-v1/czech-addresses-v3.zip",
+        "sizeBytes": 174067101,
+        "version": "v3"
       }
     },
     {
