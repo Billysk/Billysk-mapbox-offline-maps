@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-02-13T09:15:00Z",
+  "lastUpdated": "2026-02-15T22:00:00Z",
   "regions": [
     {
       "id": "slovakia",
@@ -63,9 +63,9 @@
         "version": "v1"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/poland-v1/poland-addresses.zip",
-        "sizeBytes": 422856391,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/poland-v1/poland-addresses-v3.zip",
+        "sizeBytes": 449183493,
+        "version": "v3"
       }
     },
     {
@@ -85,9 +85,9 @@
         "version": "v1"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/austria-v1/austria-addresses.zip",
-        "sizeBytes": 131682772,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/austria-v1/austria-addresses-v3.zip",
+        "sizeBytes": 141768869,
+        "version": "v3"
       }
     },
     {
@@ -107,9 +107,9 @@
         "version": "v1"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/hungary-v1/hungary-addresses.zip",
-        "sizeBytes": 39570006,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/hungary-v1/hungary-addresses-v3.zip",
+        "sizeBytes": 44965494,
+        "version": "v3"
       }
     },
     {
@@ -138,9 +138,9 @@
         ]
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/germany-v1/germany-addresses.zip",
-        "sizeBytes": 1065798488,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/germany-v1/germany-addresses-v3.zip",
+        "sizeBytes": 1212970228,
+        "version": "v3"
       }
     },
     {
@@ -160,9 +160,9 @@
         "version": "v1"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/italy-v1/italy-addresses.zip",
-        "sizeBytes": 239244411,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/italy-v1/italy-addresses-v3.zip",
+        "sizeBytes": 282467960,
+        "version": "v3"
       }
     },
     {
