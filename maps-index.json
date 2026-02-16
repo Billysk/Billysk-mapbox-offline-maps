@@ -815,6 +815,28 @@
         "sizeBytes": 66064843,
         "version": "v3"
       }
+    },
+    {
+      "id": "united-kingdom",
+      "version": "v1",
+      "nameKey": "country_united_kingdom",
+      "flagEmoji": "\ud83c\uddec\ud83c\udde7",
+      "boundingBox": [-8.65, 49.86, 1.77, 60.86],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/united-kingdom-v1/united-kingdom-routing-graph.zip",
+        "sizeBytes": 576432735,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/united-kingdom-v1/united-kingdom-map-tiles.zip",
+        "sizeBytes": 1522397567,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/united-kingdom-v1/united-kingdom-addresses-v3.zip",
+        "sizeBytes": 388991083,
+        "version": "v3"
+      }
     }
   ]
 }
