@@ -837,6 +837,160 @@
         "sizeBytes": 388991083,
         "version": "v3"
       }
+    },
+    {
+      "id": "turkey",
+      "version": "v1",
+      "nameKey": "country_turkey",
+      "flagEmoji": "\ud83c\uddf9\ud83c\uddf7",
+      "boundingBox": [25.6637, 35.8155, 44.8176, 42.1076],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/turkey-v1/turkey-routing-graph.zip",
+        "sizeBytes": 532863551,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/turkey-v1/turkey-map-tiles.zip",
+        "sizeBytes": 786944167,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/turkey-v1/turkey-addresses-v3.zip",
+        "sizeBytes": 28635621,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "iceland",
+      "version": "v1",
+      "nameKey": "country_iceland",
+      "flagEmoji": "\ud83c\uddee\ud83c\uddf8",
+      "boundingBox": [-24.5465, 63.3930, -13.4959, 66.5664],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/iceland-v1/iceland-routing-graph.zip",
+        "sizeBytes": 10741186,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/iceland-v1/iceland-map-tiles.zip",
+        "sizeBytes": 163339670,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/iceland-v1/iceland-addresses-v3.zip",
+        "sizeBytes": 6522105,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "malta",
+      "version": "v1",
+      "nameKey": "country_malta",
+      "flagEmoji": "\ud83c\uddf2\ud83c\uddf9",
+      "boundingBox": [14.1834, 35.8061, 14.5765, 36.0823],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/malta-v1/malta-routing-graph.zip",
+        "sizeBytes": 3637107,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/malta-v1/malta-map-tiles.zip",
+        "sizeBytes": 5774561,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/malta-v1/malta-addresses-v3.zip",
+        "sizeBytes": 1008125,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "cyprus",
+      "version": "v1",
+      "nameKey": "country_cyprus",
+      "flagEmoji": "\ud83c\udde8\ud83c\uddfe",
+      "boundingBox": [32.2668, 34.5633, 34.6042, 35.7074],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/cyprus-v1/cyprus-routing-graph.zip",
+        "sizeBytes": 26306687,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/cyprus-v1/cyprus-map-tiles.zip",
+        "sizeBytes": 34348988,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/cyprus-v1/cyprus-addresses-v3.zip",
+        "sizeBytes": 3811844,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "liechtenstein",
+      "version": "v1",
+      "nameKey": "country_liechtenstein",
+      "flagEmoji": "\ud83c\uddf1\ud83c\uddee",
+      "boundingBox": [9.4717, 47.0484, 9.6357, 47.2706],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/liechtenstein-v1/liechtenstein-routing-graph.zip",
+        "sizeBytes": 656326,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/liechtenstein-v1/liechtenstein-map-tiles.zip",
+        "sizeBytes": 2323311,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/liechtenstein-v1/liechtenstein-addresses-v3.zip",
+        "sizeBytes": 722183,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "andorra",
+      "version": "v1",
+      "nameKey": "country_andorra",
+      "flagEmoji": "\ud83c\udde6\ud83c\udde9",
+      "boundingBox": [1.4087, 42.4288, 1.7866, 42.6559],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/andorra-v1/andorra-routing-graph.zip",
+        "sizeBytes": 526233,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/andorra-v1/andorra-map-tiles.zip",
+        "sizeBytes": 3076377,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/andorra-v1/andorra-addresses-v3.zip",
+        "sizeBytes": 164624,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "monaco",
+      "version": "v1",
+      "nameKey": "country_monaco",
+      "flagEmoji": "\ud83c\uddf2\ud83c\udde8",
+      "boundingBox": [7.4090, 43.7247, 7.4398, 43.7519],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/monaco-v1/monaco-routing-graph.zip",
+        "sizeBytes": 101065,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/monaco-v1/monaco-map-tiles.zip",
+        "sizeBytes": 390363,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/monaco-v1/monaco-addresses-v3.zip",
+        "sizeBytes": 119237,
+        "version": "v3"
+      }
     }
   ]
 }
