@@ -573,6 +573,248 @@
         "sizeBytes": 41957675,
         "version": "v3"
       }
+    },
+    {
+      "id": "ukraine",
+      "version": "v1",
+      "nameKey": "country_ukraine",
+      "flagEmoji": "\ud83c\uddfa\ud83c\udde6",
+      "boundingBox": [22.1369, 44.3864, 40.2275, 52.3791],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/ukraine-v1/ukraine-routing-graph.zip",
+        "sizeBytes": 414484588,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/ukraine-v1/ukraine-map-tiles.zip",
+        "sizeBytes": 1158638977,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/ukraine-v1/ukraine-addresses-v3.zip",
+        "sizeBytes": 103797058,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "belarus",
+      "version": "v1",
+      "nameKey": "country_belarus",
+      "flagEmoji": "\ud83c\udde7\ud83c\uddfe",
+      "boundingBox": [23.1783, 51.2622, 32.7627, 56.1722],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/belarus-v1/belarus-routing-graph.zip",
+        "sizeBytes": 112194379,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/belarus-v1/belarus-map-tiles.zip",
+        "sizeBytes": 494382158,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/belarus-v1/belarus-addresses-v3.zip",
+        "sizeBytes": 66312038,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "lithuania",
+      "version": "v1",
+      "nameKey": "country_lithuania",
+      "flagEmoji": "\ud83c\uddf1\ud83c\uddf9",
+      "boundingBox": [20.9316, 53.8967, 26.8356, 56.4503],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/lithuania-v1/lithuania-routing-graph.zip",
+        "sizeBytes": 55937722,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/lithuania-v1/lithuania-map-tiles.zip",
+        "sizeBytes": 268553233,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/lithuania-v1/lithuania-addresses-v3.zip",
+        "sizeBytes": 58024335,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "latvia",
+      "version": "v1",
+      "nameKey": "country_latvia",
+      "flagEmoji": "\ud83c\uddf1\ud83c\uddfb",
+      "boundingBox": [20.9704, 55.6747, 28.2414, 58.0856],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/latvia-v1/latvia-routing-graph.zip",
+        "sizeBytes": 46608140,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/latvia-v1/latvia-map-tiles.zip",
+        "sizeBytes": 178820479,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/latvia-v1/latvia-addresses-v3.zip",
+        "sizeBytes": 22737468,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "estonia",
+      "version": "v1",
+      "nameKey": "country_estonia",
+      "flagEmoji": "\ud83c\uddea\ud83c\uddea",
+      "boundingBox": [21.7644, 57.5093, 28.2100, 59.6854],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/estonia-v1/estonia-routing-graph.zip",
+        "sizeBytes": 34662115,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/estonia-v1/estonia-map-tiles.zip",
+        "sizeBytes": 144522489,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/estonia-v1/estonia-addresses-v3.zip",
+        "sizeBytes": 30267208,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "luxembourg",
+      "version": "v1",
+      "nameKey": "country_luxembourg",
+      "flagEmoji": "\ud83c\uddf1\ud83c\uddfa",
+      "boundingBox": [5.7357, 49.4478, 6.5310, 50.1847],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/luxembourg-v1/luxembourg-routing-graph.zip",
+        "sizeBytes": 8624842,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/luxembourg-v1/luxembourg-map-tiles.zip",
+        "sizeBytes": 34513792,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/luxembourg-v1/luxembourg-addresses-v3.zip",
+        "sizeBytes": 10750931,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "albania",
+      "version": "v1",
+      "nameKey": "country_albania",
+      "flagEmoji": "\ud83c\udde6\ud83c\uddf1",
+      "boundingBox": [19.2639, 39.6448, 21.0574, 42.6611],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/albania-v1/albania-routing-graph.zip",
+        "sizeBytes": 25843840,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/albania-v1/albania-map-tiles.zip",
+        "sizeBytes": 56256519,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/albania-v1/albania-addresses-v3.zip",
+        "sizeBytes": 3272437,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "north-macedonia",
+      "version": "v1",
+      "nameKey": "country_north_macedonia",
+      "flagEmoji": "\ud83c\uddf2\ud83c\uddf0",
+      "boundingBox": [20.4529, 40.8537, 23.0342, 42.3736],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/north-macedonia-v1/north-macedonia-routing-graph.zip",
+        "sizeBytes": 15000337,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/north-macedonia-v1/north-macedonia-map-tiles.zip",
+        "sizeBytes": 39375232,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/north-macedonia-v1/north-macedonia-addresses-v3.zip",
+        "sizeBytes": 1613609,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "bosnia",
+      "version": "v1",
+      "nameKey": "country_bosnia",
+      "flagEmoji": "\ud83c\udde7\ud83c\udde6",
+      "boundingBox": [15.7287, 42.5553, 19.6237, 45.2764],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/bosnia-v1/bosnia-routing-graph.zip",
+        "sizeBytes": 47714411,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/bosnia-v1/bosnia-map-tiles.zip",
+        "sizeBytes": 193329424,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/bosnia-v1/bosnia-addresses-v3.zip",
+        "sizeBytes": 8643165,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "kosovo",
+      "version": "v1",
+      "nameKey": "country_kosovo",
+      "flagEmoji": "\ud83c\uddfd\ud83c\uddf0",
+      "boundingBox": [20.0141, 41.8557, 21.7894, 43.2695],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/kosovo-v1/kosovo-routing-graph.zip",
+        "sizeBytes": 16139620,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/kosovo-v1/kosovo-map-tiles.zip",
+        "sizeBytes": 35526042,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/kosovo-v1/kosovo-addresses-v3.zip",
+        "sizeBytes": 15535997,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "moldova",
+      "version": "v1",
+      "nameKey": "country_moldova",
+      "flagEmoji": "\ud83c\uddf2\ud83c\udde9",
+      "boundingBox": [26.6190, 45.4688, 30.1636, 48.4921],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/moldova-v1/moldova-routing-graph.zip",
+        "sizeBytes": 53030493,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/moldova-v1/moldova-map-tiles.zip",
+        "sizeBytes": 89502044,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/moldova-v1/moldova-addresses-v3.zip",
+        "sizeBytes": 66064843,
+        "version": "v3"
+      }
     }
   ]
 }
