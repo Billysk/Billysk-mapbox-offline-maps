@@ -248,9 +248,9 @@
         "version": "v1"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/montenegro-v1/montenegro-addresses.zip",
-        "sizeBytes": 661514,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/montenegro-v1/montenegro-addresses-v3.zip",
+        "sizeBytes": 1181868,
+        "version": "v3"
       }
     },
     {
