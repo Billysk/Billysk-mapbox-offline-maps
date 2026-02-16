@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-02-15T22:00:00Z",
+  "lastUpdated": "2026-02-16T12:00:00Z",
   "regions": [
     {
       "id": "slovakia",
@@ -182,9 +182,9 @@
         "version": "v1"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/slovenia-v1/slovenia-addresses.zip",
-        "sizeBytes": 21907372,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/slovenia-v1/slovenia-addresses-v3.zip",
+        "sizeBytes": 24608061,
+        "version": "v3"
       }
     },
     {
@@ -204,9 +204,9 @@
         "version": "v1"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/croatia-v1/croatia-addresses.zip",
-        "sizeBytes": 13425362,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/croatia-v1/croatia-addresses-v3.zip",
+        "sizeBytes": 18121662,
+        "version": "v3"
       }
     },
     {
@@ -226,9 +226,9 @@
         "version": "v1"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/serbia-v1/serbia-addresses.zip",
-        "sizeBytes": 114421581,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/serbia-v1/serbia-addresses-v3.zip",
+        "sizeBytes": 128577757,
+        "version": "v3"
       }
     },
     {
@@ -270,9 +270,9 @@
         "version": "v1"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/bulgaria-v1/bulgaria-addresses.zip",
-        "sizeBytes": 9744753,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/bulgaria-v1/bulgaria-addresses-v3.zip",
+        "sizeBytes": 13212000,
+        "version": "v3"
       }
     },
     {
@@ -292,9 +292,9 @@
         "version": "v1"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/romania-v1/romania-addresses.zip",
-        "sizeBytes": 59863501,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/romania-v1/romania-addresses-v3.zip",
+        "sizeBytes": 69153195,
+        "version": "v3"
       }
     },
     {
@@ -314,9 +314,9 @@
         "version": "v1"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/switzerland-v1/switzerland-addresses.zip",
-        "sizeBytes": 118279901,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/switzerland-v1/switzerland-addresses-v3.zip",
+        "sizeBytes": 136711502,
+        "version": "v3"
       }
     },
     {
@@ -349,9 +349,9 @@
         ]
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/france-v1/france-addresses.zip",
-        "sizeBytes": 471326556,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/france-v1/france-addresses-v3.zip",
+        "sizeBytes": 634988640,
+        "version": "v3"
       }
     },
     {
@@ -371,9 +371,9 @@
         "version": "v1"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/spain-v1/spain-addresses.zip",
-        "sizeBytes": 119785574,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/spain-v1/spain-addresses-v3.zip",
+        "sizeBytes": 166768575,
+        "version": "v3"
       }
     },
     {
@@ -393,9 +393,9 @@
         "version": "v1"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/portugal-v1/portugal-addresses.zip",
-        "sizeBytes": 39626936,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/portugal-v1/portugal-addresses-v3.zip",
+        "sizeBytes": 52879596,
+        "version": "v3"
       }
     },
     {
@@ -415,9 +415,9 @@
         "version": "v1"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/belgium-v1/belgium-addresses.zip",
-        "sizeBytes": 198091041,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/belgium-v1/belgium-addresses-v3.zip",
+        "sizeBytes": 221567945,
+        "version": "v3"
       }
     },
     {
@@ -437,9 +437,9 @@
         "version": "v1"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/netherlands-v1/netherlands-addresses.zip",
-        "sizeBytes": 490038409,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/netherlands-v1/netherlands-addresses-v3.zip",
+        "sizeBytes": 555857568,
+        "version": "v3"
       }
     }
   ]
