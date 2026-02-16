@@ -441,6 +441,138 @@
         "sizeBytes": 555857568,
         "version": "v3"
       }
+    },
+    {
+      "id": "sweden",
+      "version": "v1",
+      "nameKey": "country_sweden",
+      "flagEmoji": "\ud83c\uddf8\ud83c\uddea",
+      "boundingBox": [11.1069, 55.3371, 24.1669, 69.0600],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/sweden-v1/sweden-routing-graph.zip",
+        "sizeBytes": 256896699,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/sweden-v1/sweden-map-tiles.zip",
+        "sizeBytes": 1205331911,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/sweden-v1/sweden-addresses-v3.zip",
+        "sizeBytes": 60401632,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "finland",
+      "version": "v1",
+      "nameKey": "country_finland",
+      "flagEmoji": "\ud83c\uddeb\ud83c\uddee",
+      "boundingBox": [20.6455, 59.8464, 31.5871, 70.0922],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/finland-v1/finland-routing-graph.zip",
+        "sizeBytes": 217625410,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/finland-v1/finland-map-tiles.zip",
+        "sizeBytes": 1008983853,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/finland-v1/finland-addresses-v3.zip",
+        "sizeBytes": 61419506,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "norway",
+      "version": "v1",
+      "nameKey": "country_norway",
+      "flagEmoji": "\ud83c\uddf3\ud83c\uddf4",
+      "boundingBox": [4.6500, 57.9590, 31.0783, 71.1854],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/norway-v1/norway-routing-graph.zip",
+        "sizeBytes": 178444769,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/norway-v1/norway-map-tiles.zip",
+        "sizeBytes": 1795223000,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/norway-v1/norway-addresses-v3.zip",
+        "sizeBytes": 149037112,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "denmark",
+      "version": "v1",
+      "nameKey": "country_denmark",
+      "flagEmoji": "\ud83c\udde9\ud83c\uddf0",
+      "boundingBox": [8.0756, 54.5597, 15.1590, 57.7484],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/denmark-v1/denmark-routing-graph.zip",
+        "sizeBytes": 119187472,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/denmark-v1/denmark-map-tiles.zip",
+        "sizeBytes": 336327470,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/denmark-v1/denmark-addresses-v3.zip",
+        "sizeBytes": 136507007,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "greece",
+      "version": "v1",
+      "nameKey": "country_greece",
+      "flagEmoji": "\ud83c\uddec\ud83c\uddf7",
+      "boundingBox": [19.3736, 34.8021, 29.6453, 41.7489],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/greece-v1/greece-routing-graph.zip",
+        "sizeBytes": 269477349,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/greece-v1/greece-map-tiles.zip",
+        "sizeBytes": 321704523,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/greece-v1/greece-addresses-v3.zip",
+        "sizeBytes": 19898041,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "ireland",
+      "version": "v1",
+      "nameKey": "country_ireland",
+      "flagEmoji": "\ud83c\uddee\ud83c\uddea",
+      "boundingBox": [-10.4798, 51.3932, -5.9963, 55.3880],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/ireland-v1/ireland-routing-graph.zip",
+        "sizeBytes": 139653087,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/ireland-v1/ireland-map-tiles.zip",
+        "sizeBytes": 313131751,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/ireland-v1/ireland-addresses-v3.zip",
+        "sizeBytes": 41957675,
+        "version": "v3"
+      }
     }
   ]
 }
