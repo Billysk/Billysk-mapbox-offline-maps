@@ -1051,6 +1051,121 @@
         "sizeBytes": 119237,
         "version": "v3"
       }
+    },
+    {
+      "id": "georgia",
+      "continent": "europe",
+      "version": "v1",
+      "nameKey": "country_georgia",
+      "flagEmoji": "\ud83c\uddec\ud83c\uddea",
+      "boundingBox": [40.01, 41.05, 46.74, 43.59],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/georgia-v1/georgia-routing-graph.zip",
+        "sizeBytes": 47976253,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/georgia-v1/georgia-map-tiles.zip",
+        "sizeBytes": 120413664,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/georgia-v1/georgia-addresses-v3.zip",
+        "sizeBytes": 7399955,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "faroe-islands",
+      "continent": "europe",
+      "version": "v1",
+      "nameKey": "country_faroe_islands",
+      "flagEmoji": "\ud83c\uddeb\ud83c\uddf4",
+      "boundingBox": [-7.42, 61.39, -6.26, 62.40],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/faroe-islands-v1/faroe-islands-routing-graph.zip",
+        "sizeBytes": 1405766,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/faroe-islands-v1/faroe-islands-map-tiles.zip",
+        "sizeBytes": 9438815,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/faroe-islands-v1/faroe-islands-addresses-v3.zip",
+        "sizeBytes": 1350313,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "azores",
+      "continent": "europe",
+      "version": "v1",
+      "nameKey": "country_azores",
+      "flagEmoji": "\ud83c\uddf5\ud83c\uddf9",
+      "boundingBox": [-31.27, 36.93, -25.01, 39.73],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/azores-v1/azores-routing-graph.zip",
+        "sizeBytes": 3932666,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/azores-v1/azores-map-tiles.zip",
+        "sizeBytes": 15530028,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/azores-v1/azores-addresses-v3.zip",
+        "sizeBytes": 1110801,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "guernsey-jersey",
+      "continent": "europe",
+      "version": "v1",
+      "nameKey": "country_guernsey_jersey",
+      "flagEmoji": "\ud83c\uddec\ud83c\uddec",
+      "boundingBox": [-2.68, 49.01, -1.94, 49.73],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/guernsey-jersey-v1/guernsey-jersey-routing-graph.zip",
+        "sizeBytes": 1436910,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/guernsey-jersey-v1/guernsey-jersey-map-tiles.zip",
+        "sizeBytes": 3986972,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/guernsey-jersey-v1/guernsey-jersey-addresses-v3.zip",
+        "sizeBytes": 563643,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "isle-of-man",
+      "continent": "europe",
+      "version": "v1",
+      "nameKey": "country_isle_of_man",
+      "flagEmoji": "\ud83c\uddee\ud83c\uddf2",
+      "boundingBox": [-4.83, 54.06, -4.31, 54.42],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/isle-of-man-v1/isle-of-man-routing-graph.zip",
+        "sizeBytes": 1200251,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/isle-of-man-v1/isle-of-man-map-tiles.zip",
+        "sizeBytes": 5187970,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/isle-of-man-v1/isle-of-man-addresses-v3.zip",
+        "sizeBytes": 615530,
+        "version": "v3"
+      }
     }
   ]
 }
