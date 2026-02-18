@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-02-16T12:00:00Z",
+  "lastUpdated": "2026-02-18T12:00:00Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1164,6 +1164,52 @@
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/isle-of-man-v1/isle-of-man-addresses-v3.zip",
         "sizeBytes": 615530,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "australia",
+      "continent": "oceania",
+      "version": "v1",
+      "nameKey": "country_australia",
+      "flagEmoji": "\ud83c\udde6\ud83c\uddfa",
+      "boundingBox": [112.9, -44.0, 154.0, -10.0],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/australia-v1/australia-routing-graph.zip",
+        "sizeBytes": 343576209,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/australia-v1/australia-map-tiles.zip",
+        "sizeBytes": 1297099375,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/australia-v1/australia-addresses-v3.zip",
+        "sizeBytes": 231347138,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "new-zealand",
+      "continent": "oceania",
+      "version": "v1",
+      "nameKey": "country_new_zealand",
+      "flagEmoji": "\ud83c\uddf3\ud83c\uddff",
+      "boundingBox": [166.3, -47.4, 178.6, -34.3],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/new-zealand-v1/new-zealand-routing-graph.zip",
+        "sizeBytes": 70812609,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/new-zealand-v1/new-zealand-map-tiles.zip",
+        "sizeBytes": 570019333,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/new-zealand-v1/new-zealand-addresses-v3.zip",
+        "sizeBytes": 121237813,
         "version": "v3"
       }
     }
