@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-03-24T03:46:53Z",
+  "lastUpdated": "2026-03-25T11:11:46Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -87,7 +87,7 @@
       "flagEmoji": "🇵🇱",
       "boundingBox": [
         14.1229,
-        49.0020,
+        49.002,
         24.1458,
         54.8358
       ],
@@ -143,7 +143,7 @@
       "flagEmoji": "🇭🇺",
       "boundingBox": [
         16.1138,
-        45.7370,
+        45.737,
         22.8977,
         48.5856
       ],
@@ -264,7 +264,7 @@
       "flagEmoji": "🇭🇷",
       "boundingBox": [
         13.4896,
-        42.3930,
+        42.393,
         19.4471,
         46.5469
       ],
@@ -433,8 +433,8 @@
       "boundingBox": [
         -5.1413,
         41.3337,
-        9.5600,
-        51.0890
+        9.56,
+        51.089
       ],
       "routing": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/france-v1/france-routing-graph.zip",
@@ -587,7 +587,7 @@
         11.1069,
         55.3371,
         24.1669,
-        69.0600
+        69.06
       ],
       "routing": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/sweden-v1/sweden-routing-graph.zip",
@@ -640,8 +640,8 @@
       "nameKey": "country_norway",
       "flagEmoji": "🇳🇴",
       "boundingBox": [
-        4.6500,
-        57.9590,
+        4.65,
+        57.959,
         31.0783,
         71.1854
       ],
@@ -670,7 +670,7 @@
       "boundingBox": [
         8.0756,
         54.5597,
-        15.1590,
+        15.159,
         57.7484
       ],
       "routing": {
@@ -727,7 +727,7 @@
         -10.4798,
         51.3932,
         -5.9963,
-        55.3880
+        55.388
       ],
       "routing": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/ireland-v1/ireland-routing-graph.zip",
@@ -866,7 +866,7 @@
       "boundingBox": [
         21.7644,
         57.5093,
-        28.2100,
+        28.21,
         59.6854
       ],
       "routing": {
@@ -894,7 +894,7 @@
       "boundingBox": [
         5.7357,
         49.4478,
-        6.5310,
+        6.531,
         50.1847
       ],
       "routing": {
@@ -1032,7 +1032,7 @@
       "nameKey": "country_moldova",
       "flagEmoji": "🇲🇩",
       "boundingBox": [
-        26.6190,
+        26.619,
         45.4688,
         30.1636,
         48.4921
@@ -1117,7 +1117,7 @@
       "flagEmoji": "🇮🇸",
       "boundingBox": [
         -24.5465,
-        63.3930,
+        63.393,
         -13.4959,
         66.5664
       ],
@@ -1256,7 +1256,7 @@
       "nameKey": "country_monaco",
       "flagEmoji": "🇲🇨",
       "boundingBox": [
-        7.4090,
+        7.409,
         43.7247,
         7.4398,
         43.7519
@@ -1315,7 +1315,7 @@
         -7.42,
         61.39,
         -6.26,
-        62.40
+        62.4
       ],
       "routing": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/faroe-islands-v1/faroe-islands-routing-graph.zip",
@@ -1498,6 +1498,90 @@
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/japan-v1/japan-addresses-v3.zip",
         "sizeBytes": 61189714,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "south-korea",
+      "continent": "asia",
+      "version": "v1",
+      "nameKey": "country_south_korea",
+      "flagEmoji": "🇰🇷",
+      "boundingBox": [
+        124.6,
+        33.1,
+        131.9,
+        38.6
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/south-korea-v1/south-korea-routing-graph.zip",
+        "sizeBytes": 255624372,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/south-korea-v1/south-korea-map-tiles.zip",
+        "sizeBytes": 352057776,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/south-korea-v1/south-korea-addresses-v3.zip",
+        "sizeBytes": 38367862,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "taiwan",
+      "continent": "asia",
+      "version": "v1",
+      "nameKey": "country_taiwan",
+      "flagEmoji": "🇹🇼",
+      "boundingBox": [
+        119.5,
+        21.9,
+        122.1,
+        25.3
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/taiwan-v1/taiwan-routing-graph.zip",
+        "sizeBytes": 109789285,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/taiwan-v1/taiwan-map-tiles.zip",
+        "sizeBytes": 197241180,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/taiwan-v1/taiwan-addresses-v3.zip",
+        "sizeBytes": 403095503,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "thailand",
+      "continent": "asia",
+      "version": "v1",
+      "nameKey": "country_thailand",
+      "flagEmoji": "🇹🇭",
+      "boundingBox": [
+        97.3,
+        5.6,
+        105.6,
+        20.5
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/thailand-v1/thailand-routing-graph.zip",
+        "sizeBytes": 442483448,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/thailand-v1/thailand-map-tiles.zip",
+        "sizeBytes": 386032033,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/thailand-v1/thailand-addresses-v3.zip",
+        "sizeBytes": 17244142,
         "version": "v3"
       }
     }
