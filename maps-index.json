@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-03-27T15:53:32Z",
+  "lastUpdated": "2026-03-27T16:13:15Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1722,6 +1722,34 @@
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/cambodia-v1/cambodia-addresses-v3.zip",
         "sizeBytes": 1196837,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "sri-lanka",
+      "continent": "asia",
+      "version": "v1",
+      "nameKey": "country_sri_lanka",
+      "flagEmoji": "🇱🇰",
+      "boundingBox": [
+        79.1642,
+        5.6213,
+        82.6461,
+        10.0715
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/sri-lanka-v1/sri-lanka-routing-graph.zip",
+        "sizeBytes": 59496718,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/sri-lanka-v1/sri-lanka-map-tiles.zip",
+        "sizeBytes": 107743818,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/sri-lanka-v1/sri-lanka-addresses-v3.zip",
+        "sizeBytes": 4023415,
         "version": "v3"
       }
     }
