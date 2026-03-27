@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-03-27T19:31:21Z",
+  "lastUpdated": "2026-03-27T20:11:55Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1862,6 +1862,34 @@
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/argentina-v1/argentina-addresses-v3.zip",
         "sizeBytes": 126517463,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "chile",
+      "continent": "americas",
+      "version": "v1",
+      "nameKey": "country_chile",
+      "flagEmoji": "🇨🇱",
+      "boundingBox": [
+        -113.2233,
+        -58.4519,
+        -65.5141,
+        -17.4574
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/chile-v1/chile-routing-graph.zip",
+        "sizeBytes": 116272789,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/chile-v1/chile-map-tiles.zip",
+        "sizeBytes": 442804994,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/chile-v1/chile-addresses-v3.zip",
+        "sizeBytes": 41074138,
         "version": "v3"
       }
     }
