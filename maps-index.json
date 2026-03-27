@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-03-25T11:11:46Z",
+  "lastUpdated": "2026-03-27T13:08:08Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1582,6 +1582,34 @@
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/thailand-v1/thailand-addresses-v3.zip",
         "sizeBytes": 17244142,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "singapore",
+      "continent": "asia",
+      "version": "v1",
+      "nameKey": "country_singapore",
+      "flagEmoji": "🇸🇬",
+      "boundingBox": [
+        99.2561,
+        0.8308,
+        119.6683,
+        7.7368
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/singapore-v1/singapore-routing-graph.zip",
+        "sizeBytes": 242669856,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/singapore-v1/singapore-map-tiles.zip",
+        "sizeBytes": 221919254,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/singapore-v1/singapore-addresses-v3.zip",
+        "sizeBytes": 28996191,
         "version": "v3"
       }
     }
