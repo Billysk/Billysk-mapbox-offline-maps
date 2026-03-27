@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-03-27T18:01:21Z",
+  "lastUpdated": "2026-03-27T19:31:21Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1834,6 +1834,34 @@
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/uae-v1/uae-addresses-v3.zip",
         "sizeBytes": 28432674,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "argentina",
+      "continent": "americas",
+      "version": "v1",
+      "nameKey": "country_argentina",
+      "flagEmoji": "🇦🇷",
+      "boundingBox": [
+        -73.6145,
+        -55.683,
+        -53.6353,
+        -21.7258
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/argentina-v1/argentina-routing-graph.zip",
+        "sizeBytes": 341242890,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/argentina-v1/argentina-map-tiles.zip",
+        "sizeBytes": 706484588,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/argentina-v1/argentina-addresses-v3.zip",
+        "sizeBytes": 126517463,
         "version": "v3"
       }
     }
