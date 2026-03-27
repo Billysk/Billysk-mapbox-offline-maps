@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-03-27T15:46:08Z",
+  "lastUpdated": "2026-03-27T15:53:32Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1694,6 +1694,34 @@
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/philippines-v1/philippines-addresses-v3.zip",
         "sizeBytes": 30198241,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "cambodia",
+      "continent": "asia",
+      "version": "v1",
+      "nameKey": "country_cambodia",
+      "flagEmoji": "🇰🇭",
+      "boundingBox": [
+        101.8522,
+        8.8581,
+        107.6397,
+        14.7188
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/cambodia-v1/cambodia-routing-graph.zip",
+        "sizeBytes": 39826614,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/cambodia-v1/cambodia-map-tiles.zip",
+        "sizeBytes": 52954941,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/cambodia-v1/cambodia-addresses-v3.zip",
+        "sizeBytes": 1196837,
         "version": "v3"
       }
     }
