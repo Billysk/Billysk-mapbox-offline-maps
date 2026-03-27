@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-03-27T17:06:13Z",
+  "lastUpdated": "2026-03-27T17:19:50Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1778,6 +1778,34 @@
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/nepal-v1/nepal-addresses-v3.zip",
         "sizeBytes": 6897471,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "israel",
+      "continent": "asia",
+      "version": "v1",
+      "nameKey": "country_israel",
+      "flagEmoji": "🇮🇱",
+      "boundingBox": [
+        33.9999,
+        29.4396,
+        35.9153,
+        33.4544
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/israel-v1/israel-routing-graph.zip",
+        "sizeBytes": 59128212,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/israel-v1/israel-map-tiles.zip",
+        "sizeBytes": 97461141,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/israel-v1/israel-addresses-v3.zip",
+        "sizeBytes": 12584311,
         "version": "v3"
       }
     }
