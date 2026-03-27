@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-03-27T14:30:10Z",
+  "lastUpdated": "2026-03-27T15:46:08Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1666,6 +1666,34 @@
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/vietnam-v1/vietnam-addresses-v3.zip",
         "sizeBytes": 13099699,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "philippines",
+      "continent": "asia",
+      "version": "v1",
+      "nameKey": "country_philippines",
+      "flagEmoji": "🇵🇭",
+      "boundingBox": [
+        112.1661,
+        4.3827,
+        127.0742,
+        21.5302
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/philippines-v1/philippines-routing-graph.zip",
+        "sizeBytes": 202671270,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/philippines-v1/philippines-map-tiles.zip",
+        "sizeBytes": 456443341,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/philippines-v1/philippines-addresses-v3.zip",
+        "sizeBytes": 30198241,
         "version": "v3"
       }
     }
