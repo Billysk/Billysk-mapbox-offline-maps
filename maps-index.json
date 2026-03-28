@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-03-28T01:44:08Z",
+  "lastUpdated": "2026-03-28T15:28:42Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2030,6 +2030,43 @@
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/morocco-v1/morocco-addresses-v3.zip",
         "sizeBytes": 5385756,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "india",
+      "continent": "asia",
+      "version": "v1",
+      "nameKey": "country_india",
+      "flagEmoji": "🇮🇳",
+      "boundingBox": [
+        67.6746,
+        5.8961,
+        97.4199,
+        35.7309
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/india-v1/india-routing-graph.zip",
+        "sizeBytes": 2089107496,
+        "version": "v1"
+      },
+      "tiles": {
+        "sizeBytes": 2085983035,
+        "version": "v1",
+        "parts": [
+          {
+            "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/india-v1/india-map-tiles.zip.001",
+            "sizeBytes": 1500000000
+          },
+          {
+            "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/india-v1/india-map-tiles.zip.002",
+            "sizeBytes": 585983035
+          }
+        ]
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/india-v1/india-addresses-v3.zip",
+        "sizeBytes": 50478870,
         "version": "v3"
       }
     }
