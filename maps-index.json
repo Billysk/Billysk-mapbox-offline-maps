@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-03-28T00:15:39Z",
+  "lastUpdated": "2026-03-28T01:07:42Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1974,6 +1974,34 @@
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/south-africa-v1/south-africa-addresses-v3.zip",
         "sizeBytes": 16800573,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "egypt",
+      "continent": "africa",
+      "version": "v1",
+      "nameKey": "country_egypt",
+      "flagEmoji": "🇪🇬",
+      "boundingBox": [
+        24.6263,
+        21.9838,
+        37.1626,
+        32.5252
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/egypt-v1/egypt-routing-graph.zip",
+        "sizeBytes": 300723903,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/egypt-v1/egypt-map-tiles.zip",
+        "sizeBytes": 159670310,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/egypt-v1/egypt-addresses-v3.zip",
+        "sizeBytes": 128033255,
         "version": "v3"
       }
     }
