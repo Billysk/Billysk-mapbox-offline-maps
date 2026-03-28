@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-03-27T23:04:08Z",
+  "lastUpdated": "2026-03-28T00:15:39Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1946,6 +1946,34 @@
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/mexico-v1/mexico-addresses-v3.zip",
         "sizeBytes": 106678602,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "south-africa",
+      "continent": "africa",
+      "version": "v1",
+      "nameKey": "country_south_africa",
+      "flagEmoji": "🇿🇦",
+      "boundingBox": [
+        14.3733,
+        -48.465,
+        40.2702,
+        -21.7754
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/south-africa-v1/south-africa-routing-graph.zip",
+        "sizeBytes": 373192562,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/south-africa-v1/south-africa-map-tiles.zip",
+        "sizeBytes": 417737501,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/south-africa-v1/south-africa-addresses-v3.zip",
+        "sizeBytes": 16800573,
         "version": "v3"
       }
     }
