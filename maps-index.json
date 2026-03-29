@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-03-29T22:36:26Z",
+  "lastUpdated": "2026-03-29T22:44:35Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2749,6 +2749,34 @@
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/paraguay-v1/paraguay-addresses-v3.zip",
         "sizeBytes": 5455851,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "uruguay",
+      "continent": "americas",
+      "version": "v1",
+      "nameKey": "country_uruguay",
+      "flagEmoji": "🇺🇾",
+      "boundingBox": [
+        -58.5259,
+        -36.2487,
+        -52.7723,
+        -30.0736
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/uruguay-v1/uruguay-routing-graph.zip",
+        "sizeBytes": 25477352,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/uruguay-v1/uruguay-map-tiles.zip",
+        "sizeBytes": 64597251,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/uruguay-v1/uruguay-addresses-v3.zip",
+        "sizeBytes": 42247056,
         "version": "v3"
       }
     }
