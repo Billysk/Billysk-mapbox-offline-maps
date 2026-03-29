@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-03-29T22:44:35Z",
+  "lastUpdated": "2026-03-29T23:05:29Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2777,6 +2777,34 @@
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/uruguay-v1/uruguay-addresses-v3.zip",
         "sizeBytes": 42247056,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "venezuela",
+      "continent": "americas",
+      "version": "v1",
+      "nameKey": "country_venezuela",
+      "flagEmoji": "🇻🇪",
+      "boundingBox": [
+        -73.381,
+        0.6217,
+        -59.5147,
+        16.6675
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/venezuela-v1/venezuela-routing-graph.zip",
+        "sizeBytes": 95181564,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/venezuela-v1/venezuela-map-tiles.zip",
+        "sizeBytes": 188958885,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/venezuela-v1/venezuela-addresses-v3.zip",
+        "sizeBytes": 4413670,
         "version": "v3"
       }
     }
