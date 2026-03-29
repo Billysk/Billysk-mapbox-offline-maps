@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-03-29T11:53:27Z",
+  "lastUpdated": "2026-03-29T12:45:49Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2301,6 +2301,34 @@
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/laos-v1/laos-addresses-v3.zip",
         "sizeBytes": 603933,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "bangladesh",
+      "continent": "asia",
+      "version": "v1",
+      "nameKey": "country_bangladesh",
+      "flagEmoji": "🇧🇩",
+      "boundingBox": [
+        87.9976,
+        18.584,
+        92.6971,
+        26.6468
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/bangladesh-v1/bangladesh-routing-graph.zip",
+        "sizeBytes": 83837737,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/bangladesh-v1/bangladesh-map-tiles.zip",
+        "sizeBytes": 233895975,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/bangladesh-v1/bangladesh-addresses-v3.zip",
+        "sizeBytes": 8760521,
         "version": "v3"
       }
     }
