@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-03-29T05:45:38Z",
+  "lastUpdated": "2026-03-29T06:27:46Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2161,6 +2161,34 @@
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/brazil-v1/brazil-addresses-v3.zip",
         "sizeBytes": 185665888,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "peru",
+      "continent": "americas",
+      "version": "v1",
+      "nameKey": "country_peru",
+      "flagEmoji": "🇵🇪",
+      "boundingBox": [
+        -86.0251,
+        -20.3055,
+        -68.5544,
+        0.06
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/peru-v1/peru-routing-graph.zip",
+        "sizeBytes": 192264005,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/peru-v1/peru-map-tiles.zip",
+        "sizeBytes": 362885215,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/peru-v1/peru-addresses-v3.zip",
+        "sizeBytes": 24597687,
         "version": "v3"
       }
     }
