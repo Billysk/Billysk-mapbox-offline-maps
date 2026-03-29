@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-03-29T17:55:00Z",
+  "lastUpdated": "2026-03-29T18:03:59Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2469,6 +2469,34 @@
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/maldives-v1/maldives-addresses-v3.zip",
         "sizeBytes": 411583,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "mongolia",
+      "continent": "asia",
+      "version": "v1",
+      "nameKey": "country_mongolia",
+      "flagEmoji": "🇲🇳",
+      "boundingBox": [
+        87.7026,
+        41.5004,
+        120.0201,
+        52.1958
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/mongolia-v1/mongolia-routing-graph.zip",
+        "sizeBytes": 27165204,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/mongolia-v1/mongolia-map-tiles.zip",
+        "sizeBytes": 100199556,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/mongolia-v1/mongolia-addresses-v3.zip",
+        "sizeBytes": 1626532,
         "version": "v3"
       }
     }
