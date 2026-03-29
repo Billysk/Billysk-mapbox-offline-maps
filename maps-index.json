@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-03-29T17:53:22Z",
+  "lastUpdated": "2026-03-29T17:55:00Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2441,6 +2441,34 @@
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/pakistan-v1/pakistan-addresses-v3.zip",
         "sizeBytes": 11489710,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "maldives",
+      "continent": "asia",
+      "version": "v1",
+      "nameKey": "country_maldives",
+      "flagEmoji": "🇲🇻",
+      "boundingBox": [
+        71.7,
+        -1.36,
+        74.5,
+        7.69
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/maldives-v1/maldives-routing-graph.zip",
+        "sizeBytes": 2367526,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/maldives-v1/maldives-map-tiles.zip",
+        "sizeBytes": 4269560,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/maldives-v1/maldives-addresses-v3.zip",
+        "sizeBytes": 411583,
         "version": "v3"
       }
     }
