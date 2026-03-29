@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-03-28T15:28:42Z",
+  "lastUpdated": "2026-03-29T00:13:10Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2067,6 +2067,63 @@
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/india-v1/india-addresses-v3.zip",
         "sizeBytes": 50478870,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "canada",
+      "continent": "americas",
+      "version": "v1",
+      "nameKey": "country_canada",
+      "flagEmoji": "🇨🇦",
+      "boundingBox": [
+        -141.7761,
+        41.6601,
+        -44.1768,
+        85.0403
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/canada-v1/canada-routing-graph.zip",
+        "sizeBytes": 485097881,
+        "version": "v1"
+      },
+      "tiles": {
+        "sizeBytes": 9081054222,
+        "version": "v1",
+        "parts": [
+          {
+            "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/canada-v1/canada-map-tiles.zip.001",
+            "sizeBytes": 1500000000
+          },
+          {
+            "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/canada-v1/canada-map-tiles.zip.002",
+            "sizeBytes": 1500000000
+          },
+          {
+            "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/canada-v1/canada-map-tiles.zip.003",
+            "sizeBytes": 1500000000
+          },
+          {
+            "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/canada-v1/canada-map-tiles.zip.004",
+            "sizeBytes": 1500000000
+          },
+          {
+            "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/canada-v1/canada-map-tiles.zip.005",
+            "sizeBytes": 1500000000
+          },
+          {
+            "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/canada-v1/canada-map-tiles.zip.006",
+            "sizeBytes": 1500000000
+          },
+          {
+            "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/canada-v1/canada-map-tiles.zip.007",
+            "sizeBytes": 81054222
+          }
+        ]
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/canada-v1/canada-addresses-v3.zip",
+        "sizeBytes": 337893125,
         "version": "v3"
       }
     }
