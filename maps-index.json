@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-03-29T21:42:16Z",
+  "lastUpdated": "2026-03-29T22:11:22Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2693,6 +2693,34 @@
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/lebanon-v1/lebanon-addresses-v3.zip",
         "sizeBytes": 971901,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "bolivia",
+      "continent": "americas",
+      "version": "v1",
+      "nameKey": "country_bolivia",
+      "flagEmoji": "🇧🇴",
+      "boundingBox": [
+        -69.6568,
+        -22.9255,
+        -57.4348,
+        -9.6387
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/bolivia-v1/bolivia-routing-graph.zip",
+        "sizeBytes": 143929226,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/bolivia-v1/bolivia-map-tiles.zip",
+        "sizeBytes": 238140469,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/bolivia-v1/bolivia-addresses-v3.zip",
+        "sizeBytes": 6828463,
         "version": "v3"
       }
     }
