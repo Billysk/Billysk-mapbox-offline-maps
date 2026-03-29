@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-03-29T06:27:46Z",
+  "lastUpdated": "2026-03-29T06:47:43Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2189,6 +2189,34 @@
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/peru-v1/peru-addresses-v3.zip",
         "sizeBytes": 24597687,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "ecuador",
+      "continent": "americas",
+      "version": "v1",
+      "nameKey": "country_ecuador",
+      "flagEmoji": "🇪🇨",
+      "boundingBox": [
+        -93.5649,
+        -5.0242,
+        -75.1615,
+        2.8435
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/ecuador-v1/ecuador-routing-graph.zip",
+        "sizeBytes": 96966126,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/ecuador-v1/ecuador-map-tiles.zip",
+        "sizeBytes": 145192213,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/ecuador-v1/ecuador-addresses-v3.zip",
+        "sizeBytes": 9066717,
         "version": "v3"
       }
     }
