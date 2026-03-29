@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-03-29T20:06:50Z",
+  "lastUpdated": "2026-03-29T20:47:47Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2581,6 +2581,34 @@
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/oman-v1/oman-addresses-v3.zip",
         "sizeBytes": 28436663,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "bahrain",
+      "continent": "asia",
+      "version": "v1",
+      "nameKey": "country_bahrain",
+      "flagEmoji": "🇧🇭",
+      "boundingBox": [
+        34.4349,
+        15.2475,
+        60.9475,
+        32.1965
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/bahrain-v1/bahrain-routing-graph.zip",
+        "sizeBytes": 311812863,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/bahrain-v1/bahrain-map-tiles.zip",
+        "sizeBytes": 369683695,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/bahrain-v1/bahrain-addresses-v3.zip",
+        "sizeBytes": 28436669,
         "version": "v3"
       }
     }
