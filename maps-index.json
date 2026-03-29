@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-03-29T13:36:39Z",
+  "lastUpdated": "2026-03-29T13:52:56Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2357,6 +2357,34 @@
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/kenya-v1/kenya-addresses-v3.zip",
         "sizeBytes": 3093931,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "tunisia",
+      "continent": "africa",
+      "version": "v1",
+      "nameKey": "country_tunisia",
+      "flagEmoji": "🇹🇳",
+      "boundingBox": [
+        7.514,
+        30.2086,
+        12.1277,
+        37.9414
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/tunisia-v1/tunisia-routing-graph.zip",
+        "sizeBytes": 89111165,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/tunisia-v1/tunisia-map-tiles.zip",
+        "sizeBytes": 75279994,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/tunisia-v1/tunisia-addresses-v3.zip",
+        "sizeBytes": 2766619,
         "version": "v3"
       }
     }
