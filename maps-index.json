@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-03-29T18:45:23Z",
+  "lastUpdated": "2026-03-29T19:26:11Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2525,6 +2525,34 @@
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/saudi-arabia-v1/saudi-arabia-addresses-v3.zip",
         "sizeBytes": 28436679,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "qatar",
+      "continent": "asia",
+      "version": "v1",
+      "nameKey": "country_qatar",
+      "flagEmoji": "🇶🇦",
+      "boundingBox": [
+        34.4349,
+        15.2475,
+        60.9475,
+        32.1965
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/qatar-v1/qatar-routing-graph.zip",
+        "sizeBytes": 311812821,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/qatar-v1/qatar-map-tiles.zip",
+        "sizeBytes": 369685774,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/qatar-v1/qatar-addresses-v3.zip",
+        "sizeBytes": 28436665,
         "version": "v3"
       }
     }
