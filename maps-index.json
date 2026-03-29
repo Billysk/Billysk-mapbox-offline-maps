@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-03-29T12:45:49Z",
+  "lastUpdated": "2026-03-29T13:36:39Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2329,6 +2329,34 @@
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/bangladesh-v1/bangladesh-addresses-v3.zip",
         "sizeBytes": 8760521,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "kenya",
+      "continent": "africa",
+      "version": "v1",
+      "nameKey": "country_kenya",
+      "flagEmoji": "🇰🇪",
+      "boundingBox": [
+        33.8679,
+        -4.8163,
+        41.9768,
+        4.6299
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/kenya-v1/kenya-routing-graph.zip",
+        "sizeBytes": 133268503,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/kenya-v1/kenya-map-tiles.zip",
+        "sizeBytes": 220472126,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/kenya-v1/kenya-addresses-v3.zip",
+        "sizeBytes": 3093931,
         "version": "v3"
       }
     }
