@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-03-29T13:52:56Z",
+  "lastUpdated": "2026-03-29T16:08:05Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2385,6 +2385,34 @@
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/tunisia-v1/tunisia-addresses-v3.zip",
         "sizeBytes": 2766619,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "nigeria",
+      "continent": "africa",
+      "version": "v1",
+      "nameKey": "country_nigeria",
+      "flagEmoji": "🇳🇬",
+      "boundingBox": [
+        2.6645,
+        2.674,
+        14.6806,
+        13.8987
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/nigeria-v1/nigeria-routing-graph.zip",
+        "sizeBytes": 387532504,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/nigeria-v1/nigeria-map-tiles.zip",
+        "sizeBytes": 461582043,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/nigeria-v1/nigeria-addresses-v3.zip",
+        "sizeBytes": 2650854,
         "version": "v3"
       }
     }
