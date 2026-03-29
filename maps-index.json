@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-03-29T00:13:10Z",
+  "lastUpdated": "2026-03-29T05:45:38Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2124,6 +2124,43 @@
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/canada-v1/canada-addresses-v3.zip",
         "sizeBytes": 337893125,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "brazil",
+      "continent": "americas",
+      "version": "v1",
+      "nameKey": "country_brazil",
+      "flagEmoji": "🇧🇷",
+      "boundingBox": [
+        -74.0231,
+        -35.4655,
+        -27.6725,
+        5.5229
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/brazil-v1/brazil-routing-graph.zip",
+        "sizeBytes": 1523077651,
+        "version": "v1"
+      },
+      "tiles": {
+        "sizeBytes": 2432609103,
+        "version": "v1",
+        "parts": [
+          {
+            "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/brazil-v1/brazil-map-tiles.zip.001",
+            "sizeBytes": 1500000000
+          },
+          {
+            "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/brazil-v1/brazil-map-tiles.zip.002",
+            "sizeBytes": 932609103
+          }
+        ]
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/brazil-v1/brazil-addresses-v3.zip",
+        "sizeBytes": 185665888,
         "version": "v3"
       }
     }
