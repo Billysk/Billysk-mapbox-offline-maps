@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-03-29T18:03:59Z",
+  "lastUpdated": "2026-03-29T18:45:23Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2497,6 +2497,34 @@
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/mongolia-v1/mongolia-addresses-v3.zip",
         "sizeBytes": 1626532,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "saudi-arabia",
+      "continent": "asia",
+      "version": "v1",
+      "nameKey": "country_saudi_arabia",
+      "flagEmoji": "🇸🇦",
+      "boundingBox": [
+        34.4349,
+        15.2475,
+        60.9475,
+        32.1965
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/saudi-arabia-v1/saudi-arabia-routing-graph.zip",
+        "sizeBytes": 311812974,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/saudi-arabia-v1/saudi-arabia-map-tiles.zip",
+        "sizeBytes": 369683762,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/saudi-arabia-v1/saudi-arabia-addresses-v3.zip",
+        "sizeBytes": 28436679,
         "version": "v3"
       }
     }
