@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-03-29T23:28:00Z",
+  "lastUpdated": "2026-03-30T01:25:23Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2833,6 +2833,34 @@
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/ethiopia-v1/ethiopia-addresses-v3.zip",
         "sizeBytes": 1001681,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "tanzania",
+      "continent": "africa",
+      "version": "v1",
+      "nameKey": "country_tanzania",
+      "flagEmoji": "🇹🇿",
+      "boundingBox": [
+        29.244,
+        -11.7759,
+        40.6949,
+        -0.975
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/tanzania-v1/tanzania-routing-graph.zip",
+        "sizeBytes": 338552137,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/tanzania-v1/tanzania-map-tiles.zip",
+        "sizeBytes": 376662715,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/tanzania-v1/tanzania-addresses-v3.zip",
+        "sizeBytes": 21405955,
         "version": "v3"
       }
     }
