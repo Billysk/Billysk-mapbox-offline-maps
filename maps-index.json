@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-03-30T02:24:46Z",
+  "lastUpdated": "2026-03-30T13:06:14Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2917,6 +2917,34 @@
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/senegal-v1/senegal-addresses-v3.zip",
         "sizeBytes": 1226878,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "costa-rica",
+      "continent": "americas",
+      "version": "v1",
+      "nameKey": "country_costa_rica",
+      "flagEmoji": "🇨🇷",
+      "boundingBox": [
+        -87.8247,
+        4.9377,
+        -82.3495,
+        11.2237
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/costa-rica-v1/costa-rica-routing-graph.zip",
+        "sizeBytes": 22741528,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/costa-rica-v1/costa-rica-map-tiles.zip",
+        "sizeBytes": 57041566,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/costa-rica-v1/costa-rica-addresses-v3.zip",
+        "sizeBytes": 4756997,
         "version": "v3"
       }
     }
