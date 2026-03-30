@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-03-30T13:49:23Z",
+  "lastUpdated": "2026-03-30T13:58:14Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -3057,6 +3057,34 @@
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/el-salvador-v1/el-salvador-addresses-v3.zip",
         "sizeBytes": 1867720,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "nicaragua",
+      "continent": "americas",
+      "version": "v1",
+      "nameKey": "country_nicaragua",
+      "flagEmoji": "🇳🇮",
+      "boundingBox": [
+        -87.9774,
+        10.7018,
+        -82.3787,
+        15.1119
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/nicaragua-v1/nicaragua-routing-graph.zip",
+        "sizeBytes": 19926577,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/nicaragua-v1/nicaragua-map-tiles.zip",
+        "sizeBytes": 85580444,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/nicaragua-v1/nicaragua-addresses-v3.zip",
+        "sizeBytes": 1275721,
         "version": "v3"
       }
     }
