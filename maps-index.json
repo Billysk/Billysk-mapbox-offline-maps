@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-03-30T13:43:34Z",
+  "lastUpdated": "2026-03-30T13:49:23Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -3029,6 +3029,34 @@
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/honduras-v1/honduras-addresses-v3.zip",
         "sizeBytes": 1156570,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "el-salvador",
+      "continent": "americas",
+      "version": "v1",
+      "nameKey": "country_el_salvador",
+      "flagEmoji": "🇸🇻",
+      "boundingBox": [
+        -90.5009,
+        12.036,
+        -87.5844,
+        14.4576
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/el-salvador-v1/el-salvador-routing-graph.zip",
+        "sizeBytes": 18101457,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/el-salvador-v1/el-salvador-map-tiles.zip",
+        "sizeBytes": 32192135,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/el-salvador-v1/el-salvador-addresses-v3.zip",
+        "sizeBytes": 1867720,
         "version": "v3"
       }
     }
