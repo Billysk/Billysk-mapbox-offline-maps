@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-03-30T13:31:10Z",
+  "lastUpdated": "2026-03-30T13:43:34Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -3001,6 +3001,34 @@
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/guatemala-v1/guatemala-addresses-v3.zip",
         "sizeBytes": 2526623,
+        "version": "v3"
+      }
+    },
+    {
+      "id": "honduras",
+      "continent": "americas",
+      "version": "v1",
+      "nameKey": "country_honduras",
+      "flagEmoji": "🇭🇳",
+      "boundingBox": [
+        -89.36,
+        12.9694,
+        -81.6614,
+        17.9317
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/honduras-v1/honduras-routing-graph.zip",
+        "sizeBytes": 41541104,
+        "version": "v1"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/honduras-v1/honduras-map-tiles.zip",
+        "sizeBytes": 67577400,
+        "version": "v1"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/honduras-v1/honduras-addresses-v3.zip",
+        "sizeBytes": 1156570,
         "version": "v3"
       }
     }
