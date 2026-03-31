@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-03-30T17:26:49Z",
+  "lastUpdated": "2026-03-31T01:21:04Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -3407,6 +3407,75 @@
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/suriname-v1/suriname-addresses-v3.zip",
         "size": 3961868
+      },
+      "routingVersion": "v1",
+      "tilesVersion": "v1",
+      "addressesVersion": "v3"
+    },
+    {
+      "id": "usa",
+      "continent": "americas",
+      "nameKey": "country_usa",
+      "flagEmoji": "🇺🇸",
+      "boundingBox": {
+        "minLon": -179.2,
+        "minLat": 18.9,
+        "maxLon": -66.9,
+        "maxLat": 71.4
+      },
+      "routing": {
+        "parts": [
+          {
+            "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/usa-v1/usa-routing-graph.zip.001",
+            "size": 1991833600
+          },
+          {
+            "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/usa-v1/usa-routing-graph.zip.002",
+            "size": 1991833600
+          },
+          {
+            "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/usa-v1/usa-routing-graph.zip.003",
+            "size": 1991833600
+          },
+          {
+            "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/usa-v1/usa-routing-graph.zip.004",
+            "size": 9955585
+          }
+        ],
+        "size": 5985456385
+      },
+      "tiles": {
+        "parts": [
+          {
+            "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/usa-v1/usa-map-tiles.zip.001",
+            "size": 1991833600
+          },
+          {
+            "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/usa-v1/usa-map-tiles.zip.002",
+            "size": 1991833600
+          },
+          {
+            "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/usa-v1/usa-map-tiles.zip.003",
+            "size": 1991833600
+          },
+          {
+            "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/usa-v1/usa-map-tiles.zip.004",
+            "size": 1991833600
+          },
+          {
+            "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/usa-v1/usa-map-tiles.zip.005",
+            "size": 1991833600
+          },
+          {
+            "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/usa-v1/usa-map-tiles.zip.006",
+            "size": 477065185
+          }
+        ],
+        "size": 10436233185
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/usa-v1/usa-addresses.zip",
+        "size": 740121395
       },
       "routingVersion": "v1",
       "tilesVersion": "v1",
