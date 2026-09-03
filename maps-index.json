@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-03-31T06:23:32Z",
+  "lastUpdated": "2026-09-03T16:59:56Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -26,7 +26,7 @@
     {
       "id": "slovakia",
       "continent": "europe",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_slovakia",
       "flagEmoji": "🇸🇰",
       "boundingBox": [
@@ -36,19 +36,19 @@
         49.6138
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/slovakia-v1/slovakia-routing-graph.zip",
-        "sizeBytes": 59779071,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/slovakia-v2/slovakia-routing-graph.zip",
+        "sizeBytes": 60662098,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/slovakia-v1/slovakia-map-tiles.zip",
-        "sizeBytes": 247710183,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/slovakia-v2/slovakia-map-tiles.zip",
+        "sizeBytes": 259677840,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/slovakia-v1/slovakia-addresses-v3.zip",
-        "sizeBytes": 85099754,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/slovakia-v2/slovakia-addresses-v4.zip",
+        "sizeBytes": 79087646,
+        "version": "v4"
       }
     },
     {
