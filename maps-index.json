@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-03T19:50:21Z",
+  "lastUpdated": "2026-09-03T20:04:56Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -138,7 +138,7 @@
     {
       "id": "hungary",
       "continent": "europe",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_hungary",
       "flagEmoji": "🇭🇺",
       "boundingBox": [
@@ -148,19 +148,19 @@
         48.5856
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/hungary-v1/hungary-routing-graph.zip",
-        "sizeBytes": 114230243,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/hungary-v2/hungary-routing-graph.zip",
+        "sizeBytes": 114057978,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/hungary-v1/hungary-map-tiles.zip",
-        "sizeBytes": 277845297,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/hungary-v2/hungary-map-tiles.zip",
+        "sizeBytes": 286513260,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/hungary-v1/hungary-addresses-v3.zip",
-        "sizeBytes": 44965494,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/hungary-v2/hungary-addresses-v4.zip",
+        "sizeBytes": 43870302,
+        "version": "v4"
       }
     },
     {
