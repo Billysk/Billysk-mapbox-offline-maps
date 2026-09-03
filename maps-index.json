@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-03T20:32:41Z",
+  "lastUpdated": "2026-09-03T23:46:05Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -371,7 +371,7 @@
     {
       "id": "romania",
       "continent": "europe",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_romania",
       "flagEmoji": "🇷🇴",
       "boundingBox": [
@@ -381,19 +381,19 @@
         48.27
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/romania-v1/romania-routing-graph.zip",
-        "sizeBytes": 150597544,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/romania-v2/romania-routing-graph.zip",
+        "sizeBytes": 151316389,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/romania-v1/romania-map-tiles.zip",
-        "sizeBytes": 441389181,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/romania-v2/romania-map-tiles.zip",
+        "sizeBytes": 452277180,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/romania-v1/romania-addresses-v3.zip",
-        "sizeBytes": 69153195,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/romania-v2/romania-addresses-v4.zip",
+        "sizeBytes": 65086564,
+        "version": "v4"
       }
     },
     {
