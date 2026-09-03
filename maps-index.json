@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-03T16:59:56Z",
+  "lastUpdated": "2026-09-03T18:02:43Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -54,7 +54,7 @@
     {
       "id": "czech",
       "continent": "europe",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_czech",
       "flagEmoji": "🇨🇿",
       "boundingBox": [
@@ -64,19 +64,19 @@
         51.0557
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/czech-v1/czech-routing-graph.zip",
-        "sizeBytes": 141980564,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/czech-v2/czech-routing-graph.zip",
+        "sizeBytes": 143207751,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/czech-v1/czech-map-tiles.zip",
-        "sizeBytes": 640913386,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/czech-v2/czech-map-tiles.zip",
+        "sizeBytes": 649401222,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/czech-v1/czech-addresses-v3.zip",
-        "sizeBytes": 174067101,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/czech-v2/czech-addresses-v4.zip",
+        "sizeBytes": 162204347,
+        "version": "v4"
       }
     },
     {
