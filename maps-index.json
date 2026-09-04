@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-04T06:05:16Z",
+  "lastUpdated": "2026-09-04T10:20:18Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -400,7 +400,7 @@
     {
       "id": "switzerland",
       "continent": "europe",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_switzerland",
       "flagEmoji": "🇨🇭",
       "boundingBox": [
@@ -410,19 +410,19 @@
         47.81
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/switzerland-v1/switzerland-routing-graph.zip",
-        "sizeBytes": 129119850,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/switzerland-v2/switzerland-routing-graph.zip",
+        "sizeBytes": 129628568,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/switzerland-v1/switzerland-map-tiles.zip",
-        "sizeBytes": 337824888,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/switzerland-v2/switzerland-map-tiles.zip",
+        "sizeBytes": 346271698,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/switzerland-v1/switzerland-addresses-v3.zip",
-        "sizeBytes": 136711502,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/switzerland-v2/switzerland-addresses-v5.zip",
+        "sizeBytes": 124272305,
+        "version": "v5"
       }
     },
     {
