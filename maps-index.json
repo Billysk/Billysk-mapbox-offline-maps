@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-04T10:20:18Z",
+  "lastUpdated": "2026-09-04T19:26:21Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -525,7 +525,7 @@
     {
       "id": "belgium",
       "continent": "europe",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_belgium",
       "flagEmoji": "🇧🇪",
       "boundingBox": [
@@ -535,19 +535,19 @@
         51.5051
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/belgium-v1/belgium-routing-graph.zip",
-        "sizeBytes": 99186754,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/belgium-v2/belgium-routing-graph.zip",
+        "sizeBytes": 98753364,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/belgium-v1/belgium-map-tiles.zip",
-        "sizeBytes": 416282953,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/belgium-v2/belgium-map-tiles.zip",
+        "sizeBytes": 422909618,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/belgium-v1/belgium-addresses-v3.zip",
-        "sizeBytes": 221567945,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/belgium-v2/belgium-addresses-v5.zip",
+        "sizeBytes": 200484694,
+        "version": "v5"
       }
     },
     {
