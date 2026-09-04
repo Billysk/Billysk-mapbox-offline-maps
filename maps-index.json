@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-04T00:36:26Z",
+  "lastUpdated": "2026-09-04T02:08:14Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -203,7 +203,7 @@
     {
       "id": "italy",
       "continent": "europe",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_italy",
       "flagEmoji": "🇮🇹",
       "boundingBox": [
@@ -213,19 +213,19 @@
         47.0952
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/italy-v1/italy-routing-graph.zip",
-        "sizeBytes": 681762229,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/italy-v2/italy-routing-graph.zip",
+        "sizeBytes": 681239730,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/italy-v1/italy-map-tiles.zip",
-        "sizeBytes": 1614708353,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/italy-v2/italy-map-tiles.zip",
+        "sizeBytes": 1664561862,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/italy-v1/italy-addresses-v3.zip",
-        "sizeBytes": 282467960,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/italy-v2/italy-addresses-v4.zip",
+        "sizeBytes": 266906210,
+        "version": "v4"
       }
     },
     {
