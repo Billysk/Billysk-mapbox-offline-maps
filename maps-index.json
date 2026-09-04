@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-04T00:20:36Z",
+  "lastUpdated": "2026-09-04T00:36:26Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -231,7 +231,7 @@
     {
       "id": "slovenia",
       "continent": "europe",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_slovenia",
       "flagEmoji": "🇸🇮",
       "boundingBox": [
@@ -241,19 +241,19 @@
         46.8766
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/slovenia-v1/slovenia-routing-graph.zip",
-        "sizeBytes": 47001123,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/slovenia-v2/slovenia-routing-graph.zip",
+        "sizeBytes": 47625422,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/slovenia-v1/slovenia-map-tiles.zip",
-        "sizeBytes": 218446036,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/slovenia-v2/slovenia-map-tiles.zip",
+        "sizeBytes": 221309001,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/slovenia-v1/slovenia-addresses-v3.zip",
-        "sizeBytes": 24608061,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/slovenia-v2/slovenia-addresses-v4.zip",
+        "sizeBytes": 22824486,
+        "version": "v4"
       }
     },
     {
