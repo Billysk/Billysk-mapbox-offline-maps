@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-04T02:08:14Z",
+  "lastUpdated": "2026-09-04T04:56:25Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -166,7 +166,7 @@
     {
       "id": "germany",
       "continent": "europe",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_germany",
       "flagEmoji": "🇩🇪",
       "boundingBox": [
@@ -176,28 +176,29 @@
         55.0585
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/germany-v1/germany-routing-graph.zip",
-        "sizeBytes": 1102835110,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/germany-v2/germany-routing-graph.zip",
+        "sizeBytes": 1101791531,
+        "version": "v2"
       },
       "tiles": {
-        "sizeBytes": 3033278604,
-        "version": "v1",
+        "sizeBytes": 3097106381,
+        "version": "v2",
         "parts": [
           {
-            "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/germany-v1/germany-map-tiles.zip.001",
+            "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/germany-v2/germany-map-tiles.zip.001",
             "sizeBytes": 1572864000
           },
           {
-            "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/germany-v1/germany-map-tiles.zip.002",
-            "sizeBytes": 1460414604
+            "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/germany-v2/germany-map-tiles.zip.002",
+            "sizeBytes": 1524242381
           }
-        ]
+        ],
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/germany-v2/germany-map-tiles.zip"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/germany-v1/germany-addresses-v3.zip",
-        "sizeBytes": 1212970228,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/germany-v2/germany-addresses-v4.zip",
+        "sizeBytes": 1108189029,
+        "version": "v4"
       }
     },
     {
