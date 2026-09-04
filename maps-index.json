@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-04T00:01:57Z",
+  "lastUpdated": "2026-09-04T00:20:36Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -343,7 +343,7 @@
     {
       "id": "bulgaria",
       "continent": "europe",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_bulgaria",
       "flagEmoji": "🇧🇬",
       "boundingBox": [
@@ -353,19 +353,19 @@
         44.21
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/bulgaria-v1/bulgaria-routing-graph.zip",
-        "sizeBytes": 97173502,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/bulgaria-v2/bulgaria-routing-graph.zip",
+        "sizeBytes": 100451716,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/bulgaria-v1/bulgaria-map-tiles.zip",
-        "sizeBytes": 206815090,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/bulgaria-v2/bulgaria-map-tiles.zip",
+        "sizeBytes": 216503097,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/bulgaria-v1/bulgaria-addresses-v3.zip",
-        "sizeBytes": 13212000,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/bulgaria-v2/bulgaria-addresses-v4.zip",
+        "sizeBytes": 13047379,
+        "version": "v4"
       }
     },
     {
