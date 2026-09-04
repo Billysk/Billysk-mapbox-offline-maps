@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-04T05:55:45Z",
+  "lastUpdated": "2026-09-04T06:05:16Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -158,9 +158,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/hungary-v2/hungary-addresses-v4.zip",
-        "sizeBytes": 43870302,
-        "version": "v4"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/hungary-v2/hungary-addresses-v5.zip",
+        "sizeBytes": 43873793,
+        "version": "v5"
       }
     },
     {
