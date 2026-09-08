@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-08T11:19:36Z",
+  "lastUpdated": "2026-09-08T12:24:38Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -46,9 +46,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/slovakia-v2/slovakia-addresses-v5.zip",
-        "sizeBytes": 79686057,
-        "version": "v5"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/slovakia-v2/slovakia-addresses-v6.zip",
+        "sizeBytes": 80564932,
+        "version": "v6"
       }
     },
     {
