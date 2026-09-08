@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-08T23:18:59Z",
+  "lastUpdated": "2026-09-08T23:19:02Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -573,9 +573,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/netherlands-v2/netherlands-addresses-v5.zip",
-        "sizeBytes": 504806900,
-        "version": "v5"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/netherlands-v2/netherlands-addresses-v6.zip",
+        "sizeBytes": 502673816,
+        "version": "v6"
       }
     },
     {
