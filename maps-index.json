@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-08T09:14:15Z",
+  "lastUpdated": "2026-09-08T10:15:58Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -553,7 +553,7 @@
     {
       "id": "netherlands",
       "continent": "europe",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_netherlands",
       "flagEmoji": "🇳🇱",
       "boundingBox": [
@@ -563,19 +563,19 @@
         53.5104
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/netherlands-v1/netherlands-routing-graph.zip",
-        "sizeBytes": 145797942,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/netherlands-v2/netherlands-routing-graph.zip",
+        "sizeBytes": 145583907,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/netherlands-v1/netherlands-map-tiles.zip",
-        "sizeBytes": 656307725,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/netherlands-v2/netherlands-map-tiles.zip",
+        "sizeBytes": 670995077,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/netherlands-v1/netherlands-addresses-v3.zip",
-        "sizeBytes": 555857568,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/netherlands-v2/netherlands-addresses-v5.zip",
+        "sizeBytes": 504806900,
+        "version": "v5"
       }
     },
     {
