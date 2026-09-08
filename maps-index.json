@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-08T12:24:38Z",
+  "lastUpdated": "2026-09-08T23:18:33Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -252,9 +252,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/slovenia-v2/slovenia-addresses-v4.zip",
-        "sizeBytes": 22824486,
-        "version": "v4"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/slovenia-v2/slovenia-addresses-v6.zip",
+        "sizeBytes": 23044730,
+        "version": "v6"
       }
     },
     {
