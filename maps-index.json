@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-09T06:35:47Z",
+  "lastUpdated": "2026-09-09T06:35:49Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -316,7 +316,7 @@
     {
       "id": "montenegro",
       "continent": "europe",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_montenegro",
       "flagEmoji": "🇲🇪",
       "boundingBox": [
@@ -326,19 +326,19 @@
         43.56
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/montenegro-v1/montenegro-routing-graph.zip",
-        "sizeBytes": 11523245,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/montenegro-v2/montenegro-routing-graph.zip",
+        "sizeBytes": 11643131,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/montenegro-v1/montenegro-map-tiles.zip",
-        "sizeBytes": 42461304,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/montenegro-v2/montenegro-map-tiles.zip",
+        "sizeBytes": 43736436,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/montenegro-v1/montenegro-addresses-v3.zip",
-        "sizeBytes": 1181868,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/montenegro-v2/montenegro-addresses-v6.zip",
+        "sizeBytes": 1240013,
+        "version": "v6"
       }
     },
     {
