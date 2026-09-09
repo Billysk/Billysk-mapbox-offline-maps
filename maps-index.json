@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-09T14:56:21Z",
+  "lastUpdated": "2026-09-09T15:07:07Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -945,7 +945,7 @@
     {
       "id": "north-macedonia",
       "continent": "europe",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_north_macedonia",
       "flagEmoji": "🇲🇰",
       "boundingBox": [
@@ -955,19 +955,19 @@
         42.3736
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/north-macedonia-v1/north-macedonia-routing-graph.zip",
-        "sizeBytes": 15000337,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/north-macedonia-v2/north-macedonia-routing-graph.zip",
+        "sizeBytes": 14184149,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/north-macedonia-v1/north-macedonia-map-tiles.zip",
-        "sizeBytes": 39375232,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/north-macedonia-v2/north-macedonia-map-tiles.zip",
+        "sizeBytes": 40370546,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/north-macedonia-v1/north-macedonia-addresses-v3.zip",
-        "sizeBytes": 1613609,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/north-macedonia-v2/north-macedonia-addresses-v7.zip",
+        "sizeBytes": 2062079,
+        "version": "v7"
       }
     },
     {
