@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-09T17:04:12Z",
+  "lastUpdated": "2026-09-09T19:02:44Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -769,9 +769,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/ukraine-v2/ukraine-addresses-v7.zip",
-        "sizeBytes": 110826526,
-        "version": "v7"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/ukraine-v2/ukraine-addresses-v8.zip",
+        "sizeBytes": 125749236,
+        "version": "v8"
       }
     },
     {
