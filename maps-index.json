@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-09T15:07:07Z",
+  "lastUpdated": "2026-09-09T17:04:12Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -749,7 +749,7 @@
     {
       "id": "ukraine",
       "continent": "europe",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_ukraine",
       "flagEmoji": "🇺🇦",
       "boundingBox": [
@@ -759,19 +759,19 @@
         52.3791
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/ukraine-v1/ukraine-routing-graph.zip",
-        "sizeBytes": 414484588,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/ukraine-v2/ukraine-routing-graph.zip",
+        "sizeBytes": 381490363,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/ukraine-v1/ukraine-map-tiles.zip",
-        "sizeBytes": 1158638977,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/ukraine-v2/ukraine-map-tiles.zip",
+        "sizeBytes": 1180082116,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/ukraine-v1/ukraine-addresses-v3.zip",
-        "sizeBytes": 103797058,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/ukraine-v2/ukraine-addresses-v7.zip",
+        "sizeBytes": 110826526,
+        "version": "v7"
       }
     },
     {
