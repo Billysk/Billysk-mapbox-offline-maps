@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-09T02:03:03Z",
+  "lastUpdated": "2026-09-09T02:03:06Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -224,9 +224,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/italy-v2/italy-addresses-v4.zip",
-        "sizeBytes": 266906210,
-        "version": "v4"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/italy-v2/italy-addresses-v6.zip",
+        "sizeBytes": 275950823,
+        "version": "v6"
       }
     },
     {
