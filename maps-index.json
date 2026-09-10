@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-10T11:10:21Z",
+  "lastUpdated": "2026-09-10T11:10:23Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1141,7 +1141,7 @@
     {
       "id": "malta",
       "continent": "europe",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_malta",
       "flagEmoji": "🇲🇹",
       "boundingBox": [
@@ -1151,19 +1151,19 @@
         36.0823
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/malta-v1/malta-routing-graph.zip",
-        "sizeBytes": 3637107,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/malta-v2/malta-routing-graph.zip",
+        "sizeBytes": 3593453,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/malta-v1/malta-map-tiles.zip",
-        "sizeBytes": 5774561,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/malta-v2/malta-map-tiles.zip",
+        "sizeBytes": 5973677,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/malta-v1/malta-addresses-v3.zip",
-        "sizeBytes": 1008125,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/malta-v2/malta-addresses-v8.zip",
+        "sizeBytes": 1155984,
+        "version": "v8"
       }
     },
     {
