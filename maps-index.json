@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-10T11:10:12Z",
+  "lastUpdated": "2026-09-10T11:10:15Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1365,7 +1365,7 @@
     {
       "id": "guernsey-jersey",
       "continent": "europe",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_guernsey_jersey",
       "flagEmoji": "🇬🇬",
       "boundingBox": [
@@ -1375,19 +1375,19 @@
         49.73
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/guernsey-jersey-v1/guernsey-jersey-routing-graph.zip",
-        "sizeBytes": 1436910,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/guernsey-jersey-v2/guernsey-jersey-routing-graph.zip",
+        "sizeBytes": 1433538,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/guernsey-jersey-v1/guernsey-jersey-map-tiles.zip",
-        "sizeBytes": 3986972,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/guernsey-jersey-v2/guernsey-jersey-map-tiles.zip",
+        "sizeBytes": 3984987,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/guernsey-jersey-v1/guernsey-jersey-addresses-v3.zip",
-        "sizeBytes": 563643,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/guernsey-jersey-v2/guernsey-jersey-addresses-v8.zip",
+        "sizeBytes": 611547,
+        "version": "v8"
       }
     },
     {
