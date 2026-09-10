@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-10T06:46:56Z",
+  "lastUpdated": "2026-09-10T06:46:59Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -308,9 +308,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/serbia-v2/serbia-addresses-v7.zip",
-        "sizeBytes": 129724233,
-        "version": "v7"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/serbia-v2/serbia-addresses-v8.zip",
+        "sizeBytes": 129739094,
+        "version": "v8"
       }
     },
     {
