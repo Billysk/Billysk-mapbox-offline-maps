@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-10T11:10:35Z",
+  "lastUpdated": "2026-09-10T11:10:38Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1113,7 +1113,7 @@
     {
       "id": "iceland",
       "continent": "europe",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_iceland",
       "flagEmoji": "🇮🇸",
       "boundingBox": [
@@ -1123,19 +1123,19 @@
         66.5664
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/iceland-v1/iceland-routing-graph.zip",
-        "sizeBytes": 10741186,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/iceland-v2/iceland-routing-graph.zip",
+        "sizeBytes": 10623248,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/iceland-v1/iceland-map-tiles.zip",
-        "sizeBytes": 163339670,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/iceland-v2/iceland-map-tiles.zip",
+        "sizeBytes": 164817287,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/iceland-v1/iceland-addresses-v3.zip",
-        "sizeBytes": 6522105,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/iceland-v2/iceland-addresses-v8.zip",
+        "sizeBytes": 6299039,
+        "version": "v8"
       }
     },
     {
