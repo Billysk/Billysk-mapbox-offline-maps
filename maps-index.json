@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-10T06:47:07Z",
+  "lastUpdated": "2026-09-10T06:47:10Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -196,9 +196,9 @@
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/germany-v2/germany-map-tiles.zip"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/germany-v2/germany-addresses-v6.zip",
-        "sizeBytes": 1120955826,
-        "version": "v6"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/germany-v2/germany-addresses-v8.zip",
+        "sizeBytes": 1124875239,
+        "version": "v8"
       }
     },
     {
