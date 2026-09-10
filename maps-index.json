@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-10T11:10:32Z",
+  "lastUpdated": "2026-09-10T11:10:35Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -917,7 +917,7 @@
     {
       "id": "albania",
       "continent": "europe",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_albania",
       "flagEmoji": "🇦🇱",
       "boundingBox": [
@@ -927,19 +927,19 @@
         42.6611
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/albania-v1/albania-routing-graph.zip",
-        "sizeBytes": 25843840,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/albania-v2/albania-routing-graph.zip",
+        "sizeBytes": 24115937,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/albania-v1/albania-map-tiles.zip",
-        "sizeBytes": 56256519,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/albania-v2/albania-map-tiles.zip",
+        "sizeBytes": 59862277,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/albania-v1/albania-addresses-v3.zip",
-        "sizeBytes": 3272437,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/albania-v2/albania-addresses-v8.zip",
+        "sizeBytes": 3496739,
+        "version": "v8"
       }
     },
     {
