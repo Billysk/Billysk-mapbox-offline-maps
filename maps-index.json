@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-10T06:47:10Z",
+  "lastUpdated": "2026-09-10T09:53:42Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1253,7 +1253,7 @@
     {
       "id": "monaco",
       "continent": "europe",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_monaco",
       "flagEmoji": "🇲🇨",
       "boundingBox": [
@@ -1263,19 +1263,19 @@
         43.7519
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/monaco-v1/monaco-routing-graph.zip",
-        "sizeBytes": 101065,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/monaco-v2/monaco-routing-graph.zip",
+        "sizeBytes": 93899,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/monaco-v1/monaco-map-tiles.zip",
-        "sizeBytes": 390363,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/monaco-v2/monaco-map-tiles.zip",
+        "sizeBytes": 389800,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/monaco-v1/monaco-addresses-v3.zip",
-        "sizeBytes": 119237,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/monaco-v2/monaco-addresses-v8.zip",
+        "sizeBytes": 120744,
+        "version": "v8"
       }
     },
     {
