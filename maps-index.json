@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-10T11:10:18Z",
+  "lastUpdated": "2026-09-10T11:10:21Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1309,7 +1309,7 @@
     {
       "id": "faroe-islands",
       "continent": "europe",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_faroe_islands",
       "flagEmoji": "🇫🇴",
       "boundingBox": [
@@ -1319,19 +1319,19 @@
         62.4
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/faroe-islands-v1/faroe-islands-routing-graph.zip",
-        "sizeBytes": 1405766,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/faroe-islands-v2/faroe-islands-routing-graph.zip",
+        "sizeBytes": 1406409,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/faroe-islands-v1/faroe-islands-map-tiles.zip",
-        "sizeBytes": 9438815,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/faroe-islands-v2/faroe-islands-map-tiles.zip",
+        "sizeBytes": 9502864,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/faroe-islands-v1/faroe-islands-addresses-v3.zip",
-        "sizeBytes": 1350313,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/faroe-islands-v2/faroe-islands-addresses-v8.zip",
+        "sizeBytes": 1361874,
+        "version": "v8"
       }
     },
     {
