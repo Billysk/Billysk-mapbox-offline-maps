@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-10T11:10:26Z",
+  "lastUpdated": "2026-09-10T11:10:29Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1001,7 +1001,7 @@
     {
       "id": "kosovo",
       "continent": "europe",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_kosovo",
       "flagEmoji": "🇽🇰",
       "boundingBox": [
@@ -1011,19 +1011,19 @@
         43.2695
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/kosovo-v1/kosovo-routing-graph.zip",
-        "sizeBytes": 16139620,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/kosovo-v2/kosovo-routing-graph.zip",
+        "sizeBytes": 15028334,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/kosovo-v1/kosovo-map-tiles.zip",
-        "sizeBytes": 35526042,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/kosovo-v2/kosovo-map-tiles.zip",
+        "sizeBytes": 35751480,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/kosovo-v1/kosovo-addresses-v3.zip",
-        "sizeBytes": 15535997,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/kosovo-v2/kosovo-addresses-v8.zip",
+        "sizeBytes": 16565296,
+        "version": "v8"
       }
     },
     {
