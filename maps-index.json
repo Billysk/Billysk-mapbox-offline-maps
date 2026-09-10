@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-10T06:46:40Z",
+  "lastUpdated": "2026-09-10T06:46:43Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -392,9 +392,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/romania-v2/romania-addresses-v6.zip",
-        "sizeBytes": 65568985,
-        "version": "v6"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/romania-v2/romania-addresses-v8.zip",
+        "sizeBytes": 65775453,
+        "version": "v8"
       }
     },
     {
