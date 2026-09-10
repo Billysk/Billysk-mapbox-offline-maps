@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-10T11:10:23Z",
+  "lastUpdated": "2026-09-10T11:10:26Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1337,7 +1337,7 @@
     {
       "id": "azores",
       "continent": "europe",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_azores",
       "flagEmoji": "🇵🇹",
       "boundingBox": [
@@ -1347,19 +1347,19 @@
         39.73
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/azores-v1/azores-routing-graph.zip",
-        "sizeBytes": 3932666,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/azores-v2/azores-routing-graph.zip",
+        "sizeBytes": 3967111,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/azores-v1/azores-map-tiles.zip",
-        "sizeBytes": 15530028,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/azores-v2/azores-map-tiles.zip",
+        "sizeBytes": 15866684,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/azores-v1/azores-addresses-v3.zip",
-        "sizeBytes": 1110801,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/azores-v2/azores-addresses-v8.zip",
+        "sizeBytes": 1213063,
+        "version": "v8"
       }
     },
     {
