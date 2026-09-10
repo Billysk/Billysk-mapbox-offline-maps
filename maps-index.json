@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-10T06:46:18Z",
+  "lastUpdated": "2026-09-10T06:46:21Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -336,9 +336,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/montenegro-v2/montenegro-addresses-v7.zip",
-        "sizeBytes": 1614767,
-        "version": "v7"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/montenegro-v2/montenegro-addresses-v8.zip",
+        "sizeBytes": 1619493,
+        "version": "v8"
       }
     },
     {
