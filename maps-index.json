@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-10T09:53:42Z",
+  "lastUpdated": "2026-09-10T11:10:09Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1197,7 +1197,7 @@
     {
       "id": "liechtenstein",
       "continent": "europe",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_liechtenstein",
       "flagEmoji": "🇱🇮",
       "boundingBox": [
@@ -1207,19 +1207,19 @@
         47.2706
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/liechtenstein-v1/liechtenstein-routing-graph.zip",
-        "sizeBytes": 656326,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/liechtenstein-v2/liechtenstein-routing-graph.zip",
+        "sizeBytes": 656829,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/liechtenstein-v1/liechtenstein-map-tiles.zip",
-        "sizeBytes": 2323311,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/liechtenstein-v2/liechtenstein-map-tiles.zip",
+        "sizeBytes": 2353572,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/liechtenstein-v1/liechtenstein-addresses-v3.zip",
-        "sizeBytes": 722183,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/liechtenstein-v2/liechtenstein-addresses-v8.zip",
+        "sizeBytes": 677367,
+        "version": "v8"
       }
     },
     {
