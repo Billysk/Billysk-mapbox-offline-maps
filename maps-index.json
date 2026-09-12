@@ -1,11 +1,11 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-12T03:44:30Z",
+  "lastUpdated": "2026-09-12T12:04:12Z",
   "regions": [
     {
       "id": "europe-highways",
       "continent": "europe",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "europe_highways_map",
       "flagEmoji": "🇪🇺",
       "boundingBox": [
@@ -15,9 +15,9 @@
         72.0
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/europe-highways-v1/europe-highways-routing-graph.zip",
-        "sizeBytes": 298384258,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/europe-highways-v2/europe-highways-routing-graph.zip",
+        "sizeBytes": 297254355,
+        "version": "v2"
       },
       "tiles": {
         "sizeBytes": 0
