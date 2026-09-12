@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-10T11:10:38Z",
+  "lastUpdated": "2026-09-12T03:44:30Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -428,7 +428,7 @@
     {
       "id": "france",
       "continent": "europe",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_france",
       "flagEmoji": "🇫🇷",
       "boundingBox": [
@@ -438,32 +438,33 @@
         51.089
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/france-v1/france-routing-graph.zip",
-        "sizeBytes": 1220070445,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/france-v2/france-routing-graph.zip",
+        "sizeBytes": 1215472258,
+        "version": "v2"
       },
       "tiles": {
-        "sizeBytes": 3382120135,
-        "version": "v1",
+        "sizeBytes": 3451113193,
+        "version": "v2",
         "parts": [
           {
-            "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/france-v1/france-map-tiles.zip.001",
-            "sizeBytes": 1610612736
+            "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/france-v2/france-map-tiles.zip.001",
+            "sizeBytes": 1572864000
           },
           {
-            "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/france-v1/france-map-tiles.zip.002",
-            "sizeBytes": 1610612736
+            "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/france-v2/france-map-tiles.zip.002",
+            "sizeBytes": 1572864000
           },
           {
-            "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/france-v1/france-map-tiles.zip.003",
-            "sizeBytes": 160894663
+            "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/france-v2/france-map-tiles.zip.003",
+            "sizeBytes": 305385193
           }
-        ]
+        ],
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/france-v2/france-map-tiles.zip"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/france-v1/france-addresses-v3.zip",
-        "sizeBytes": 634988640,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/france-v2/france-addresses-v8.zip",
+        "sizeBytes": 624645833,
+        "version": "v8"
       }
     },
     {
