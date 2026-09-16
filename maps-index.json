@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-12T12:04:12Z",
+  "lastUpdated": "2026-09-16T17:55:05Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -3482,6 +3482,790 @@
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/usa-v1/usa-addresses.zip",
         "sizeBytes": 740121395,
         "version": "v3"
+      }
+    },
+    {
+      "id": "nauru",
+      "continent": "oceania",
+      "version": "v2",
+      "nameKey": "country_nauru",
+      "flagEmoji": "🇳🇷",
+      "boundingBox": [
+        163.7052,
+        -3.7712,
+        168.5599,
+        2.6939
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/nauru-v2/nauru-routing-graph.zip",
+        "sizeBytes": 69619,
+        "version": "v2"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/nauru-v2/nauru-map-tiles.zip",
+        "sizeBytes": 577021,
+        "version": "v2"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/nauru-v2/nauru-addresses-v8.zip",
+        "sizeBytes": 15928,
+        "version": "v8"
+      }
+    },
+    {
+      "id": "tuvalu",
+      "continent": "oceania",
+      "version": "v2",
+      "nameKey": "country_tuvalu",
+      "flagEmoji": "🇹🇻",
+      "boundingBox": [
+        176.0,
+        -10.9,
+        180.0,
+        -5.5
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/tuvalu-v2/tuvalu-routing-graph.zip",
+        "sizeBytes": 52278,
+        "version": "v2"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/tuvalu-v2/tuvalu-map-tiles.zip",
+        "sizeBytes": 37027328,
+        "version": "v2"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/tuvalu-v2/tuvalu-addresses-v8.zip",
+        "sizeBytes": 10115,
+        "version": "v8"
+      }
+    },
+    {
+      "id": "palau",
+      "continent": "oceania",
+      "version": "v2",
+      "nameKey": "country_palau",
+      "flagEmoji": "🇵🇼",
+      "boundingBox": [
+        130.1034,
+        1.6214,
+        136.9541,
+        11.4882
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/palau-v2/palau-routing-graph.zip",
+        "sizeBytes": 163975,
+        "version": "v2"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/palau-v2/palau-map-tiles.zip",
+        "sizeBytes": 2173971,
+        "version": "v2"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/palau-v2/palau-addresses-v8.zip",
+        "sizeBytes": 39904,
+        "version": "v8"
+      }
+    },
+    {
+      "id": "cook-islands",
+      "continent": "oceania",
+      "version": "v2",
+      "nameKey": "country_cook_islands",
+      "flagEmoji": "🇨🇰",
+      "boundingBox": [
+        -168.4661,
+        -25.2887,
+        -154.8056,
+        -5.8005
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/cook-islands-v2/cook-islands-routing-graph.zip",
+        "sizeBytes": 209652,
+        "version": "v2"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/cook-islands-v2/cook-islands-map-tiles.zip",
+        "sizeBytes": 3191799,
+        "version": "v2"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/cook-islands-v2/cook-islands-addresses-v8.zip",
+        "sizeBytes": 71450,
+        "version": "v8"
+      }
+    },
+    {
+      "id": "sao-tome-and-principe",
+      "continent": "africa",
+      "version": "v2",
+      "nameKey": "country_sao_tome",
+      "flagEmoji": "🇸🇹",
+      "boundingBox": [
+        5.2739,
+        -0.5256,
+        8.367,
+        2.4403
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/sao-tome-and-principe-v2/sao-tome-and-principe-routing-graph.zip",
+        "sizeBytes": 399340,
+        "version": "v2"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/sao-tome-and-principe-v2/sao-tome-and-principe-map-tiles.zip",
+        "sizeBytes": 2298089,
+        "version": "v2"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/sao-tome-and-principe-v2/sao-tome-and-principe-addresses-v8.zip",
+        "sizeBytes": 49535,
+        "version": "v8"
+      }
+    },
+    {
+      "id": "micronesia",
+      "continent": "oceania",
+      "version": "v2",
+      "nameKey": "country_micronesia",
+      "flagEmoji": "🇫🇲",
+      "boundingBox": [
+        135.3124,
+        -1.1474,
+        165.6345,
+        13.2192
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/micronesia-v2/micronesia-routing-graph.zip",
+        "sizeBytes": 248391,
+        "version": "v2"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/micronesia-v2/micronesia-map-tiles.zip",
+        "sizeBytes": 6179328,
+        "version": "v2"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/micronesia-v2/micronesia-addresses-v8.zip",
+        "sizeBytes": 49324,
+        "version": "v8"
+      }
+    },
+    {
+      "id": "marshall-islands",
+      "continent": "oceania",
+      "version": "v2",
+      "nameKey": "country_marshall_islands",
+      "flagEmoji": "🇲🇭",
+      "boundingBox": [
+        156.8453,
+        1.7773,
+        175.5118,
+        17.9461
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/marshall-islands-v2/marshall-islands-routing-graph.zip",
+        "sizeBytes": 245079,
+        "version": "v2"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/marshall-islands-v2/marshall-islands-map-tiles.zip",
+        "sizeBytes": 4389191,
+        "version": "v2"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/marshall-islands-v2/marshall-islands-addresses-v8.zip",
+        "sizeBytes": 30475,
+        "version": "v8"
+      }
+    },
+    {
+      "id": "kiribati",
+      "continent": "oceania",
+      "version": "v2",
+      "nameKey": "country_kiribati",
+      "flagEmoji": "🇰🇮",
+      "boundingBox": [
+        169.0,
+        -2.8,
+        177.5,
+        4.0
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/kiribati-v2/kiribati-routing-graph.zip",
+        "sizeBytes": 468461,
+        "version": "v2"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/kiribati-v2/kiribati-map-tiles.zip",
+        "sizeBytes": 92449678,
+        "version": "v2"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/kiribati-v2/kiribati-addresses-v8.zip",
+        "sizeBytes": 50507,
+        "version": "v8"
+      }
+    },
+    {
+      "id": "seychelles",
+      "continent": "africa",
+      "version": "v2",
+      "nameKey": "country_seychelles",
+      "flagEmoji": "🇸🇨",
+      "boundingBox": [
+        45.685,
+        -12.5584,
+        57.5743,
+        -3.1724
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/seychelles-v2/seychelles-routing-graph.zip",
+        "sizeBytes": 424641,
+        "version": "v2"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/seychelles-v2/seychelles-map-tiles.zip",
+        "sizeBytes": 3712795,
+        "version": "v2"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/seychelles-v2/seychelles-addresses-v8.zip",
+        "sizeBytes": 148866,
+        "version": "v8"
+      }
+    },
+    {
+      "id": "samoa",
+      "continent": "oceania",
+      "version": "v2",
+      "nameKey": "country_samoa",
+      "flagEmoji": "🇼🇸",
+      "boundingBox": [
+        -174.5114,
+        -15.8784,
+        -170.5427,
+        -10.9608
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/samoa-v2/samoa-routing-graph.zip",
+        "sizeBytes": 760893,
+        "version": "v2"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/samoa-v2/samoa-map-tiles.zip",
+        "sizeBytes": 3323425,
+        "version": "v2"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/samoa-v2/samoa-addresses-v8.zip",
+        "sizeBytes": 189404,
+        "version": "v8"
+      }
+    },
+    {
+      "id": "tonga",
+      "continent": "oceania",
+      "version": "v2",
+      "nameKey": "country_tonga",
+      "flagEmoji": "🇹🇴",
+      "boundingBox": [
+        -178.6487,
+        -25.6841,
+        -171.3053,
+        -14.1546
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/tonga-v2/tonga-routing-graph.zip",
+        "sizeBytes": 805332,
+        "version": "v2"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/tonga-v2/tonga-map-tiles.zip",
+        "sizeBytes": 4614846,
+        "version": "v2"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/tonga-v2/tonga-addresses-v8.zip",
+        "sizeBytes": 83539,
+        "version": "v8"
+      }
+    },
+    {
+      "id": "comoros",
+      "continent": "africa",
+      "version": "v2",
+      "nameKey": "country_comoros",
+      "flagEmoji": "🇰🇲",
+      "boundingBox": [
+        42.7498,
+        -12.969,
+        45.5966,
+        -10.7418
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/comoros-v2/comoros-routing-graph.zip",
+        "sizeBytes": 902135,
+        "version": "v2"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/comoros-v2/comoros-map-tiles.zip",
+        "sizeBytes": 3596958,
+        "version": "v2"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/comoros-v2/comoros-addresses-v8.zip",
+        "sizeBytes": 140963,
+        "version": "v8"
+      }
+    },
+    {
+      "id": "equatorial-guinea",
+      "continent": "africa",
+      "version": "v2",
+      "nameKey": "country_equatorial_guinea",
+      "flagEmoji": "🇬🇶",
+      "boundingBox": [
+        5.1656,
+        -1.7927,
+        11.4234,
+        4.1471
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/equatorial-guinea-v2/equatorial-guinea-routing-graph.zip",
+        "sizeBytes": 2109968,
+        "version": "v2"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/equatorial-guinea-v2/equatorial-guinea-map-tiles.zip",
+        "sizeBytes": 9347812,
+        "version": "v2"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/equatorial-guinea-v2/equatorial-guinea-addresses-v8.zip",
+        "sizeBytes": 72762,
+        "version": "v8"
+      }
+    },
+    {
+      "id": "djibouti",
+      "continent": "africa",
+      "version": "v2",
+      "nameKey": "country_djibouti",
+      "flagEmoji": "🇩🇯",
+      "boundingBox": [
+        41.7618,
+        10.8882,
+        43.8457,
+        12.8262
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/djibouti-v2/djibouti-routing-graph.zip",
+        "sizeBytes": 2430824,
+        "version": "v2"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/djibouti-v2/djibouti-map-tiles.zip",
+        "sizeBytes": 6839781,
+        "version": "v2"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/djibouti-v2/djibouti-addresses-v8.zip",
+        "sizeBytes": 120543,
+        "version": "v8"
+      }
+    },
+    {
+      "id": "vanuatu",
+      "continent": "oceania",
+      "version": "v2",
+      "nameKey": "country_vanuatu",
+      "flagEmoji": "🇻🇺",
+      "boundingBox": [
+        163.3086,
+        -21.6429,
+        173.6089,
+        -12.2963
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/vanuatu-v2/vanuatu-routing-graph.zip",
+        "sizeBytes": 1253541,
+        "version": "v2"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/vanuatu-v2/vanuatu-map-tiles.zip",
+        "sizeBytes": 9119798,
+        "version": "v2"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/vanuatu-v2/vanuatu-addresses-v8.zip",
+        "sizeBytes": 116105,
+        "version": "v8"
+      }
+    },
+    {
+      "id": "mauritius",
+      "continent": "africa",
+      "version": "v2",
+      "nameKey": "country_mauritius",
+      "flagEmoji": "🇲🇺",
+      "boundingBox": [
+        53.5473,
+        -22.2411,
+        64.6699,
+        -9.1836
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/mauritius-v2/mauritius-routing-graph.zip",
+        "sizeBytes": 6585616,
+        "version": "v2"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/mauritius-v2/mauritius-map-tiles.zip",
+        "sizeBytes": 10371577,
+        "version": "v2"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/mauritius-v2/mauritius-addresses-v8.zip",
+        "sizeBytes": 919732,
+        "version": "v8"
+      }
+    },
+    {
+      "id": "guinea-bissau",
+      "continent": "africa",
+      "version": "v2",
+      "nameKey": "country_guinea_bissau",
+      "flagEmoji": "🇬🇼",
+      "boundingBox": [
+        -16.9643,
+        10.1449,
+        -13.6292,
+        12.6936
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/guinea-bissau-v2/guinea-bissau-routing-graph.zip",
+        "sizeBytes": 4785589,
+        "version": "v2"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/guinea-bissau-v2/guinea-bissau-map-tiles.zip",
+        "sizeBytes": 16119597,
+        "version": "v2"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/guinea-bissau-v2/guinea-bissau-addresses-v8.zip",
+        "sizeBytes": 57600,
+        "version": "v8"
+      }
+    },
+    {
+      "id": "cape-verde",
+      "continent": "africa",
+      "version": "v2",
+      "nameKey": "country_cape_verde",
+      "flagEmoji": "🇨🇻",
+      "boundingBox": [
+        -26.3238,
+        14.0048,
+        -21.391,
+        18.005
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/cape-verde-v2/cape-verde-routing-graph.zip",
+        "sizeBytes": 3811229,
+        "version": "v2"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/cape-verde-v2/cape-verde-map-tiles.zip",
+        "sizeBytes": 11402781,
+        "version": "v2"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/cape-verde-v2/cape-verde-addresses-v8.zip",
+        "sizeBytes": 283955,
+        "version": "v8"
+      }
+    },
+    {
+      "id": "solomon-islands",
+      "continent": "oceania",
+      "version": "v2",
+      "nameKey": "country_solomon_islands",
+      "flagEmoji": "🇸🇧",
+      "boundingBox": [
+        154.5856,
+        -16.1269,
+        173.5934,
+        -4.1399
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/solomon-islands-v2/solomon-islands-routing-graph.zip",
+        "sizeBytes": 2262453,
+        "version": "v2"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/solomon-islands-v2/solomon-islands-map-tiles.zip",
+        "sizeBytes": 18355058,
+        "version": "v2"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/solomon-islands-v2/solomon-islands-addresses-v8.zip",
+        "sizeBytes": 107978,
+        "version": "v8"
+      }
+    },
+    {
+      "id": "new-caledonia",
+      "continent": "oceania",
+      "version": "v2",
+      "nameKey": "country_new_caledonia",
+      "flagEmoji": "🇳🇨",
+      "boundingBox": [
+        157.9,
+        -25.0,
+        174.1,
+        -16.9
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/new-caledonia-v2/new-caledonia-routing-graph.zip",
+        "sizeBytes": 5619189,
+        "version": "v2"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/new-caledonia-v2/new-caledonia-map-tiles.zip",
+        "sizeBytes": 16757819,
+        "version": "v2"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/new-caledonia-v2/new-caledonia-addresses-v8.zip",
+        "sizeBytes": 1631981,
+        "version": "v8"
+      }
+    },
+    {
+      "id": "bahamas",
+      "continent": "americas",
+      "version": "v2",
+      "nameKey": "country_bahamas",
+      "flagEmoji": "🇧🇸",
+      "boundingBox": [
+        -81.5186,
+        20.2725,
+        -71.8667,
+        27.975
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/bahamas-v2/bahamas-routing-graph.zip",
+        "sizeBytes": 4816616,
+        "version": "v2"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/bahamas-v2/bahamas-map-tiles.zip",
+        "sizeBytes": 19182779,
+        "version": "v2"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/bahamas-v2/bahamas-addresses-v8.zip",
+        "sizeBytes": 743175,
+        "version": "v8"
+      }
+    },
+    {
+      "id": "fiji",
+      "continent": "oceania",
+      "version": "v2",
+      "nameKey": "country_fiji",
+      "flagEmoji": "🇫🇯",
+      "boundingBox": [
+        176.8,
+        -21.0,
+        180.0,
+        -12.0
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/fiji-v2/fiji-routing-graph.zip",
+        "sizeBytes": 7526083,
+        "version": "v2"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/fiji-v2/fiji-map-tiles.zip",
+        "sizeBytes": 66523265,
+        "version": "v2"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/fiji-v2/fiji-addresses-v8.zip",
+        "sizeBytes": 381956,
+        "version": "v8"
+      }
+    },
+    {
+      "id": "east-timor",
+      "continent": "asia",
+      "version": "v2",
+      "nameKey": "country_east_timor",
+      "flagEmoji": "🇹🇱",
+      "boundingBox": [
+        123.7912,
+        -9.6901,
+        127.5911,
+        -8.0579
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/east-timor-v2/east-timor-routing-graph.zip",
+        "sizeBytes": 3904850,
+        "version": "v2"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/east-timor-v2/east-timor-map-tiles.zip",
+        "sizeBytes": 17022952,
+        "version": "v2"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/east-timor-v2/east-timor-addresses-v8.zip",
+        "sizeBytes": 389194,
+        "version": "v8"
+      }
+    },
+    {
+      "id": "belize",
+      "continent": "americas",
+      "version": "v2",
+      "nameKey": "country_belize",
+      "flagEmoji": "🇧🇿",
+      "boundingBox": [
+        -89.2289,
+        15.8831,
+        -86.8598,
+        18.4984
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/belize-v2/belize-routing-graph.zip",
+        "sizeBytes": 5723472,
+        "version": "v2"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/belize-v2/belize-map-tiles.zip",
+        "sizeBytes": 29868492,
+        "version": "v2"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/belize-v2/belize-addresses-v8.zip",
+        "sizeBytes": 977271,
+        "version": "v8"
+      }
+    },
+    {
+      "id": "bhutan",
+      "continent": "asia",
+      "version": "v2",
+      "nameKey": "country_bhutan",
+      "flagEmoji": "🇧🇹",
+      "boundingBox": [
+        88.7392,
+        26.6948,
+        92.1316,
+        28.2537
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/bhutan-v2/bhutan-routing-graph.zip",
+        "sizeBytes": 6010737,
+        "version": "v2"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/bhutan-v2/bhutan-map-tiles.zip",
+        "sizeBytes": 34985146,
+        "version": "v2"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/bhutan-v2/bhutan-addresses-v8.zip",
+        "sizeBytes": 829584,
+        "version": "v8"
+      }
+    },
+    {
+      "id": "turkmenistan",
+      "continent": "asia",
+      "version": "v2",
+      "nameKey": "country_turkmenistan",
+      "flagEmoji": "🇹🇲",
+      "boundingBox": [
+        51.8327,
+        35.1236,
+        66.7227,
+        42.8125
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/turkmenistan-v2/turkmenistan-routing-graph.zip",
+        "sizeBytes": 19849854,
+        "version": "v2"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/turkmenistan-v2/turkmenistan-map-tiles.zip",
+        "sizeBytes": 41680517,
+        "version": "v2"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/turkmenistan-v2/turkmenistan-addresses-v8.zip",
+        "sizeBytes": 1086851,
+        "version": "v8"
+      }
+    },
+    {
+      "id": "gabon",
+      "continent": "africa",
+      "version": "v2",
+      "nameKey": "country_gabon",
+      "flagEmoji": "🇬🇦",
+      "boundingBox": [
+        7.3897,
+        -5.9958,
+        14.5514,
+        2.3257
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/gabon-v2/gabon-routing-graph.zip",
+        "sizeBytes": 5452575,
+        "version": "v2"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/gabon-v2/gabon-map-tiles.zip",
+        "sizeBytes": 45156215,
+        "version": "v2"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/gabon-v2/gabon-addresses-v8.zip",
+        "sizeBytes": 524892,
+        "version": "v8"
+      }
+    },
+    {
+      "id": "greenland",
+      "continent": "americas",
+      "version": "v2",
+      "nameKey": "country_greenland",
+      "flagEmoji": "🇬🇱",
+      "boundingBox": [
+        -75.3894,
+        58.6717,
+        -9.4544,
+        84.4436
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/greenland-v2/greenland-routing-graph.zip",
+        "sizeBytes": 827856,
+        "version": "v2"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/greenland-v2/greenland-map-tiles.zip",
+        "sizeBytes": 311494234,
+        "version": "v2"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/greenland-v2/greenland-addresses-v8.zip",
+        "sizeBytes": 552372,
+        "version": "v8"
       }
     }
   ]
