@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-17T10:13:49Z",
+  "lastUpdated": "2026-09-17T10:13:53Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2869,29 +2869,29 @@
     {
       "id": "senegal",
       "continent": "africa",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_senegal",
       "flagEmoji": "🇸🇳",
       "boundingBox": [
-        -19.8562,
-        12.0151,
-        -11.336,
-        16.7009
+        -17.7499,
+        12.2403,
+        -11.346,
+        16.692
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/senegal-v1/senegal-routing-graph.zip",
-        "sizeBytes": 112528966,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/senegal-v2/senegal-routing-graph.zip",
+        "sizeBytes": 111873681,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/senegal-v1/senegal-map-tiles.zip",
-        "sizeBytes": 105623033,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/senegal-v2/senegal-map-tiles.zip",
+        "sizeBytes": 107259650,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/senegal-v1/senegal-addresses-v3.zip",
-        "sizeBytes": 1226878,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/senegal-v2/senegal-addresses-v8.zip",
+        "sizeBytes": 1538114,
+        "version": "v8"
       }
     },
     {
@@ -5343,6 +5343,34 @@
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/haiti-v2/haiti-addresses-v8.zip",
         "sizeBytes": 6017250,
+        "version": "v8"
+      }
+    },
+    {
+      "id": "gambia",
+      "continent": "africa",
+      "version": "v2",
+      "nameKey": "country_gambia",
+      "flagEmoji": "🇬🇲",
+      "boundingBox": [
+        -17.0224,
+        13.0558,
+        -13.7978,
+        13.8253
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/senegal-v2/senegal-routing-graph.zip",
+        "sizeBytes": 111873681,
+        "version": "v2"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/senegal-v2/senegal-map-tiles.zip",
+        "sizeBytes": 107259650,
+        "version": "v2"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/senegal-v2/senegal-addresses-v8.zip",
+        "sizeBytes": 1538114,
         "version": "v8"
       }
     }
