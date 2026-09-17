@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-17T15:37:30Z",
+  "lastUpdated": "2026-09-17T15:37:33Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1058,7 +1058,7 @@
     {
       "id": "united-kingdom",
       "continent": "europe",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_united_kingdom",
       "flagEmoji": "🇬🇧",
       "boundingBox": [
@@ -1068,19 +1068,19 @@
         60.86
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/united-kingdom-v1/united-kingdom-routing-graph.zip",
-        "sizeBytes": 576432735,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/united-kingdom-v2/united-kingdom-routing-graph.zip",
+        "sizeBytes": 521676892,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/united-kingdom-v1/united-kingdom-map-tiles.zip",
-        "sizeBytes": 1522397567,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/united-kingdom-v2/united-kingdom-map-tiles.zip",
+        "sizeBytes": 1560937039,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/united-kingdom-v1/united-kingdom-addresses-v3.zip",
-        "sizeBytes": 388991083,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/united-kingdom-v2/united-kingdom-addresses-v8.zip",
+        "sizeBytes": 387153227,
+        "version": "v8"
       }
     },
     {
