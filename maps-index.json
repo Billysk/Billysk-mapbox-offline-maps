@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-17T11:32:27Z",
+  "lastUpdated": "2026-09-17T14:19:44Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -3067,324 +3067,336 @@
       "continent": "americas",
       "nameKey": "country_jamaica",
       "flagEmoji": "🇯🇲",
-      "boundingBox": {
-        "minLon": -78.4,
-        "minLat": 17.7,
-        "maxLon": -76.1,
-        "maxLat": 18.6
-      },
+      "boundingBox": [
+        -78.4,
+        17.7,
+        -76.1,
+        18.6
+      ],
       "routing": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/jamaica-v1/jamaica-routing-graph.zip",
-        "size": 10653732
+        "sizeBytes": 10653732,
+        "version": "v1"
       },
       "tiles": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/jamaica-v1/jamaica-map-tiles.zip",
-        "size": 25140784
+        "sizeBytes": 25140784,
+        "version": "v1"
       },
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/jamaica-v1/jamaica-addresses-v3.zip",
-        "size": 1151664
+        "sizeBytes": 1151664,
+        "version": "v3"
       },
-      "routingVersion": "v1",
-      "tilesVersion": "v1",
-      "addressesVersion": "v3"
+      "version": "v1"
     },
     {
       "id": "armenia",
       "continent": "asia",
       "nameKey": "country_armenia",
       "flagEmoji": "🇦🇲",
-      "boundingBox": {
-        "minLon": 43.4,
-        "minLat": 38.8,
-        "maxLon": 46.6,
-        "maxLat": 41.3
-      },
+      "boundingBox": [
+        43.4,
+        38.8,
+        46.6,
+        41.3
+      ],
       "routing": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/armenia-v1/armenia-routing-graph.zip",
-        "size": 24600383
+        "sizeBytes": 24600383,
+        "version": "v1"
       },
       "tiles": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/armenia-v1/armenia-map-tiles.zip",
-        "size": 50680285
+        "sizeBytes": 50680285,
+        "version": "v1"
       },
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/armenia-v1/armenia-addresses-v3.zip",
-        "size": 7829626
+        "sizeBytes": 7829626,
+        "version": "v3"
       },
-      "routingVersion": "v1",
-      "tilesVersion": "v1",
-      "addressesVersion": "v3"
+      "version": "v1"
     },
     {
       "id": "azerbaijan",
       "continent": "asia",
       "nameKey": "country_azerbaijan",
       "flagEmoji": "🇦🇿",
-      "boundingBox": {
-        "minLon": 44.8,
-        "minLat": 38.4,
-        "maxLon": 50.6,
-        "maxLat": 41.9
-      },
+      "boundingBox": [
+        44.8,
+        38.4,
+        50.6,
+        41.9
+      ],
       "routing": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/azerbaijan-v1/azerbaijan-routing-graph.zip",
-        "size": 53396240
+        "sizeBytes": 53396240,
+        "version": "v1"
       },
       "tiles": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/azerbaijan-v1/azerbaijan-map-tiles.zip",
-        "size": 70742499
+        "sizeBytes": 70742499,
+        "version": "v1"
       },
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/azerbaijan-v1/azerbaijan-addresses-v3.zip",
-        "size": 4576705
+        "sizeBytes": 4576705,
+        "version": "v3"
       },
-      "routingVersion": "v1",
-      "tilesVersion": "v1",
-      "addressesVersion": "v3"
+      "version": "v1"
     },
     {
       "id": "kyrgyzstan",
       "continent": "asia",
       "nameKey": "country_kyrgyzstan",
       "flagEmoji": "🇰🇬",
-      "boundingBox": {
-        "minLon": 69.2,
-        "minLat": 39.2,
-        "maxLon": 80.3,
-        "maxLat": 43.3
-      },
+      "boundingBox": [
+        69.2,
+        39.2,
+        80.3,
+        43.3
+      ],
       "routing": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/kyrgyzstan-v1/kyrgyzstan-routing-graph.zip",
-        "size": 24704121
+        "sizeBytes": 24704121,
+        "version": "v1"
       },
       "tiles": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/kyrgyzstan-v1/kyrgyzstan-map-tiles.zip",
-        "size": 84337060
+        "sizeBytes": 84337060,
+        "version": "v1"
       },
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/kyrgyzstan-v1/kyrgyzstan-addresses-v3.zip",
-        "size": 6989835
+        "sizeBytes": 6989835,
+        "version": "v3"
       },
-      "routingVersion": "v1",
-      "tilesVersion": "v1",
-      "addressesVersion": "v3"
+      "version": "v1"
     },
     {
       "id": "iraq",
       "continent": "asia",
       "nameKey": "country_iraq",
       "flagEmoji": "🇮🇶",
-      "boundingBox": {
-        "minLon": 38.8,
-        "minLat": 29.1,
-        "maxLon": 48.6,
-        "maxLat": 37.4
-      },
+      "boundingBox": [
+        38.8,
+        29.1,
+        48.6,
+        37.4
+      ],
       "routing": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/iraq-v1/iraq-routing-graph.zip",
-        "size": 132839224
+        "sizeBytes": 132839224,
+        "version": "v1"
       },
       "tiles": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/iraq-v1/iraq-map-tiles.zip",
-        "size": 161929977
+        "sizeBytes": 161929977,
+        "version": "v1"
       },
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/iraq-v1/iraq-addresses-v3.zip",
-        "size": 11569182
+        "sizeBytes": 11569182,
+        "version": "v3"
       },
-      "routingVersion": "v1",
-      "tilesVersion": "v1",
-      "addressesVersion": "v3"
+      "version": "v1"
     },
     {
       "id": "namibia",
       "continent": "africa",
       "nameKey": "country_namibia",
       "flagEmoji": "🇳🇦",
-      "boundingBox": {
-        "minLon": 11.7,
-        "minLat": -29.0,
-        "maxLon": 25.3,
-        "maxLat": -16.9
-      },
+      "boundingBox": [
+        11.7,
+        -29.0,
+        25.3,
+        -16.9
+      ],
       "routing": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/namibia-v1/namibia-routing-graph.zip",
-        "size": 23240572
+        "sizeBytes": 23240572,
+        "version": "v1"
       },
       "tiles": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/namibia-v1/namibia-map-tiles.zip",
-        "size": 78537045
+        "sizeBytes": 78537045,
+        "version": "v1"
       },
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/namibia-v1/namibia-addresses-v3.zip",
-        "size": 1063953
+        "sizeBytes": 1063953,
+        "version": "v3"
       },
-      "routingVersion": "v1",
-      "tilesVersion": "v1",
-      "addressesVersion": "v3"
+      "version": "v1"
     },
     {
       "id": "botswana",
       "continent": "africa",
       "nameKey": "country_botswana",
       "flagEmoji": "🇧🇼",
-      "boundingBox": {
-        "minLon": 19.9,
-        "minLat": -27.0,
-        "maxLon": 29.4,
-        "maxLat": -17.8
-      },
+      "boundingBox": [
+        19.9,
+        -27.0,
+        29.4,
+        -17.8
+      ],
       "routing": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/botswana-v1/botswana-routing-graph.zip",
-        "size": 48306546
+        "sizeBytes": 48306546,
+        "version": "v1"
       },
       "tiles": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/botswana-v1/botswana-map-tiles.zip",
-        "size": 67465062
+        "sizeBytes": 67465062,
+        "version": "v1"
       },
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/botswana-v1/botswana-addresses-v3.zip",
-        "size": 1144346
+        "sizeBytes": 1144346,
+        "version": "v3"
       },
-      "routingVersion": "v1",
-      "tilesVersion": "v1",
-      "addressesVersion": "v3"
+      "version": "v1"
     },
     {
       "id": "uganda",
       "continent": "africa",
       "nameKey": "country_uganda",
       "flagEmoji": "🇺🇬",
-      "boundingBox": {
-        "minLon": 29.6,
-        "minLat": -1.5,
-        "maxLon": 35.0,
-        "maxLat": 4.2
-      },
+      "boundingBox": [
+        29.6,
+        -1.5,
+        35.0,
+        4.2
+      ],
       "routing": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/uganda-v1/uganda-routing-graph.zip",
-        "size": 87722108
+        "sizeBytes": 87722108,
+        "version": "v1"
       },
       "tiles": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/uganda-v1/uganda-map-tiles.zip",
-        "size": 248785870
+        "sizeBytes": 248785870,
+        "version": "v1"
       },
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/uganda-v1/uganda-addresses-v3.zip",
-        "size": 5448483
+        "sizeBytes": 5448483,
+        "version": "v3"
       },
-      "routingVersion": "v1",
-      "tilesVersion": "v1",
-      "addressesVersion": "v3"
+      "version": "v1"
     },
     {
       "id": "madagascar",
       "continent": "africa",
       "nameKey": "country_madagascar",
       "flagEmoji": "🇲🇬",
-      "boundingBox": {
-        "minLon": 43.2,
-        "minLat": -25.6,
-        "maxLon": 50.5,
-        "maxLat": -11.9
-      },
+      "boundingBox": [
+        43.2,
+        -25.6,
+        50.5,
+        -11.9
+      ],
       "routing": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/madagascar-v1/madagascar-routing-graph.zip",
-        "size": 67242370
+        "sizeBytes": 67242370,
+        "version": "v1"
       },
       "tiles": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/madagascar-v1/madagascar-map-tiles.zip",
-        "size": 300332232
+        "sizeBytes": 300332232,
+        "version": "v1"
       },
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/madagascar-v1/madagascar-addresses-v3.zip",
-        "size": 1342732
+        "sizeBytes": 1342732,
+        "version": "v3"
       },
-      "routingVersion": "v1",
-      "tilesVersion": "v1",
-      "addressesVersion": "v3"
+      "version": "v1"
     },
     {
       "id": "rwanda",
       "continent": "africa",
       "nameKey": "country_rwanda",
       "flagEmoji": "🇷🇼",
-      "boundingBox": {
-        "minLon": 28.9,
-        "minLat": -2.8,
-        "maxLon": 30.9,
-        "maxLat": -1.1
-      },
+      "boundingBox": [
+        28.9,
+        -2.8,
+        30.9,
+        -1.1
+      ],
       "routing": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/rwanda-v1/rwanda-routing-graph.zip",
-        "size": 24589975
+        "sizeBytes": 24589975,
+        "version": "v1"
       },
       "tiles": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/rwanda-v1/rwanda-map-tiles.zip",
-        "size": 43100649
+        "sizeBytes": 43100649,
+        "version": "v1"
       },
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/rwanda-v1/rwanda-addresses-v3.zip",
-        "size": 577085
+        "sizeBytes": 577085,
+        "version": "v3"
       },
-      "routingVersion": "v1",
-      "tilesVersion": "v1",
-      "addressesVersion": "v3"
+      "version": "v1"
     },
     {
       "id": "guyana",
       "continent": "americas",
       "nameKey": "country_guyana",
       "flagEmoji": "🇬🇾",
-      "boundingBox": {
-        "minLon": -61.4,
-        "minLat": 1.2,
-        "maxLon": -56.5,
-        "maxLat": 8.6
-      },
+      "boundingBox": [
+        -61.4,
+        1.2,
+        -56.5,
+        8.6
+      ],
       "routing": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/guyana-v1/guyana-routing-graph.zip",
-        "size": 4396584
+        "sizeBytes": 4396584,
+        "version": "v1"
       },
       "tiles": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/guyana-v1/guyana-map-tiles.zip",
-        "size": 21161136
+        "sizeBytes": 21161136,
+        "version": "v1"
       },
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/guyana-v1/guyana-addresses-v3.zip",
-        "size": 444723
+        "sizeBytes": 444723,
+        "version": "v3"
       },
-      "routingVersion": "v1",
-      "tilesVersion": "v1",
-      "addressesVersion": "v3"
+      "version": "v1"
     },
     {
       "id": "suriname",
       "continent": "americas",
       "nameKey": "country_suriname",
       "flagEmoji": "🇸🇷",
-      "boundingBox": {
-        "minLon": -58.1,
-        "minLat": 1.8,
-        "maxLon": -54.0,
-        "maxLat": 6.0
-      },
+      "boundingBox": [
+        -58.1,
+        1.8,
+        -54.0,
+        6.0
+      ],
       "routing": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/suriname-v1/suriname-routing-graph.zip",
-        "size": 5010816
+        "sizeBytes": 5010816,
+        "version": "v1"
       },
       "tiles": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/suriname-v1/suriname-map-tiles.zip",
-        "size": 27435542
+        "sizeBytes": 27435542,
+        "version": "v1"
       },
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/suriname-v1/suriname-addresses-v3.zip",
-        "size": 3961868
+        "sizeBytes": 3961868,
+        "version": "v3"
       },
-      "routingVersion": "v1",
-      "tilesVersion": "v1",
-      "addressesVersion": "v3"
+      "version": "v1"
     },
     {
       "id": "usa",
