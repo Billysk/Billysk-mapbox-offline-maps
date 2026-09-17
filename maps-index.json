@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-17T10:13:53Z",
+  "lastUpdated": "2026-09-17T10:13:56Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1590,57 +1590,57 @@
     {
       "id": "singapore",
       "continent": "asia",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_singapore",
       "flagEmoji": "🇸🇬",
       "boundingBox": [
-        99.2561,
-        0.8308,
-        119.6683,
-        7.7368
+        103.5656,
+        1.1304,
+        104.5712,
+        1.5143
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/singapore-v1/singapore-routing-graph.zip",
-        "sizeBytes": 242669856,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/malaysia-v2/malaysia-routing-graph.zip",
+        "sizeBytes": 239743568,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/singapore-v1/singapore-map-tiles.zip",
-        "sizeBytes": 221919254,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/malaysia-v2/malaysia-map-tiles.zip",
+        "sizeBytes": 229245811,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/singapore-v1/singapore-addresses-v3.zip",
-        "sizeBytes": 28996191,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/malaysia-v2/malaysia-addresses-v8.zip",
+        "sizeBytes": 31179203,
+        "version": "v8"
       }
     },
     {
       "id": "malaysia",
       "continent": "asia",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_malaysia",
       "flagEmoji": "🇲🇾",
       "boundingBox": [
-        99.2561,
-        0.8308,
-        119.6683,
-        7.7368
+        98.7365,
+        0.8538,
+        119.47,
+        8.3801
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/malaysia-v1/malaysia-routing-graph.zip",
-        "sizeBytes": 242668578,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/malaysia-v2/malaysia-routing-graph.zip",
+        "sizeBytes": 239743568,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/malaysia-v1/malaysia-map-tiles.zip",
-        "sizeBytes": 221916386,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/malaysia-v2/malaysia-map-tiles.zip",
+        "sizeBytes": 229245811,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/malaysia-v1/malaysia-addresses-v3.zip",
-        "sizeBytes": 28996189,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/malaysia-v2/malaysia-addresses-v8.zip",
+        "sizeBytes": 31179203,
+        "version": "v8"
       }
     },
     {
@@ -5371,6 +5371,34 @@
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/senegal-v2/senegal-addresses-v8.zip",
         "sizeBytes": 1538114,
+        "version": "v8"
+      }
+    },
+    {
+      "id": "brunei",
+      "continent": "asia",
+      "version": "v2",
+      "nameKey": "country_brunei",
+      "flagEmoji": "🇧🇳",
+      "boundingBox": [
+        114.0026,
+        4.0025,
+        115.3636,
+        5.1991
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/malaysia-v2/malaysia-routing-graph.zip",
+        "sizeBytes": 239743568,
+        "version": "v2"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/malaysia-v2/malaysia-map-tiles.zip",
+        "sizeBytes": 229245811,
+        "version": "v2"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/malaysia-v2/malaysia-addresses-v8.zip",
+        "sizeBytes": 31179203,
         "version": "v8"
       }
     }
