@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-16T23:42:06Z",
+  "lastUpdated": "2026-09-17T07:31:00Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -4965,6 +4965,328 @@
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/malawi-v2/malawi-addresses-v8.zip",
         "sizeBytes": 462997,
+        "version": "v8"
+      }
+    },
+    {
+      "id": "somalia",
+      "continent": "africa",
+      "version": "v2",
+      "nameKey": "country_somalia",
+      "flagEmoji": "🇸🇴",
+      "boundingBox": [
+        40.9749,
+        -1.8168,
+        52.4487,
+        12.5118
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/somalia-v2/somalia-routing-graph.zip",
+        "sizeBytes": 113220809,
+        "version": "v2"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/somalia-v2/somalia-map-tiles.zip",
+        "sizeBytes": 219208733,
+        "version": "v2"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/somalia-v2/somalia-addresses-v8.zip",
+        "sizeBytes": 242011,
+        "version": "v8"
+      }
+    },
+    {
+      "id": "mali",
+      "continent": "africa",
+      "version": "v2",
+      "nameKey": "country_mali",
+      "flagEmoji": "🇲🇱",
+      "boundingBox": [
+        -12.247,
+        10.1176,
+        4.3303,
+        25.095
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/mali-v2/mali-routing-graph.zip",
+        "sizeBytes": 111116132,
+        "version": "v2"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/mali-v2/mali-map-tiles.zip",
+        "sizeBytes": 233544465,
+        "version": "v2"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/mali-v2/mali-addresses-v8.zip",
+        "sizeBytes": 1899551,
+        "version": "v8"
+      }
+    },
+    {
+      "id": "zimbabwe",
+      "continent": "africa",
+      "version": "v2",
+      "nameKey": "country_zimbabwe",
+      "flagEmoji": "🇿🇼",
+      "boundingBox": [
+        25.2229,
+        -22.4473,
+        33.0854,
+        -15.5871
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/zimbabwe-v2/zimbabwe-routing-graph.zip",
+        "sizeBytes": 57147445,
+        "version": "v2"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/zimbabwe-v2/zimbabwe-map-tiles.zip",
+        "sizeBytes": 111327853,
+        "version": "v2"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/zimbabwe-v2/zimbabwe-addresses-v8.zip",
+        "sizeBytes": 2754525,
+        "version": "v8"
+      }
+    },
+    {
+      "id": "sudan",
+      "continent": "africa",
+      "version": "v2",
+      "nameKey": "country_sudan",
+      "flagEmoji": "🇸🇩",
+      "boundingBox": [
+        21.781,
+        8.6537,
+        39.6278,
+        22.3471
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/sudan-v2/sudan-routing-graph.zip",
+        "sizeBytes": 189727883,
+        "version": "v2"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/sudan-v2/sudan-map-tiles.zip",
+        "sizeBytes": 211617026,
+        "version": "v2"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/sudan-v2/sudan-addresses-v8.zip",
+        "sizeBytes": 832667,
+        "version": "v8"
+      }
+    },
+    {
+      "id": "kazakhstan",
+      "continent": "asia",
+      "version": "v2",
+      "nameKey": "country_kazakhstan",
+      "flagEmoji": "🇰🇿",
+      "boundingBox": [
+        46.423,
+        40.5535,
+        87.3536,
+        55.508
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/kazakhstan-v2/kazakhstan-routing-graph.zip",
+        "sizeBytes": 126886665,
+        "version": "v2"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/kazakhstan-v2/kazakhstan-map-tiles.zip",
+        "sizeBytes": 388157773,
+        "version": "v2"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/kazakhstan-v2/kazakhstan-addresses-v8.zip",
+        "sizeBytes": 67336507,
+        "version": "v8"
+      }
+    },
+    {
+      "id": "cameroon",
+      "continent": "africa",
+      "version": "v2",
+      "nameKey": "country_cameroon",
+      "flagEmoji": "🇨🇲",
+      "boundingBox": [
+        8.33,
+        1.6457,
+        16.2031,
+        13.0928
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/cameroon-v2/cameroon-routing-graph.zip",
+        "sizeBytes": 57216175,
+        "version": "v2"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/cameroon-v2/cameroon-map-tiles.zip",
+        "sizeBytes": 297548762,
+        "version": "v2"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/cameroon-v2/cameroon-addresses-v8.zip",
+        "sizeBytes": 2046035,
+        "version": "v8"
+      }
+    },
+    {
+      "id": "zambia",
+      "continent": "africa",
+      "version": "v2",
+      "nameKey": "country_zambia",
+      "flagEmoji": "🇿🇲",
+      "boundingBox": [
+        21.9898,
+        -18.0878,
+        33.7177,
+        -8.2395
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/zambia-v2/zambia-routing-graph.zip",
+        "sizeBytes": 96846061,
+        "version": "v2"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/zambia-v2/zambia-map-tiles.zip",
+        "sizeBytes": 193561010,
+        "version": "v2"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/zambia-v2/zambia-addresses-v8.zip",
+        "sizeBytes": 2087817,
+        "version": "v8"
+      }
+    },
+    {
+      "id": "mozambique",
+      "continent": "africa",
+      "version": "v2",
+      "nameKey": "country_mozambique",
+      "flagEmoji": "🇲🇿",
+      "boundingBox": [
+        30.2074,
+        -26.9384,
+        42.5349,
+        -9.9862
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/mozambique-v2/mozambique-routing-graph.zip",
+        "sizeBytes": 110050370,
+        "version": "v2"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/mozambique-v2/mozambique-map-tiles.zip",
+        "sizeBytes": 168624951,
+        "version": "v2"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/mozambique-v2/mozambique-addresses-v8.zip",
+        "sizeBytes": 1240552,
+        "version": "v8"
+      }
+    },
+    {
+      "id": "algeria",
+      "continent": "africa",
+      "version": "v2",
+      "nameKey": "country_algeria",
+      "flagEmoji": "🇩🇿",
+      "boundingBox": [
+        -8.7049,
+        18.9287,
+        12.036,
+        37.7728
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/algeria-v2/algeria-routing-graph.zip",
+        "sizeBytes": 161051098,
+        "version": "v2"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/algeria-v2/algeria-map-tiles.zip",
+        "sizeBytes": 272144171,
+        "version": "v2"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/algeria-v2/algeria-addresses-v8.zip",
+        "sizeBytes": 9322426,
+        "version": "v8"
+      }
+    },
+    {
+      "id": "congo-democratic-republic",
+      "continent": "africa",
+      "version": "v2",
+      "nameKey": "country_congo_dr",
+      "flagEmoji": "🇨🇩",
+      "boundingBox": [
+        11.8834,
+        -13.5006,
+        31.3357,
+        5.4014
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/congo-democratic-republic-v2/congo-democratic-republic-routing-graph.zip",
+        "sizeBytes": 131008169,
+        "version": "v2"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/congo-democratic-republic-v2/congo-democratic-republic-map-tiles.zip",
+        "sizeBytes": 449878716,
+        "version": "v2"
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/congo-democratic-republic-v2/congo-democratic-republic-addresses-v8.zip",
+        "sizeBytes": 2451035,
+        "version": "v8"
+      }
+    },
+    {
+      "id": "china",
+      "continent": "asia",
+      "version": "v2",
+      "nameKey": "country_china",
+      "flagEmoji": "🇨🇳",
+      "boundingBox": [
+        73.4179,
+        14.2744,
+        134.8036,
+        53.6556
+      ],
+      "routing": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/china-v2/china-routing-graph.zip",
+        "sizeBytes": 1531220484,
+        "version": "v2"
+      },
+      "tiles": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/china-v2/china-map-tiles.zip",
+        "sizeBytes": 3709689895,
+        "version": "v2",
+        "parts": [
+          {
+            "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/china-v2/china-map-tiles.zip.001",
+            "sizeBytes": 1572864000
+          },
+          {
+            "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/china-v2/china-map-tiles.zip.002",
+            "sizeBytes": 1572864000
+          },
+          {
+            "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/china-v2/china-map-tiles.zip.003",
+            "sizeBytes": 563961895
+          }
+        ]
+      },
+      "addresses": {
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/china-v2/china-addresses-v8.zip",
+        "sizeBytes": 47803274,
         "version": "v8"
       }
     }
