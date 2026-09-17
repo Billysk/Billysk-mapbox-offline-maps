@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-17T10:13:56Z",
+  "lastUpdated": "2026-09-17T10:13:59Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1786,29 +1786,29 @@
     {
       "id": "uae",
       "continent": "asia",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_uae",
       "flagEmoji": "🇦🇪",
       "boundingBox": [
-        34.4349,
-        15.2475,
-        60.9475,
-        32.1965
+        51.4161,
+        22.6316,
+        56.6024,
+        26.1517
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/uae-v1/uae-routing-graph.zip",
-        "sizeBytes": 311813277,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/saudi-arabia-v2/saudi-arabia-routing-graph.zip",
+        "sizeBytes": 309392578,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/uae-v1/uae-map-tiles.zip",
-        "sizeBytes": 369702701,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/saudi-arabia-v2/saudi-arabia-map-tiles.zip",
+        "sizeBytes": 375035959,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/uae-v1/uae-addresses-v3.zip",
-        "sizeBytes": 28432674,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/saudi-arabia-v2/saudi-arabia-addresses-v8.zip",
+        "sizeBytes": 27764657,
+        "version": "v8"
       }
     },
     {
@@ -2477,141 +2477,141 @@
     {
       "id": "saudi-arabia",
       "continent": "asia",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_saudi_arabia",
       "flagEmoji": "🇸🇦",
       "boundingBox": [
-        34.4349,
-        15.2475,
-        60.9475,
-        32.1965
+        34.4572,
+        16.29,
+        55.6667,
+        32.1543
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/saudi-arabia-v1/saudi-arabia-routing-graph.zip",
-        "sizeBytes": 311812974,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/saudi-arabia-v2/saudi-arabia-routing-graph.zip",
+        "sizeBytes": 309392578,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/saudi-arabia-v1/saudi-arabia-map-tiles.zip",
-        "sizeBytes": 369683762,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/saudi-arabia-v2/saudi-arabia-map-tiles.zip",
+        "sizeBytes": 375035959,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/saudi-arabia-v1/saudi-arabia-addresses-v3.zip",
-        "sizeBytes": 28436679,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/saudi-arabia-v2/saudi-arabia-addresses-v8.zip",
+        "sizeBytes": 27764657,
+        "version": "v8"
       }
     },
     {
       "id": "qatar",
       "continent": "asia",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_qatar",
       "flagEmoji": "🇶🇦",
       "boundingBox": [
-        34.4349,
-        15.2475,
-        60.9475,
-        32.1965
+        50.5675,
+        24.4708,
+        52.638,
+        26.4346
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/qatar-v1/qatar-routing-graph.zip",
-        "sizeBytes": 311812821,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/saudi-arabia-v2/saudi-arabia-routing-graph.zip",
+        "sizeBytes": 309392578,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/qatar-v1/qatar-map-tiles.zip",
-        "sizeBytes": 369685774,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/saudi-arabia-v2/saudi-arabia-map-tiles.zip",
+        "sizeBytes": 375035959,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/qatar-v1/qatar-addresses-v3.zip",
-        "sizeBytes": 28436665,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/saudi-arabia-v2/saudi-arabia-addresses-v8.zip",
+        "sizeBytes": 27764657,
+        "version": "v8"
       }
     },
     {
       "id": "oman",
       "continent": "asia",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_oman",
       "flagEmoji": "🇴🇲",
       "boundingBox": [
-        34.4349,
-        15.2475,
-        60.9475,
-        32.1965
+        52.0,
+        16.465,
+        60.0546,
+        26.7027
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/oman-v1/oman-routing-graph.zip",
-        "sizeBytes": 311812798,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/saudi-arabia-v2/saudi-arabia-routing-graph.zip",
+        "sizeBytes": 309392578,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/oman-v1/oman-map-tiles.zip",
-        "sizeBytes": 369690587,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/saudi-arabia-v2/saudi-arabia-map-tiles.zip",
+        "sizeBytes": 375035959,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/oman-v1/oman-addresses-v3.zip",
-        "sizeBytes": 28436663,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/saudi-arabia-v2/saudi-arabia-addresses-v8.zip",
+        "sizeBytes": 27764657,
+        "version": "v8"
       }
     },
     {
       "id": "bahrain",
       "continent": "asia",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_bahrain",
       "flagEmoji": "🇧🇭",
       "boundingBox": [
-        34.4349,
-        15.2475,
-        60.9475,
-        32.1965
+        50.2698,
+        25.535,
+        50.9234,
+        26.6872
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/bahrain-v1/bahrain-routing-graph.zip",
-        "sizeBytes": 311812863,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/saudi-arabia-v2/saudi-arabia-routing-graph.zip",
+        "sizeBytes": 309392578,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/bahrain-v1/bahrain-map-tiles.zip",
-        "sizeBytes": 369683695,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/saudi-arabia-v2/saudi-arabia-map-tiles.zip",
+        "sizeBytes": 375035959,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/bahrain-v1/bahrain-addresses-v3.zip",
-        "sizeBytes": 28436669,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/saudi-arabia-v2/saudi-arabia-addresses-v8.zip",
+        "sizeBytes": 27764657,
+        "version": "v8"
       }
     },
     {
       "id": "kuwait",
       "continent": "asia",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_kuwait",
       "flagEmoji": "🇰🇼",
       "boundingBox": [
-        34.4349,
-        15.2475,
-        60.9475,
-        32.1965
+        46.5527,
+        28.5244,
+        49.0047,
+        30.1038
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/kuwait-v1/kuwait-routing-graph.zip",
-        "sizeBytes": 311812842,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/saudi-arabia-v2/saudi-arabia-routing-graph.zip",
+        "sizeBytes": 309392578,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/kuwait-v1/kuwait-map-tiles.zip",
-        "sizeBytes": 369673835,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/saudi-arabia-v2/saudi-arabia-map-tiles.zip",
+        "sizeBytes": 375035959,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/kuwait-v1/kuwait-addresses-v3.zip",
-        "sizeBytes": 28436667,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/saudi-arabia-v2/saudi-arabia-addresses-v8.zip",
+        "sizeBytes": 27764657,
+        "version": "v8"
       }
     },
     {
