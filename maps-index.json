@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-17T11:32:25Z",
+  "lastUpdated": "2026-09-17T11:32:27Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -5160,7 +5160,7 @@
       },
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/mozambique-v2/mozambique-addresses-v8.zip",
-        "sizeBytes": 1240552,
+        "sizeBytes": 1250757,
         "version": "v8"
       }
     },
