@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-17T14:19:44Z",
+  "lastUpdated": "2026-09-17T15:37:30Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -470,7 +470,7 @@
     {
       "id": "spain",
       "continent": "europe",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_spain",
       "flagEmoji": "🇪🇸",
       "boundingBox": [
@@ -480,19 +480,19 @@
         43.7483
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/spain-v1/spain-routing-graph.zip",
-        "sizeBytes": 689573032,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/spain-v2/spain-routing-graph.zip",
+        "sizeBytes": 687767131,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/spain-v1/spain-map-tiles.zip",
-        "sizeBytes": 1214853738,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/spain-v2/spain-map-tiles.zip",
+        "sizeBytes": 1261089777,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/spain-v1/spain-addresses-v3.zip",
-        "sizeBytes": 166768575,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/spain-v2/spain-addresses-v8.zip",
+        "sizeBytes": 168850004,
+        "version": "v8"
       }
     },
     {
