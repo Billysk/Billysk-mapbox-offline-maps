@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-18T03:50:23Z",
+  "lastUpdated": "2026-09-18T03:50:25Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -722,7 +722,7 @@
     {
       "id": "ireland",
       "continent": "europe",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_ireland",
       "flagEmoji": "🇮🇪",
       "boundingBox": [
@@ -732,19 +732,19 @@
         55.388
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/ireland-v1/ireland-routing-graph.zip",
-        "sizeBytes": 139653087,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/ireland-v2/ireland-routing-graph.zip",
+        "sizeBytes": 127854100,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/ireland-v1/ireland-map-tiles.zip",
-        "sizeBytes": 313131751,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/ireland-v2/ireland-map-tiles.zip",
+        "sizeBytes": 322546991,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/ireland-v1/ireland-addresses-v3.zip",
-        "sizeBytes": 41957675,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/ireland-v2/ireland-addresses-v8.zip",
+        "sizeBytes": 40677362,
+        "version": "v8"
       }
     },
     {
