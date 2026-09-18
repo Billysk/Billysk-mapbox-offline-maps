@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-18T03:50:25Z",
+  "lastUpdated": "2026-09-18T03:50:29Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -498,7 +498,7 @@
     {
       "id": "portugal",
       "continent": "europe",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_portugal",
       "flagEmoji": "🇵🇹",
       "boundingBox": [
@@ -508,19 +508,19 @@
         42.1543
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/portugal-v1/portugal-routing-graph.zip",
-        "sizeBytes": 217738417,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/portugal-v2/portugal-routing-graph.zip",
+        "sizeBytes": 219620430,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/portugal-v1/portugal-map-tiles.zip",
-        "sizeBytes": 345988153,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/portugal-v2/portugal-map-tiles.zip",
+        "sizeBytes": 360149203,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/portugal-v1/portugal-addresses-v3.zip",
-        "sizeBytes": 52879596,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/portugal-v2/portugal-addresses-v8.zip",
+        "sizeBytes": 52377253,
+        "version": "v8"
       }
     },
     {
