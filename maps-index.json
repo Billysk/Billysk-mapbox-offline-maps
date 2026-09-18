@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-18T03:50:16Z",
+  "lastUpdated": "2026-09-18T03:50:20Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -694,7 +694,7 @@
     {
       "id": "greece",
       "continent": "europe",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_greece",
       "flagEmoji": "🇬🇷",
       "boundingBox": [
@@ -704,19 +704,19 @@
         41.7489
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/greece-v1/greece-routing-graph.zip",
-        "sizeBytes": 269477349,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/greece-v2/greece-routing-graph.zip",
+        "sizeBytes": 246489834,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/greece-v1/greece-map-tiles.zip",
-        "sizeBytes": 321704523,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/greece-v2/greece-map-tiles.zip",
+        "sizeBytes": 327071331,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/greece-v1/greece-addresses-v3.zip",
-        "sizeBytes": 19898041,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/greece-v2/greece-addresses-v8.zip",
+        "sizeBytes": 27473586,
+        "version": "v8"
       }
     },
     {
