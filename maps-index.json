@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-18T10:45:13Z",
+  "lastUpdated": "2026-09-18T21:04:07Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -3214,21 +3214,21 @@
         -16.9
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/namibia-v1/namibia-routing-graph.zip",
-        "sizeBytes": 23240572,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/namibia-v2/namibia-routing-graph.zip",
+        "sizeBytes": 22914906,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/namibia-v1/namibia-map-tiles.zip",
-        "sizeBytes": 78537045,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/namibia-v2/namibia-map-tiles.zip",
+        "sizeBytes": 79539100,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/namibia-v1/namibia-addresses-v3.zip",
-        "sizeBytes": 1063953,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/namibia-v2/namibia-addresses-v8.zip",
+        "sizeBytes": 1061253,
+        "version": "v8"
       },
-      "version": "v1"
+      "version": "v2"
     },
     {
       "id": "botswana",
