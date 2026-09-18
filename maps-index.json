@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-18T03:50:29Z",
+  "lastUpdated": "2026-09-18T03:50:31Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -666,7 +666,7 @@
     {
       "id": "denmark",
       "continent": "europe",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_denmark",
       "flagEmoji": "🇩🇰",
       "boundingBox": [
@@ -676,19 +676,19 @@
         57.7484
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/denmark-v1/denmark-routing-graph.zip",
-        "sizeBytes": 119187472,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/denmark-v2/denmark-routing-graph.zip",
+        "sizeBytes": 108731566,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/denmark-v1/denmark-map-tiles.zip",
-        "sizeBytes": 336327470,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/denmark-v2/denmark-map-tiles.zip",
+        "sizeBytes": 341923302,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/denmark-v1/denmark-addresses-v3.zip",
-        "sizeBytes": 136507007,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/denmark-v2/denmark-addresses-v8.zip",
+        "sizeBytes": 120210183,
+        "version": "v8"
       }
     },
     {
