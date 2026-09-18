@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-18T04:13:20Z",
+  "lastUpdated": "2026-09-18T04:13:24Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1282,7 +1282,7 @@
     {
       "id": "georgia",
       "continent": "europe",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_georgia",
       "flagEmoji": "🇬🇪",
       "boundingBox": [
@@ -1292,19 +1292,19 @@
         43.59
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/georgia-v1/georgia-routing-graph.zip",
-        "sizeBytes": 47976253,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/georgia-v2/georgia-routing-graph.zip",
+        "sizeBytes": 49349690,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/georgia-v1/georgia-map-tiles.zip",
-        "sizeBytes": 120413664,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/georgia-v2/georgia-map-tiles.zip",
+        "sizeBytes": 123748661,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/georgia-v1/georgia-addresses-v3.zip",
-        "sizeBytes": 7399955,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/georgia-v2/georgia-addresses-v8.zip",
+        "sizeBytes": 11038503,
+        "version": "v8"
       }
     },
     {
