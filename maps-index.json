@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-18T04:13:14Z",
+  "lastUpdated": "2026-09-18T04:13:17Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1030,7 +1030,7 @@
     {
       "id": "moldova",
       "continent": "europe",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_moldova",
       "flagEmoji": "🇲🇩",
       "boundingBox": [
@@ -1040,19 +1040,19 @@
         48.4921
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/moldova-v1/moldova-routing-graph.zip",
-        "sizeBytes": 53030493,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/moldova-v2/moldova-routing-graph.zip",
+        "sizeBytes": 50295982,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/moldova-v1/moldova-map-tiles.zip",
-        "sizeBytes": 89502044,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/moldova-v2/moldova-map-tiles.zip",
+        "sizeBytes": 91624958,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/moldova-v1/moldova-addresses-v3.zip",
-        "sizeBytes": 66064843,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/moldova-v2/moldova-addresses-v8.zip",
+        "sizeBytes": 60709216,
+        "version": "v8"
       }
     },
     {
