@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-18T21:04:43Z",
+  "lastUpdated": "2026-09-18T21:04:47Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2365,7 +2365,7 @@
     {
       "id": "nigeria",
       "continent": "africa",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_nigeria",
       "flagEmoji": "🇳🇬",
       "boundingBox": [
@@ -2375,19 +2375,19 @@
         13.8987
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/nigeria-v1/nigeria-routing-graph.zip",
-        "sizeBytes": 387532504,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/nigeria-v2/nigeria-routing-graph.zip",
+        "sizeBytes": 385905979,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/nigeria-v1/nigeria-map-tiles.zip",
-        "sizeBytes": 461582043,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/nigeria-v2/nigeria-map-tiles.zip",
+        "sizeBytes": 477110203,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/nigeria-v1/nigeria-addresses-v3.zip",
-        "sizeBytes": 2650854,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/nigeria-v2/nigeria-addresses-v8.zip",
+        "sizeBytes": 2992263,
+        "version": "v8"
       }
     },
     {
