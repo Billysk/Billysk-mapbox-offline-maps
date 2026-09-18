@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-18T03:50:20Z",
+  "lastUpdated": "2026-09-18T03:50:23Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -778,7 +778,7 @@
     {
       "id": "belarus",
       "continent": "europe",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_belarus",
       "flagEmoji": "🇧🇾",
       "boundingBox": [
@@ -788,19 +788,19 @@
         56.1722
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/belarus-v1/belarus-routing-graph.zip",
-        "sizeBytes": 112194379,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/belarus-v2/belarus-routing-graph.zip",
+        "sizeBytes": 104086959,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/belarus-v1/belarus-map-tiles.zip",
-        "sizeBytes": 494382158,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/belarus-v2/belarus-map-tiles.zip",
+        "sizeBytes": 505839835,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/belarus-v1/belarus-addresses-v3.zip",
-        "sizeBytes": 66312038,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/belarus-v2/belarus-addresses-v8.zip",
+        "sizeBytes": 74630352,
+        "version": "v8"
       }
     },
     {
