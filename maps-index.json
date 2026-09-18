@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-18T04:13:17Z",
+  "lastUpdated": "2026-09-18T04:13:20Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -834,7 +834,7 @@
     {
       "id": "latvia",
       "continent": "europe",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_latvia",
       "flagEmoji": "🇱🇻",
       "boundingBox": [
@@ -844,19 +844,19 @@
         58.0856
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/latvia-v1/latvia-routing-graph.zip",
-        "sizeBytes": 46608140,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/latvia-v2/latvia-routing-graph.zip",
+        "sizeBytes": 43144323,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/latvia-v1/latvia-map-tiles.zip",
-        "sizeBytes": 178820479,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/latvia-v2/latvia-map-tiles.zip",
+        "sizeBytes": 181290819,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/latvia-v1/latvia-addresses-v3.zip",
-        "sizeBytes": 22737468,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/latvia-v2/latvia-addresses-v8.zip",
+        "sizeBytes": 28114680,
+        "version": "v8"
       }
     },
     {
