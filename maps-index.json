@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-18T03:50:35Z",
+  "lastUpdated": "2026-09-18T04:13:14Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -890,7 +890,7 @@
     {
       "id": "luxembourg",
       "continent": "europe",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_luxembourg",
       "flagEmoji": "🇱🇺",
       "boundingBox": [
@@ -900,19 +900,19 @@
         50.1847
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/luxembourg-v1/luxembourg-routing-graph.zip",
-        "sizeBytes": 8624842,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/luxembourg-v2/luxembourg-routing-graph.zip",
+        "sizeBytes": 8139969,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/luxembourg-v1/luxembourg-map-tiles.zip",
-        "sizeBytes": 34513792,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/luxembourg-v2/luxembourg-map-tiles.zip",
+        "sizeBytes": 35513741,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/luxembourg-v1/luxembourg-addresses-v3.zip",
-        "sizeBytes": 10750931,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/luxembourg-v2/luxembourg-addresses-v8.zip",
+        "sizeBytes": 9945664,
+        "version": "v8"
       }
     },
     {
