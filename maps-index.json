@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-18T21:04:14Z",
+  "lastUpdated": "2026-09-18T21:04:17Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -3242,21 +3242,21 @@
         -17.8
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/botswana-v1/botswana-routing-graph.zip",
-        "sizeBytes": 48306546,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/botswana-v2/botswana-routing-graph.zip",
+        "sizeBytes": 46461552,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/botswana-v1/botswana-map-tiles.zip",
-        "sizeBytes": 67465062,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/botswana-v2/botswana-map-tiles.zip",
+        "sizeBytes": 68796605,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/botswana-v1/botswana-addresses-v3.zip",
-        "sizeBytes": 1144346,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/botswana-v2/botswana-addresses-v8.zip",
+        "sizeBytes": 1052836,
+        "version": "v8"
       },
-      "version": "v1"
+      "version": "v2"
     },
     {
       "id": "uganda",
