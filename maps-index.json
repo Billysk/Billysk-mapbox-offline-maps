@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-18T21:04:31Z",
+  "lastUpdated": "2026-09-18T21:04:34Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -3270,21 +3270,21 @@
         4.2
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/uganda-v1/uganda-routing-graph.zip",
-        "sizeBytes": 87722108,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/uganda-v2/uganda-routing-graph.zip",
+        "sizeBytes": 88782510,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/uganda-v1/uganda-map-tiles.zip",
-        "sizeBytes": 248785870,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/uganda-v2/uganda-map-tiles.zip",
+        "sizeBytes": 251933556,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/uganda-v1/uganda-addresses-v3.zip",
-        "sizeBytes": 5448483,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/uganda-v2/uganda-addresses-v8.zip",
+        "sizeBytes": 5260761,
+        "version": "v8"
       },
-      "version": "v1"
+      "version": "v2"
     },
     {
       "id": "madagascar",
