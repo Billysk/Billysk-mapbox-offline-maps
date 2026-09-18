@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-18T21:04:20Z",
+  "lastUpdated": "2026-09-18T21:04:22Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2785,7 +2785,7 @@
     {
       "id": "ethiopia",
       "continent": "africa",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_ethiopia",
       "flagEmoji": "🇪🇹",
       "boundingBox": [
@@ -2795,19 +2795,19 @@
         14.9163
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/ethiopia-v1/ethiopia-routing-graph.zip",
-        "sizeBytes": 105988700,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/ethiopia-v2/ethiopia-routing-graph.zip",
+        "sizeBytes": 105260164,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/ethiopia-v1/ethiopia-map-tiles.zip",
-        "sizeBytes": 140253696,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/ethiopia-v2/ethiopia-map-tiles.zip",
+        "sizeBytes": 154825917,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/ethiopia-v1/ethiopia-addresses-v3.zip",
-        "sizeBytes": 1001681,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/ethiopia-v2/ethiopia-addresses-v8.zip",
+        "sizeBytes": 1083803,
+        "version": "v8"
       }
     },
     {
