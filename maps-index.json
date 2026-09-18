@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-18T21:04:07Z",
+  "lastUpdated": "2026-09-18T21:04:11Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -3326,21 +3326,21 @@
         -1.1
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/rwanda-v1/rwanda-routing-graph.zip",
-        "sizeBytes": 24589975,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/rwanda-v2/rwanda-routing-graph.zip",
+        "sizeBytes": 24333670,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/rwanda-v1/rwanda-map-tiles.zip",
-        "sizeBytes": 43100649,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/rwanda-v2/rwanda-map-tiles.zip",
+        "sizeBytes": 44862013,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/rwanda-v1/rwanda-addresses-v3.zip",
-        "sizeBytes": 577085,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/rwanda-v2/rwanda-addresses-v8.zip",
+        "sizeBytes": 621845,
+        "version": "v8"
       },
-      "version": "v1"
+      "version": "v2"
     },
     {
       "id": "guyana",
