@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-18T21:04:17Z",
+  "lastUpdated": "2026-09-18T21:04:20Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2841,7 +2841,7 @@
     {
       "id": "ghana",
       "continent": "africa",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_ghana",
       "flagEmoji": "🇬🇭",
       "boundingBox": [
@@ -2851,19 +2851,19 @@
         11.1777
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/ghana-v1/ghana-routing-graph.zip",
-        "sizeBytes": 72444949,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/ghana-v2/ghana-routing-graph.zip",
+        "sizeBytes": 72769193,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/ghana-v1/ghana-map-tiles.zip",
-        "sizeBytes": 98205856,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/ghana-v2/ghana-map-tiles.zip",
+        "sizeBytes": 101920498,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/ghana-v1/ghana-addresses-v3.zip",
-        "sizeBytes": 3460220,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/ghana-v2/ghana-addresses-v8.zip",
+        "sizeBytes": 4073980,
+        "version": "v8"
       }
     },
     {
