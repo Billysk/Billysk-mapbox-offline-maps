@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-18T03:50:31Z",
+  "lastUpdated": "2026-09-18T03:50:35Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1086,7 +1086,7 @@
     {
       "id": "turkey",
       "continent": "europe",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_turkey",
       "flagEmoji": "🇹🇷",
       "boundingBox": [
@@ -1096,19 +1096,19 @@
         42.1076
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/turkey-v1/turkey-routing-graph.zip",
-        "sizeBytes": 532863551,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/turkey-v2/turkey-routing-graph.zip",
+        "sizeBytes": 538287203,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/turkey-v1/turkey-map-tiles.zip",
-        "sizeBytes": 786944167,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/turkey-v2/turkey-map-tiles.zip",
+        "sizeBytes": 808056920,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/turkey-v1/turkey-addresses-v3.zip",
-        "sizeBytes": 28635621,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/turkey-v2/turkey-addresses-v8.zip",
+        "sizeBytes": 34431085,
+        "version": "v8"
       }
     },
     {
