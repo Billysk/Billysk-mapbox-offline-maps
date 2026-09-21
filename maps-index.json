@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-21T08:11:05Z",
+  "lastUpdated": "2026-09-21T08:11:08Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2953,7 +2953,7 @@
     {
       "id": "guatemala",
       "continent": "americas",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_guatemala",
       "flagEmoji": "🇬🇹",
       "boundingBox": [
@@ -2963,19 +2963,19 @@
         18.2241
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/guatemala-v1/guatemala-routing-graph.zip",
-        "sizeBytes": 59846014,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/guatemala-v2/guatemala-routing-graph.zip",
+        "sizeBytes": 59042979,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/guatemala-v1/guatemala-map-tiles.zip",
-        "sizeBytes": 99090815,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/guatemala-v2/guatemala-map-tiles.zip",
+        "sizeBytes": 99812951,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/guatemala-v1/guatemala-addresses-v3.zip",
-        "sizeBytes": 2526623,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/guatemala-v2/guatemala-addresses-v8.zip",
+        "sizeBytes": 2812523,
+        "version": "v8"
       }
     },
     {
