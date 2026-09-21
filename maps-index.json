@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-21T08:11:08Z",
+  "lastUpdated": "2026-09-21T08:11:11Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2701,7 +2701,7 @@
     {
       "id": "paraguay",
       "continent": "americas",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_paraguay",
       "flagEmoji": "🇵🇾",
       "boundingBox": [
@@ -2711,19 +2711,19 @@
         -19.2401
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/paraguay-v1/paraguay-routing-graph.zip",
-        "sizeBytes": 60644620,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/paraguay-v2/paraguay-routing-graph.zip",
+        "sizeBytes": 59795539,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/paraguay-v1/paraguay-map-tiles.zip",
-        "sizeBytes": 110937808,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/paraguay-v2/paraguay-map-tiles.zip",
+        "sizeBytes": 113176022,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/paraguay-v1/paraguay-addresses-v3.zip",
-        "sizeBytes": 5455851,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/paraguay-v2/paraguay-addresses-v8.zip",
+        "sizeBytes": 5455991,
+        "version": "v8"
       }
     },
     {
