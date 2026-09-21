@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-18T21:04:47Z",
+  "lastUpdated": "2026-09-21T08:10:16Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -3354,21 +3354,21 @@
         8.6
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/guyana-v1/guyana-routing-graph.zip",
-        "sizeBytes": 4396584,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/guyana-v2/guyana-routing-graph.zip",
+        "sizeBytes": 4321321,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/guyana-v1/guyana-map-tiles.zip",
-        "sizeBytes": 21161136,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/guyana-v2/guyana-map-tiles.zip",
+        "sizeBytes": 21278380,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/guyana-v1/guyana-addresses-v3.zip",
-        "sizeBytes": 444723,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/guyana-v2/guyana-addresses-v8.zip",
+        "sizeBytes": 530346,
+        "version": "v8"
       },
-      "version": "v1"
+      "version": "v2"
     },
     {
       "id": "suriname",
