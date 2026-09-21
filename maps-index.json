@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-21T08:10:46Z",
+  "lastUpdated": "2026-09-21T08:10:49Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2897,7 +2897,7 @@
     {
       "id": "costa-rica",
       "continent": "americas",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_costa_rica",
       "flagEmoji": "🇨🇷",
       "boundingBox": [
@@ -2907,19 +2907,19 @@
         11.2237
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/costa-rica-v1/costa-rica-routing-graph.zip",
-        "sizeBytes": 22741528,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/costa-rica-v2/costa-rica-routing-graph.zip",
+        "sizeBytes": 22271156,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/costa-rica-v1/costa-rica-map-tiles.zip",
-        "sizeBytes": 57041566,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/costa-rica-v2/costa-rica-map-tiles.zip",
+        "sizeBytes": 57563602,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/costa-rica-v1/costa-rica-addresses-v3.zip",
-        "sizeBytes": 4756997,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/costa-rica-v2/costa-rica-addresses-v8.zip",
+        "sizeBytes": 5224789,
+        "version": "v8"
       }
     },
     {
