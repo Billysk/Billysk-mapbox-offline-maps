@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-21T08:11:28Z",
+  "lastUpdated": "2026-09-21T08:11:31Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1898,7 +1898,7 @@
     {
       "id": "mexico",
       "continent": "americas",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_mexico",
       "flagEmoji": "🇲🇽",
       "boundingBox": [
@@ -1908,19 +1908,19 @@
         32.7207
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/mexico-v1/mexico-routing-graph.zip",
-        "sizeBytes": 852592148,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/mexico-v2/mexico-routing-graph.zip",
+        "sizeBytes": 835165186,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/mexico-v1/mexico-map-tiles.zip",
-        "sizeBytes": 778050251,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/mexico-v2/mexico-map-tiles.zip",
+        "sizeBytes": 790194121,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/mexico-v1/mexico-addresses-v3.zip",
-        "sizeBytes": 106678602,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/mexico-v2/mexico-addresses-v8.zip",
+        "sizeBytes": 103903654,
+        "version": "v8"
       }
     },
     {
