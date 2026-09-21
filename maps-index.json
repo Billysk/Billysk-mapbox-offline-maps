@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-21T08:10:43Z",
+  "lastUpdated": "2026-09-21T08:10:46Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -3074,21 +3074,21 @@
         18.6
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/jamaica-v1/jamaica-routing-graph.zip",
-        "sizeBytes": 10653732,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/jamaica-v2/jamaica-routing-graph.zip",
+        "sizeBytes": 10487086,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/jamaica-v1/jamaica-map-tiles.zip",
-        "sizeBytes": 25140784,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/jamaica-v2/jamaica-map-tiles.zip",
+        "sizeBytes": 25330123,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/jamaica-v1/jamaica-addresses-v3.zip",
-        "sizeBytes": 1151664,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/jamaica-v2/jamaica-addresses-v8.zip",
+        "sizeBytes": 1196682,
+        "version": "v8"
       },
-      "version": "v1"
+      "version": "v2"
     },
     {
       "id": "armenia",
