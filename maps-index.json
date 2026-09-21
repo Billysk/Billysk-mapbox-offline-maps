@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-21T08:10:16Z",
+  "lastUpdated": "2026-09-21T08:10:37Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -3382,21 +3382,21 @@
         6.0
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/suriname-v1/suriname-routing-graph.zip",
-        "sizeBytes": 5010816,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/suriname-v2/suriname-routing-graph.zip",
+        "sizeBytes": 4854153,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/suriname-v1/suriname-map-tiles.zip",
-        "sizeBytes": 27435542,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/suriname-v2/suriname-map-tiles.zip",
+        "sizeBytes": 27677882,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/suriname-v1/suriname-addresses-v3.zip",
-        "sizeBytes": 3961868,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/suriname-v2/suriname-addresses-v8.zip",
+        "sizeBytes": 3791789,
+        "version": "v8"
       },
-      "version": "v1"
+      "version": "v2"
     },
     {
       "id": "usa",
