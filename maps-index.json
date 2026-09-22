@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-22T09:02:49Z",
+  "lastUpdated": "2026-09-22T09:02:52Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1506,7 +1506,7 @@
     {
       "id": "south-korea",
       "continent": "asia",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_south_korea",
       "flagEmoji": "🇰🇷",
       "boundingBox": [
@@ -1516,19 +1516,19 @@
         38.6
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/south-korea-v1/south-korea-routing-graph.zip",
-        "sizeBytes": 255624372,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/south-korea-v2/south-korea-routing-graph.zip",
+        "sizeBytes": 258806543,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/south-korea-v1/south-korea-map-tiles.zip",
-        "sizeBytes": 352057776,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/south-korea-v2/south-korea-map-tiles.zip",
+        "sizeBytes": 367325516,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/south-korea-v1/south-korea-addresses-v3.zip",
-        "sizeBytes": 38367862,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/south-korea-v2/south-korea-addresses-v8.zip",
+        "sizeBytes": 44070041,
+        "version": "v8"
       }
     },
     {
