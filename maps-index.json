@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-22T09:02:24Z",
+  "lastUpdated": "2026-09-22T09:02:27Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -3128,21 +3128,21 @@
         41.9
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/azerbaijan-v1/azerbaijan-routing-graph.zip",
-        "sizeBytes": 53396240,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/azerbaijan-v2/azerbaijan-routing-graph.zip",
+        "sizeBytes": 53913451,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/azerbaijan-v1/azerbaijan-map-tiles.zip",
-        "sizeBytes": 70742499,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/azerbaijan-v2/azerbaijan-map-tiles.zip",
+        "sizeBytes": 72037452,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/azerbaijan-v1/azerbaijan-addresses-v3.zip",
-        "sizeBytes": 4576705,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/azerbaijan-v2/azerbaijan-addresses-v8.zip",
+        "sizeBytes": 4691108,
+        "version": "v8"
       },
-      "version": "v1"
+      "version": "v2"
     },
     {
       "id": "kyrgyzstan",
