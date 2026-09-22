@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-22T09:02:19Z",
+  "lastUpdated": "2026-09-22T09:02:21Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2615,7 +2615,7 @@
     {
       "id": "jordan",
       "continent": "asia",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_jordan",
       "flagEmoji": "🇯🇴",
       "boundingBox": [
@@ -2625,19 +2625,19 @@
         33.3792
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/jordan-v1/jordan-routing-graph.zip",
-        "sizeBytes": 33201767,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/jordan-v2/jordan-routing-graph.zip",
+        "sizeBytes": 32523836,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/jordan-v1/jordan-map-tiles.zip",
-        "sizeBytes": 29211280,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/jordan-v2/jordan-map-tiles.zip",
+        "sizeBytes": 29351544,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/jordan-v1/jordan-addresses-v3.zip",
-        "sizeBytes": 2289949,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/jordan-v2/jordan-addresses-v8.zip",
+        "sizeBytes": 2330925,
+        "version": "v8"
       }
     },
     {
