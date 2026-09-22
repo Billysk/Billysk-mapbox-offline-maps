@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-22T09:02:37Z",
+  "lastUpdated": "2026-09-22T09:02:39Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -3156,21 +3156,21 @@
         43.3
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/kyrgyzstan-v1/kyrgyzstan-routing-graph.zip",
-        "sizeBytes": 24704121,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/kyrgyzstan-v2/kyrgyzstan-routing-graph.zip",
+        "sizeBytes": 24850215,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/kyrgyzstan-v1/kyrgyzstan-map-tiles.zip",
-        "sizeBytes": 84337060,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/kyrgyzstan-v2/kyrgyzstan-map-tiles.zip",
+        "sizeBytes": 132823423,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/kyrgyzstan-v1/kyrgyzstan-addresses-v3.zip",
-        "sizeBytes": 6989835,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/kyrgyzstan-v2/kyrgyzstan-addresses-v8.zip",
+        "sizeBytes": 7381904,
+        "version": "v8"
       },
-      "version": "v1"
+      "version": "v2"
     },
     {
       "id": "iraq",
