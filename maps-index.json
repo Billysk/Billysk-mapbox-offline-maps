@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-22T09:02:32Z",
+  "lastUpdated": "2026-09-22T09:02:34Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2251,7 +2251,7 @@
     {
       "id": "laos",
       "continent": "asia",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_laos",
       "flagEmoji": "🇱🇦",
       "boundingBox": [
@@ -2261,19 +2261,19 @@
         22.5282
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/laos-v1/laos-routing-graph.zip",
-        "sizeBytes": 32104288,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/laos-v2/laos-routing-graph.zip",
+        "sizeBytes": 31952639,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/laos-v1/laos-map-tiles.zip",
-        "sizeBytes": 82568856,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/laos-v2/laos-map-tiles.zip",
+        "sizeBytes": 83617334,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/laos-v1/laos-addresses-v3.zip",
-        "sizeBytes": 603933,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/laos-v2/laos-addresses-v8.zip",
+        "sizeBytes": 811371,
+        "version": "v8"
       }
     },
     {
