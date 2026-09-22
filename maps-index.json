@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-22T09:03:03Z",
+  "lastUpdated": "2026-09-22T09:03:05Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1758,7 +1758,7 @@
     {
       "id": "nepal",
       "continent": "asia",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_nepal",
       "flagEmoji": "🇳🇵",
       "boundingBox": [
@@ -1768,19 +1768,19 @@
         30.4782
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/nepal-v1/nepal-routing-graph.zip",
-        "sizeBytes": 83978667,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/nepal-v2/nepal-routing-graph.zip",
+        "sizeBytes": 83490857,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/nepal-v1/nepal-map-tiles.zip",
-        "sizeBytes": 318853257,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/nepal-v2/nepal-map-tiles.zip",
+        "sizeBytes": 322538403,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/nepal-v1/nepal-addresses-v3.zip",
-        "sizeBytes": 6897471,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/nepal-v2/nepal-addresses-v8.zip",
+        "sizeBytes": 8957669,
+        "version": "v8"
       }
     },
     {
