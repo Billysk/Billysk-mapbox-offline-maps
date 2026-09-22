@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-22T09:03:11Z",
+  "lastUpdated": "2026-09-22T12:45:44Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2186,7 +2186,7 @@
     {
       "id": "indonesia",
       "continent": "asia",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_indonesia",
       "flagEmoji": "🇮🇩",
       "boundingBox": [
@@ -2196,19 +2196,19 @@
         6.9993
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/indonesia-v1/indonesia-routing-graph.zip",
-        "sizeBytes": 847115389,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/indonesia-v2/indonesia-routing-graph.zip",
+        "sizeBytes": 834213264,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/indonesia-v1/indonesia-map-tiles.zip",
-        "sizeBytes": 1241201864,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/indonesia-v2/indonesia-map-tiles.zip",
+        "sizeBytes": 1261496214,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/indonesia-v1/indonesia-addresses-v3.zip",
-        "sizeBytes": 34615981,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/indonesia-v2/indonesia-addresses-v8.zip",
+        "sizeBytes": 35919743,
+        "version": "v8"
       }
     },
     {
