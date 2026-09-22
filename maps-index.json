@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-22T09:02:27Z",
+  "lastUpdated": "2026-09-22T09:02:29Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2643,7 +2643,7 @@
     {
       "id": "lebanon",
       "continent": "asia",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_lebanon",
       "flagEmoji": "🇱🇧",
       "boundingBox": [
@@ -2653,19 +2653,19 @@
         34.8025
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/lebanon-v1/lebanon-routing-graph.zip",
-        "sizeBytes": 27311901,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/lebanon-v2/lebanon-routing-graph.zip",
+        "sizeBytes": 27042490,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/lebanon-v1/lebanon-map-tiles.zip",
-        "sizeBytes": 35340695,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/lebanon-v2/lebanon-map-tiles.zip",
+        "sizeBytes": 36126522,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/lebanon-v1/lebanon-addresses-v3.zip",
-        "sizeBytes": 971901,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/lebanon-v2/lebanon-addresses-v8.zip",
+        "sizeBytes": 1109637,
+        "version": "v8"
       }
     },
     {
