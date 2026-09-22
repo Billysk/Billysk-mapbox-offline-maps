@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-22T09:02:52Z",
+  "lastUpdated": "2026-09-22T09:02:54Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1534,7 +1534,7 @@
     {
       "id": "taiwan",
       "continent": "asia",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_taiwan",
       "flagEmoji": "🇹🇼",
       "boundingBox": [
@@ -1544,19 +1544,19 @@
         25.3
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/taiwan-v1/taiwan-routing-graph.zip",
-        "sizeBytes": 109789285,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/taiwan-v2/taiwan-routing-graph.zip",
+        "sizeBytes": 108127798,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/taiwan-v1/taiwan-map-tiles.zip",
-        "sizeBytes": 197241180,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/taiwan-v2/taiwan-map-tiles.zip",
+        "sizeBytes": 200053442,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/taiwan-v1/taiwan-addresses-v3.zip",
-        "sizeBytes": 403095503,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/taiwan-v2/taiwan-addresses-v8.zip",
+        "sizeBytes": 365206138,
+        "version": "v8"
       }
     },
     {
