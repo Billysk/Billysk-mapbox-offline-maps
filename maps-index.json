@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-22T09:02:47Z",
+  "lastUpdated": "2026-09-22T09:02:49Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2223,7 +2223,7 @@
     {
       "id": "myanmar",
       "continent": "asia",
-      "version": "v1",
+      "version": "v2",
       "nameKey": "country_myanmar",
       "flagEmoji": "🇲🇲",
       "boundingBox": [
@@ -2233,19 +2233,19 @@
         28.5748
       ],
       "routing": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/myanmar-v1/myanmar-routing-graph.zip",
-        "sizeBytes": 200089280,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/myanmar-v2/myanmar-routing-graph.zip",
+        "sizeBytes": 202293529,
+        "version": "v2"
       },
       "tiles": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/myanmar-v1/myanmar-map-tiles.zip",
-        "sizeBytes": 352719731,
-        "version": "v1"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/myanmar-v2/myanmar-map-tiles.zip",
+        "sizeBytes": 361370597,
+        "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/myanmar-v1/myanmar-addresses-v3.zip",
-        "sizeBytes": 4552714,
-        "version": "v3"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/myanmar-v2/myanmar-addresses-v8.zip",
+        "sizeBytes": 5011041,
+        "version": "v8"
       }
     },
     {
