@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T09:57:05Z",
+  "lastUpdated": "2026-09-24T10:02:34Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -4548,9 +4548,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/togo-v2/togo-addresses-v8.zip",
-        "sizeBytes": 1284685,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/togo-v2/togo-addresses-v9.zip",
+        "sizeBytes": 1975500,
+        "version": "v9"
       }
     },
     {
