@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T08:56:34Z",
+  "lastUpdated": "2026-09-24T09:00:03Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -4520,9 +4520,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/papua-new-guinea-v2/papua-new-guinea-addresses-v8.zip",
-        "sizeBytes": 1009535,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/papua-new-guinea-v2/papua-new-guinea-addresses-v9.zip",
+        "sizeBytes": 2508331,
+        "version": "v9"
       }
     },
     {
