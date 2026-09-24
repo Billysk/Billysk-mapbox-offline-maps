@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T12:19:16Z",
+  "lastUpdated": "2026-09-24T12:34:51Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -5024,9 +5024,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/zimbabwe-v2/zimbabwe-addresses-v8.zip",
-        "sizeBytes": 2754525,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/zimbabwe-v2/zimbabwe-addresses-v9.zip",
+        "sizeBytes": 3284299,
+        "version": "v9"
       }
     },
     {
