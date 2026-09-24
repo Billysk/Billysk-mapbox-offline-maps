@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T06:46:38Z",
+  "lastUpdated": "2026-09-24T06:48:47Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -4296,9 +4296,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/eswatini-v2/eswatini-addresses-v8.zip",
-        "sizeBytes": 157130,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/eswatini-v2/eswatini-addresses-v9.zip",
+        "sizeBytes": 241048,
+        "version": "v9"
       }
     },
     {
