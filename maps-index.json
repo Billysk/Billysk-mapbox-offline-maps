@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T12:34:51Z",
+  "lastUpdated": "2026-09-24T12:48:11Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2962,9 +2962,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/guatemala-v2/guatemala-addresses-v8.zip",
-        "sizeBytes": 2812523,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/guatemala-v2/guatemala-addresses-v9.zip",
+        "sizeBytes": 5306247,
+        "version": "v9"
       }
     },
     {
