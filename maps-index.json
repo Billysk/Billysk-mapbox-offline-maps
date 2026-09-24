@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T10:09:01Z",
+  "lastUpdated": "2026-09-24T10:14:07Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -4660,9 +4660,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/angola-v2/angola-addresses-v8.zip",
-        "sizeBytes": 1360691,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/angola-v2/angola-addresses-v9.zip",
+        "sizeBytes": 2555066,
+        "version": "v9"
       }
     },
     {
