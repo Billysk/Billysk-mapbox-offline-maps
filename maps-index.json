@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T07:52:28Z",
+  "lastUpdated": "2026-09-24T07:52:41Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1386,9 +1386,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/guernsey-jersey-v2/guernsey-jersey-addresses-v8.zip",
-        "sizeBytes": 611547,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/guernsey-jersey-v2/guernsey-jersey-addresses-v9.zip",
+        "sizeBytes": 859397,
+        "version": "v9"
       }
     },
     {
