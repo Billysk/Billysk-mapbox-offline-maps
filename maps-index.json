@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T07:31:55Z",
+  "lastUpdated": "2026-09-24T07:33:17Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -4100,9 +4100,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/east-timor-v2/east-timor-addresses-v8.zip",
-        "sizeBytes": 389194,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/east-timor-v2/east-timor-addresses-v9.zip",
+        "sizeBytes": 824498,
+        "version": "v9"
       }
     },
     {
