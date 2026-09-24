@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T06:51:56Z",
+  "lastUpdated": "2026-09-24T06:55:51Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -4716,9 +4716,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/central-african-republic-v2/central-african-republic-addresses-v8.zip",
-        "sizeBytes": 241569,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/central-african-republic-v2/central-african-republic-addresses-v9.zip",
+        "sizeBytes": 678627,
+        "version": "v9"
       }
     },
     {
