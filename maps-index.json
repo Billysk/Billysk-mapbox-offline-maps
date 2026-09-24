@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T08:10:39Z",
+  "lastUpdated": "2026-09-24T08:14:27Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -4604,9 +4604,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/niger-v2/niger-addresses-v8.zip",
-        "sizeBytes": 747901,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/niger-v2/niger-addresses-v9.zip",
+        "sizeBytes": 2422756,
+        "version": "v9"
       }
     },
     {
