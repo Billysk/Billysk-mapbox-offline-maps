@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T11:43:14Z",
+  "lastUpdated": "2026-09-24T11:49:05Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -4576,9 +4576,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/libya-v2/libya-addresses-v8.zip",
-        "sizeBytes": 2391830,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/libya-v2/libya-addresses-v9.zip",
+        "sizeBytes": 4076923,
+        "version": "v9"
       }
     },
     {
