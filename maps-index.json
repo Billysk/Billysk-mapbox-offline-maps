@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T06:40:31Z",
+  "lastUpdated": "2026-09-24T06:41:17Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -3512,9 +3512,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/tuvalu-v2/tuvalu-addresses-v8.zip",
-        "sizeBytes": 10115,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/tuvalu-v2/tuvalu-addresses-v9.zip",
+        "sizeBytes": 20181,
+        "version": "v9"
       }
     },
     {
