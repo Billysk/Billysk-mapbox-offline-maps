@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T08:50:28Z",
+  "lastUpdated": "2026-09-24T08:51:01Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -3904,9 +3904,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/mauritius-v2/mauritius-addresses-v8.zip",
-        "sizeBytes": 919732,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/mauritius-v2/mauritius-addresses-v9.zip",
+        "sizeBytes": 1473108,
+        "version": "v9"
       }
     },
     {
