@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T08:18:12Z",
+  "lastUpdated": "2026-09-24T08:37:31Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -5052,9 +5052,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/sudan-v2/sudan-addresses-v8.zip",
-        "sizeBytes": 832667,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/sudan-v2/sudan-addresses-v9.zip",
+        "sizeBytes": 2355010,
+        "version": "v9"
       }
     },
     {
