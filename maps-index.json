@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T16:59:41Z",
+  "lastUpdated": "2026-09-24T17:07:14Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -4688,9 +4688,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/ivory-coast-v2/ivory-coast-addresses-v8.zip",
-        "sizeBytes": 7027766,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/ivory-coast-v2/ivory-coast-addresses-v9.zip",
+        "sizeBytes": 9147635,
+        "version": "v9"
       }
     },
     {
