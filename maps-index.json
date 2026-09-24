@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T15:40:35Z",
+  "lastUpdated": "2026-09-24T15:44:47Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2906,9 +2906,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/costa-rica-v2/costa-rica-addresses-v8.zip",
-        "sizeBytes": 5224789,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/costa-rica-v2/costa-rica-addresses-v9.zip",
+        "sizeBytes": 9451489,
+        "version": "v9"
       }
     },
     {
