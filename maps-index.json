@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T06:41:43Z",
+  "lastUpdated": "2026-09-24T06:41:54Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -3624,9 +3624,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/micronesia-v2/micronesia-addresses-v8.zip",
-        "sizeBytes": 49324,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/micronesia-v2/micronesia-addresses-v9.zip",
+        "sizeBytes": 82894,
+        "version": "v9"
       }
     },
     {
