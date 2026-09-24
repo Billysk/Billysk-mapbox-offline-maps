@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T14:35:55Z",
+  "lastUpdated": "2026-09-24T14:48:54Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1750,9 +1750,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/sri-lanka-v2/sri-lanka-addresses-v8.zip",
-        "sizeBytes": 3878694,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/sri-lanka-v2/sri-lanka-addresses-v9.zip",
+        "sizeBytes": 7414583,
+        "version": "v9"
       }
     },
     {
