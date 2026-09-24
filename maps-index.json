@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T07:52:04Z",
+  "lastUpdated": "2026-09-24T07:52:28Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -4240,9 +4240,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/greenland-v2/greenland-addresses-v8.zip",
-        "sizeBytes": 552372,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/greenland-v2/greenland-addresses-v9.zip",
+        "sizeBytes": 682899,
+        "version": "v9"
       }
     },
     {
