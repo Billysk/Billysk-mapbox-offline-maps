@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T06:44:48Z",
+  "lastUpdated": "2026-09-24T06:44:57Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1274,9 +1274,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/monaco-v2/monaco-addresses-v8.zip",
-        "sizeBytes": 120744,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/monaco-v2/monaco-addresses-v9.zip",
+        "sizeBytes": 183453,
+        "version": "v9"
       }
     },
     {
