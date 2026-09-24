@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T16:54:51Z",
+  "lastUpdated": "2026-09-24T16:59:41Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1134,9 +1134,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/iceland-v2/iceland-addresses-v8.zip",
-        "sizeBytes": 6299039,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/iceland-v2/iceland-addresses-v9.zip",
+        "sizeBytes": 7391523,
+        "version": "v9"
       }
     },
     {
