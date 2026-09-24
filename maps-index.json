@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T18:27:11Z",
+  "lastUpdated": "2026-09-24T18:32:39Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -910,9 +910,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/luxembourg-v2/luxembourg-addresses-v8.zip",
-        "sizeBytes": 9945664,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/luxembourg-v2/luxembourg-addresses-v9.zip",
+        "sizeBytes": 11204782,
+        "version": "v9"
       }
     },
     {
