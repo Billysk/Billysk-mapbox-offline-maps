@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T06:42:52Z",
+  "lastUpdated": "2026-09-24T06:43:17Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -3820,9 +3820,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/equatorial-guinea-v2/equatorial-guinea-addresses-v8.zip",
-        "sizeBytes": 72762,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/equatorial-guinea-v2/equatorial-guinea-addresses-v9.zip",
+        "sizeBytes": 145591,
+        "version": "v9"
       }
     },
     {
