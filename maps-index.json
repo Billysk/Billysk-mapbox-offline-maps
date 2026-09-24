@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T17:07:14Z",
+  "lastUpdated": "2026-09-24T17:15:03Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -3157,9 +3157,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/kyrgyzstan-v2/kyrgyzstan-addresses-v8.zip",
-        "sizeBytes": 7381904,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/kyrgyzstan-v2/kyrgyzstan-addresses-v9.zip",
+        "sizeBytes": 8891412,
+        "version": "v9"
       },
       "version": "v2"
     },
