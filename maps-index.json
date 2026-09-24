@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T06:41:54Z",
+  "lastUpdated": "2026-09-24T06:42:04Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -3596,9 +3596,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/sao-tome-and-principe-v2/sao-tome-and-principe-addresses-v8.zip",
-        "sizeBytes": 49535,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/sao-tome-and-principe-v2/sao-tome-and-principe-addresses-v9.zip",
+        "sizeBytes": 105159,
+        "version": "v9"
       }
     },
     {
