@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T09:25:38Z",
+  "lastUpdated": "2026-09-24T09:26:24Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1162,9 +1162,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/malta-v2/malta-addresses-v8.zip",
-        "sizeBytes": 1155984,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/malta-v2/malta-addresses-v9.zip",
+        "sizeBytes": 1865140,
+        "version": "v9"
       }
     },
     {
