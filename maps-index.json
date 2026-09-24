@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T10:48:21Z",
+  "lastUpdated": "2026-09-24T10:49:20Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -4016,9 +4016,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/new-caledonia-v2/new-caledonia-addresses-v8.zip",
-        "sizeBytes": 1631981,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/new-caledonia-v2/new-caledonia-addresses-v9.zip",
+        "sizeBytes": 2045108,
+        "version": "v9"
       }
     },
     {
