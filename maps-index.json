@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T06:42:43Z",
+  "lastUpdated": "2026-09-24T06:42:52Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -3568,9 +3568,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/cook-islands-v2/cook-islands-addresses-v8.zip",
-        "sizeBytes": 71450,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/cook-islands-v2/cook-islands-addresses-v9.zip",
+        "sizeBytes": 101124,
+        "version": "v9"
       }
     },
     {
