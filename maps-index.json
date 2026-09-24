@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T08:01:04Z",
+  "lastUpdated": "2026-09-24T08:01:25Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1414,9 +1414,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/isle-of-man-v2/isle-of-man-addresses-v8.zip",
-        "sizeBytes": 673342,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/isle-of-man-v2/isle-of-man-addresses-v9.zip",
+        "sizeBytes": 984444,
+        "version": "v9"
       }
     },
     {
