@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T20:13:14Z",
+  "lastUpdated": "2026-09-24T20:23:46Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -3185,9 +3185,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/iraq-v2/iraq-addresses-v8.zip",
-        "sizeBytes": 13673183,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/iraq-v2/iraq-addresses-v9.zip",
+        "sizeBytes": 20374524,
+        "version": "v9"
       },
       "version": "v2"
     },
