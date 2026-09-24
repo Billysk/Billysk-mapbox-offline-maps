@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T07:52:41Z",
+  "lastUpdated": "2026-09-24T07:56:01Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -4436,9 +4436,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/sierra-leone-v2/sierra-leone-addresses-v8.zip",
-        "sizeBytes": 612421,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/sierra-leone-v2/sierra-leone-addresses-v9.zip",
+        "sizeBytes": 1497488,
+        "version": "v9"
       }
     },
     {
