@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T09:19:58Z",
+  "lastUpdated": "2026-09-24T09:21:56Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -4184,9 +4184,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/turkmenistan-v2/turkmenistan-addresses-v8.zip",
-        "sizeBytes": 1086851,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/turkmenistan-v2/turkmenistan-addresses-v9.zip",
+        "sizeBytes": 1662335,
+        "version": "v9"
       }
     },
     {
