@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T20:00:28Z",
+  "lastUpdated": "2026-09-24T20:13:14Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -4800,9 +4800,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/israel-and-palestine-v2/israel-and-palestine-addresses-v8.zip",
-        "sizeBytes": 12978951,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/israel-and-palestine-v2/israel-and-palestine-addresses-v9.zip",
+        "sizeBytes": 17455787,
+        "version": "v9"
       }
     },
     {
