@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T20:23:46Z",
+  "lastUpdated": "2026-09-24T20:44:10Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1666,9 +1666,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/vietnam-v2/vietnam-addresses-v8.zip",
-        "sizeBytes": 14353346,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/vietnam-v2/vietnam-addresses-v9.zip",
+        "sizeBytes": 22852303,
+        "version": "v9"
       }
     },
     {
