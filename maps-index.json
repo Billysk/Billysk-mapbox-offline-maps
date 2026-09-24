@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T14:48:54Z",
+  "lastUpdated": "2026-09-24T14:58:58Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2850,9 +2850,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/ghana-v2/ghana-addresses-v8.zip",
-        "sizeBytes": 4073980,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/ghana-v2/ghana-addresses-v9.zip",
+        "sizeBytes": 6333563,
+        "version": "v9"
       }
     },
     {
