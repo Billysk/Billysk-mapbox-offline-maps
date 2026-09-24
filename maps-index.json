@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T20:44:10Z",
+  "lastUpdated": "2026-09-24T21:12:22Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1890,9 +1890,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/colombia-v2/colombia-addresses-v8.zip",
-        "sizeBytes": 15770257,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/colombia-v2/colombia-addresses-v9.zip",
+        "sizeBytes": 28046325,
+        "version": "v9"
       }
     },
     {
