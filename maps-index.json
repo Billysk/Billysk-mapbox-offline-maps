@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T06:43:17Z",
+  "lastUpdated": "2026-09-24T06:43:29Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -3764,9 +3764,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/tonga-v2/tonga-addresses-v8.zip",
-        "sizeBytes": 83539,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/tonga-v2/tonga-addresses-v9.zip",
+        "sizeBytes": 140462,
+        "version": "v9"
       }
     },
     {
