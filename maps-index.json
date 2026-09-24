@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T06:38:10Z",
+  "lastUpdated": "2026-09-24T06:40:31Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2878,9 +2878,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/senegal-v2/senegal-addresses-v8.zip",
-        "sizeBytes": 1538114,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/senegal-v2/senegal-addresses-v9.zip",
+        "sizeBytes": 3049609,
+        "version": "v9"
       }
     },
     {
@@ -5374,9 +5374,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/senegal-v2/senegal-addresses-v8.zip",
-        "sizeBytes": 1538114,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/senegal-v2/senegal-addresses-v9.zip",
+        "sizeBytes": 3049609,
+        "version": "v9"
       }
     },
     {
