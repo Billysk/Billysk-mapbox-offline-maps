@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T10:14:33Z",
+  "lastUpdated": "2026-09-24T10:17:00Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1722,9 +1722,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/cambodia-v2/cambodia-addresses-v8.zip",
-        "sizeBytes": 1422166,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/cambodia-v2/cambodia-addresses-v9.zip",
+        "sizeBytes": 2351624,
+        "version": "v9"
       }
     },
     {
