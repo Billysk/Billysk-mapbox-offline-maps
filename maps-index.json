@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T19:48:30Z",
+  "lastUpdated": "2026-09-24T20:00:28Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2402,9 +2402,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/pakistan-v2/pakistan-addresses-v8.zip",
-        "sizeBytes": 11425774,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/pakistan-v2/pakistan-addresses-v9.zip",
+        "sizeBytes": 19815914,
+        "version": "v9"
       }
     },
     {
