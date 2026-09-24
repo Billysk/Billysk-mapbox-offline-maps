@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T09:30:05Z",
+  "lastUpdated": "2026-09-24T09:33:48Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -3073,9 +3073,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/jamaica-v2/jamaica-addresses-v8.zip",
-        "sizeBytes": 1196682,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/jamaica-v2/jamaica-addresses-v9.zip",
+        "sizeBytes": 1752260,
+        "version": "v9"
       },
       "version": "v2"
     },
