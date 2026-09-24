@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T11:26:54Z",
+  "lastUpdated": "2026-09-24T11:28:31Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -966,9 +966,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/north-macedonia-v2/north-macedonia-addresses-v8.zip",
-        "sizeBytes": 2067200,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/north-macedonia-v2/north-macedonia-addresses-v9.zip",
+        "sizeBytes": 3067598,
+        "version": "v9"
       }
     },
     {
