@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T16:33:57Z",
+  "lastUpdated": "2026-09-24T16:42:42Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -5318,9 +5318,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/haiti-v2/haiti-addresses-v8.zip",
-        "sizeBytes": 6017250,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/haiti-v2/haiti-addresses-v9.zip",
+        "sizeBytes": 9724609,
+        "version": "v9"
       }
     },
     {
@@ -5346,9 +5346,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/haiti-v2/haiti-addresses-v8.zip",
-        "sizeBytes": 6017250,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/haiti-v2/haiti-addresses-v9.zip",
+        "sizeBytes": 9724609,
+        "version": "v9"
       }
     },
     {
