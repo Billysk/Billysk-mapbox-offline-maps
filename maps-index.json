@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T14:00:12Z",
+  "lastUpdated": "2026-09-24T14:03:54Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -938,9 +938,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/albania-v2/albania-addresses-v8.zip",
-        "sizeBytes": 3496739,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/albania-v2/albania-addresses-v9.zip",
+        "sizeBytes": 5207513,
+        "version": "v9"
       }
     },
     {
