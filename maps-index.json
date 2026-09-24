@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T06:44:57Z",
+  "lastUpdated": "2026-09-24T06:45:15Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -3792,9 +3792,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/comoros-v2/comoros-addresses-v8.zip",
-        "sizeBytes": 140963,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/comoros-v2/comoros-addresses-v9.zip",
+        "sizeBytes": 211057,
+        "version": "v9"
       }
     },
     {
