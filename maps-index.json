@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T22:35:12Z",
+  "lastUpdated": "2026-09-24T23:01:19Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1582,9 +1582,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/thailand-v2/thailand-addresses-v8.zip",
-        "sizeBytes": 19247298,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/thailand-v2/thailand-addresses-v9.zip",
+        "sizeBytes": 28808751,
+        "version": "v9"
       }
     },
     {
