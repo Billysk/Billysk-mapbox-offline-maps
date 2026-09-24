@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T09:21:56Z",
+  "lastUpdated": "2026-09-24T09:25:38Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2654,9 +2654,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/lebanon-v2/lebanon-addresses-v8.zip",
-        "sizeBytes": 1109637,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/lebanon-v2/lebanon-addresses-v9.zip",
+        "sizeBytes": 1965054,
+        "version": "v9"
       }
     },
     {
