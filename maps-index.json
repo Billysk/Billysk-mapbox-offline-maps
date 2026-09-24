@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T10:43:21Z",
+  "lastUpdated": "2026-09-24T10:46:37Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -3046,9 +3046,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/nicaragua-v2/nicaragua-addresses-v8.zip",
-        "sizeBytes": 1568101,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/nicaragua-v2/nicaragua-addresses-v9.zip",
+        "sizeBytes": 3115911,
+        "version": "v9"
       }
     },
     {
