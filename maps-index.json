@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T19:15:31Z",
+  "lastUpdated": "2026-09-24T19:26:11Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -994,9 +994,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/bosnia-v2/bosnia-addresses-v8.zip",
-        "sizeBytes": 10685257,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/bosnia-v2/bosnia-addresses-v9.zip",
+        "sizeBytes": 14269069,
+        "version": "v9"
       }
     },
     {
