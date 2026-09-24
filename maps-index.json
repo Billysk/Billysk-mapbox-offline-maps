@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T08:51:01Z",
+  "lastUpdated": "2026-09-24T08:52:06Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -4128,9 +4128,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/belize-v2/belize-addresses-v8.zip",
-        "sizeBytes": 977271,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/belize-v2/belize-addresses-v9.zip",
+        "sizeBytes": 1526454,
+        "version": "v9"
       }
     },
     {
