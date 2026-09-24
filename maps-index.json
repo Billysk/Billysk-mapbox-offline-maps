@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T06:55:51Z",
+  "lastUpdated": "2026-09-24T07:03:34Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -4968,9 +4968,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/somalia-v2/somalia-addresses-v8.zip",
-        "sizeBytes": 242011,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/somalia-v2/somalia-addresses-v9.zip",
+        "sizeBytes": 983466,
+        "version": "v9"
       }
     },
     {
