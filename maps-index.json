@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T11:40:55Z",
+  "lastUpdated": "2026-09-24T11:43:14Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2934,9 +2934,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/panama-v2/panama-addresses-v8.zip",
-        "sizeBytes": 2346846,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/panama-v2/panama-addresses-v9.zip",
+        "sizeBytes": 4093704,
+        "version": "v9"
       }
     },
     {
