@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T08:45:31Z",
+  "lastUpdated": "2026-09-24T08:50:28Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -4632,9 +4632,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/burkina-faso-v2/burkina-faso-addresses-v8.zip",
-        "sizeBytes": 862211,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/burkina-faso-v2/burkina-faso-addresses-v9.zip",
+        "sizeBytes": 1851651,
+        "version": "v9"
       }
     },
     {
