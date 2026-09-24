@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T09:10:06Z",
+  "lastUpdated": "2026-09-24T09:19:58Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2794,9 +2794,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/ethiopia-v2/ethiopia-addresses-v8.zip",
-        "sizeBytes": 1083803,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/ethiopia-v2/ethiopia-addresses-v9.zip",
+        "sizeBytes": 2080588,
+        "version": "v9"
       }
     },
     {
