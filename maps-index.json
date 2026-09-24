@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T06:43:49Z",
+  "lastUpdated": "2026-09-24T06:44:20Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -3876,9 +3876,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/vanuatu-v2/vanuatu-addresses-v8.zip",
-        "sizeBytes": 116105,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/vanuatu-v2/vanuatu-addresses-v9.zip",
+        "sizeBytes": 237960,
+        "version": "v9"
       }
     },
     {
