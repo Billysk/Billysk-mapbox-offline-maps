@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-25T01:15:49Z",
+  "lastUpdated": "2026-09-25T01:43:53Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -714,9 +714,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/greece-v2/greece-addresses-v8.zip",
-        "sizeBytes": 27473586,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/greece-v2/greece-addresses-v9.zip",
+        "sizeBytes": 40994854,
+        "version": "v9"
       }
     },
     {
