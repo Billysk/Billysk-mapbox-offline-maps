@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-25T18:02:42Z",
+  "lastUpdated": "2026-09-25T19:02:12Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -630,9 +630,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/finland-v2/finland-addresses-v8.zip",
-        "sizeBytes": 62856497,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/finland-v2/finland-addresses-v9.zip",
+        "sizeBytes": 72836153,
+        "version": "v9"
       }
     },
     {
