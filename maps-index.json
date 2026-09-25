@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-24T23:01:19Z",
+  "lastUpdated": "2026-09-25T00:06:27Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2822,9 +2822,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/tanzania-v2/tanzania-addresses-v8.zip",
-        "sizeBytes": 19889818,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/tanzania-v2/tanzania-addresses-v9.zip",
+        "sizeBytes": 28804307,
+        "version": "v9"
       }
     },
     {
