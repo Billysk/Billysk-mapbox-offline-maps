@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-25T14:42:05Z",
+  "lastUpdated": "2026-09-25T16:40:39Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2030,9 +2030,9 @@
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/india-v2/india-map-tiles.zip"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/india-v2/india-addresses-v8.zip",
-        "sizeBytes": 57562453,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/india-v2/india-addresses-v9.zip",
+        "sizeBytes": 118647402,
+        "version": "v9"
       }
     },
     {
