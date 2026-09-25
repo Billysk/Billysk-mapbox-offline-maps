@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-25T05:22:36Z",
+  "lastUpdated": "2026-09-25T08:29:03Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2206,9 +2206,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/indonesia-v2/indonesia-addresses-v8.zip",
-        "sizeBytes": 35919743,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/indonesia-v2/indonesia-addresses-v9.zip",
+        "sizeBytes": 67932896,
+        "version": "v9"
       }
     },
     {
