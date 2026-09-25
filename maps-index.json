@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-25T08:29:03Z",
+  "lastUpdated": "2026-09-25T08:39:56Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2738,9 +2738,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/uruguay-v2/uruguay-addresses-v8.zip",
-        "sizeBytes": 39267262,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/uruguay-v2/uruguay-addresses-v9.zip",
+        "sizeBytes": 41922661,
+        "version": "v9"
       }
     },
     {
