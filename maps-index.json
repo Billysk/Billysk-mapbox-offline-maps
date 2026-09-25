@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-25T02:47:34Z",
+  "lastUpdated": "2026-09-25T03:14:32Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1610,9 +1610,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/malaysia-v2/malaysia-addresses-v8.zip",
-        "sizeBytes": 31179203,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/malaysia-v2/malaysia-addresses-v9.zip",
+        "sizeBytes": 42553918,
+        "version": "v9"
       }
     },
     {
@@ -1638,9 +1638,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/malaysia-v2/malaysia-addresses-v8.zip",
-        "sizeBytes": 31179203,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/malaysia-v2/malaysia-addresses-v9.zip",
+        "sizeBytes": 42553918,
+        "version": "v9"
       }
     },
     {
@@ -5402,9 +5402,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/malaysia-v2/malaysia-addresses-v8.zip",
-        "sizeBytes": 31179203,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/malaysia-v2/malaysia-addresses-v9.zip",
+        "sizeBytes": 42553918,
+        "version": "v9"
       }
     }
   ]
