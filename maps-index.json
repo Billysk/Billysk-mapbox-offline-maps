@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-25T13:28:50Z",
+  "lastUpdated": "2026-09-25T13:57:18Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -826,9 +826,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/lithuania-v2/lithuania-addresses-v8.zip",
-        "sizeBytes": 52254096,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/lithuania-v2/lithuania-addresses-v9.zip",
+        "sizeBytes": 58503375,
+        "version": "v9"
       }
     },
     {
