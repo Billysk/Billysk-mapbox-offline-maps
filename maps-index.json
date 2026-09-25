@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-25T10:15:17Z",
+  "lastUpdated": "2026-09-25T10:47:04Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1526,9 +1526,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/south-korea-v2/south-korea-addresses-v8.zip",
-        "sizeBytes": 44070041,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/south-korea-v2/south-korea-addresses-v9.zip",
+        "sizeBytes": 62737028,
+        "version": "v9"
       }
     },
     {
