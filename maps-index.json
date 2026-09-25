@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-25T01:43:53Z",
+  "lastUpdated": "2026-09-25T02:12:35Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1806,9 +1806,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/saudi-arabia-v2/saudi-arabia-addresses-v8.zip",
-        "sizeBytes": 27764657,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/saudi-arabia-v2/saudi-arabia-addresses-v9.zip",
+        "sizeBytes": 38493726,
+        "version": "v9"
       }
     },
     {
@@ -2486,9 +2486,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/saudi-arabia-v2/saudi-arabia-addresses-v8.zip",
-        "sizeBytes": 27764657,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/saudi-arabia-v2/saudi-arabia-addresses-v9.zip",
+        "sizeBytes": 38493726,
+        "version": "v9"
       }
     },
     {
@@ -2514,9 +2514,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/saudi-arabia-v2/saudi-arabia-addresses-v8.zip",
-        "sizeBytes": 27764657,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/saudi-arabia-v2/saudi-arabia-addresses-v9.zip",
+        "sizeBytes": 38493726,
+        "version": "v9"
       }
     },
     {
@@ -2542,9 +2542,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/saudi-arabia-v2/saudi-arabia-addresses-v8.zip",
-        "sizeBytes": 27764657,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/saudi-arabia-v2/saudi-arabia-addresses-v9.zip",
+        "sizeBytes": 38493726,
+        "version": "v9"
       }
     },
     {
@@ -2570,9 +2570,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/saudi-arabia-v2/saudi-arabia-addresses-v8.zip",
-        "sizeBytes": 27764657,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/saudi-arabia-v2/saudi-arabia-addresses-v9.zip",
+        "sizeBytes": 38493726,
+        "version": "v9"
       }
     },
     {
@@ -2598,9 +2598,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/saudi-arabia-v2/saudi-arabia-addresses-v8.zip",
-        "sizeBytes": 27764657,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/saudi-arabia-v2/saudi-arabia-addresses-v9.zip",
+        "sizeBytes": 38493726,
+        "version": "v9"
       }
     },
     {
