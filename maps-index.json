@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-25T08:39:56Z",
+  "lastUpdated": "2026-09-25T09:15:00Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1862,9 +1862,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/chile-v2/chile-addresses-v8.zip",
-        "sizeBytes": 39753522,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/chile-v2/chile-addresses-v9.zip",
+        "sizeBytes": 52574233,
+        "version": "v9"
       }
     },
     {
