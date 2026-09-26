@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-26T02:33:32Z",
+  "lastUpdated": "2026-09-26T03:44:16Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1470,9 +1470,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/new-zealand-v2/new-zealand-addresses-v8.zip",
-        "sizeBytes": 114774276,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/new-zealand-v2/new-zealand-addresses-v9.zip",
+        "sizeBytes": 122875873,
+        "version": "v9"
       }
     },
     {
