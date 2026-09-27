@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-27T06:44:26Z",
+  "lastUpdated": "2026-09-27T15:45:54Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1554,9 +1554,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/taiwan-v2/taiwan-addresses-v8.zip",
-        "sizeBytes": 365206138,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/taiwan-v2/taiwan-addresses-v9.zip",
+        "sizeBytes": 259895159,
+        "version": "v9"
       }
     },
     {
