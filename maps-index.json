@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-30T09:47:29Z",
+  "lastUpdated": "2026-09-30T09:47:35Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -5109,7 +5109,7 @@
       },
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/cameroon-v2/cameroon-addresses-v9.zip",
-        "sizeBytes": 3671943,
+        "sizeBytes": 3772541,
         "version": "v9"
       }
     },
