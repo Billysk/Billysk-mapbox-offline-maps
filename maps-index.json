@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-30T10:22:41Z",
+  "lastUpdated": "2026-09-30T11:51:49Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -3270,7 +3270,7 @@
       },
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/uganda-v2/uganda-addresses-v9.zip",
-        "sizeBytes": 15284366,
+        "sizeBytes": 15536275,
         "version": "v9"
       },
       "version": "v2"
