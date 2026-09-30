@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-30T09:47:51Z",
+  "lastUpdated": "2026-09-30T09:47:57Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2235,7 +2235,7 @@
       },
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/myanmar-v2/myanmar-addresses-v9.zip",
-        "sizeBytes": 10330864,
+        "sizeBytes": 10481783,
         "version": "v9"
       }
     },
