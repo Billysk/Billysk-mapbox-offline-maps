@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-30T09:47:57Z",
+  "lastUpdated": "2026-09-30T09:48:03Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1779,7 +1779,7 @@
       },
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/nepal-v2/nepal-addresses-v9.zip",
-        "sizeBytes": 13114379,
+        "sizeBytes": 13560825,
         "version": "v9"
       }
     },
