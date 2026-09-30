@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-30T09:48:03Z",
+  "lastUpdated": "2026-09-30T10:22:41Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1947,7 +1947,7 @@
       },
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/south-africa-v2/south-africa-addresses-v9.zip",
-        "sizeBytes": 25599801,
+        "sizeBytes": 26059012,
         "version": "v9"
       }
     },
