@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-30T09:47:46Z",
+  "lastUpdated": "2026-09-30T09:47:51Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -4409,7 +4409,7 @@
       },
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/yemen-v2/yemen-addresses-v9.zip",
-        "sizeBytes": 8391931,
+        "sizeBytes": 8246510,
         "version": "v9"
       }
     },
