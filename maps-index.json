@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-30T09:47:21Z",
+  "lastUpdated": "2026-09-30T09:47:26Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2627,7 +2627,7 @@
       },
       "addresses": {
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/jordan-v2/jordan-addresses-v9.zip",
-        "sizeBytes": 2941440,
+        "sizeBytes": 2930106,
         "version": "v9"
       }
     },
