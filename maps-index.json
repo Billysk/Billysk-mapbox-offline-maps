@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-10-01T16:50:49Z",
+  "lastUpdated": "2026-10-01T16:51:22Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -462,9 +462,9 @@
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/france-v2/france-map-tiles.zip"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/france-v2/france-addresses-v8.zip",
-        "sizeBytes": 624645833,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/france-v2/france-addresses-v9.zip",
+        "sizeBytes": 817986957,
+        "version": "v9"
       }
     },
     {
