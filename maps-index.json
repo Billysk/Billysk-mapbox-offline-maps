@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-09-30T11:51:58Z",
+  "lastUpdated": "2026-10-01T07:29:50Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1498,9 +1498,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/japan-v2/japan-addresses-v8.zip",
-        "sizeBytes": 83004565,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/japan-v2/japan-addresses-v9.zip",
+        "sizeBytes": 139743741,
+        "version": "v9"
       }
     },
     {
