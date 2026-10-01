@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-10-01T07:30:20Z",
+  "lastUpdated": "2026-10-01T07:44:54Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -2084,9 +2084,9 @@
         "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/canada-v2/canada-map-tiles.zip"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/canada-v2/canada-addresses-v8.zip",
-        "sizeBytes": 338114681,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/canada-v2/canada-addresses-v9.zip",
+        "sizeBytes": 386111159,
+        "version": "v9"
       }
     },
     {
