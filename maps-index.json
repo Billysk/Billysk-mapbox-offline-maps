@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-10-01T07:29:50Z",
+  "lastUpdated": "2026-10-01T07:30:20Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1442,9 +1442,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/australia-v2/australia-addresses-v8.zip",
-        "sizeBytes": 221941665,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/australia-v2/australia-addresses-v9.zip",
+        "sizeBytes": 246059032,
+        "version": "v9"
       }
     },
     {
