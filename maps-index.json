@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "lastUpdated": "2026-10-01T08:19:52Z",
+  "lastUpdated": "2026-10-01T16:50:49Z",
   "regions": [
     {
       "id": "europe-highways",
@@ -1079,9 +1079,9 @@
         "version": "v2"
       },
       "addresses": {
-        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/united-kingdom-v2/united-kingdom-addresses-v8.zip",
-        "sizeBytes": 387153227,
-        "version": "v8"
+        "url": "https://github.com/Billysk/Billysk-mapbox-offline-maps/releases/download/united-kingdom-v2/united-kingdom-addresses-v9.zip",
+        "sizeBytes": 514362411,
+        "version": "v9"
       }
     },
     {
